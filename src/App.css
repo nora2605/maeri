@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+    themes: light --default;
+}
+
+@font-face {
+    font-family: LumahaSegment;
+    src: url(/LumahaSegment.woff2);
+}
+
+.font-lumaha {
+    font-family: LumahaSegment
+}

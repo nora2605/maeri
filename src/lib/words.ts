@@ -15,7 +15,6 @@ export const WORD_TYPES = <const> [
     "Adverb",
     "Conjunction",
     "Pronoun",
-    "Non-Inflectible Pronoun",
     "Exclamation",
     "Noun Suffix",
     "Noun Prefix",
@@ -25,6 +24,10 @@ export const WORD_TYPES = <const> [
     "Preposition"
 ];
 export type WordType = typeof WORD_TYPES[number];
+
+export function idFromEntry(entry: DictionaryEntry): string {
+    return `${entry.literal.toLowerCase()}-${entry.wordType.toLowerCase()}`;
+}
 
 export function generateDictionaryEntry(literal: string, wordType: WordType): DictionaryEntry {
     let ipa = generateIPAFromLiteral(literal);
@@ -60,7 +63,6 @@ function generateIPAFromLiteral(literal: string): string {
         a == "e" ? b == "i" :
         a == "ö" ? (["i", "ü"].includes(b)) :
         a == "o" ? (["i", "u"].includes(b)) :
-        a == "i" ? b == "e" :
         a == "ü" ? b == "i" :
         a == "u" ? (["a", "e", "o", "ö"].includes(b)) : false;
 

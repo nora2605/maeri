@@ -1,7 +1,8 @@
 import { Component, createMemo, createSignal, For } from "solid-js";
-import { allEntries, idFromEntry } from "../lib/io";
-import { DictionaryEntry, IdxToLit, WordType } from "../lib/words";
+import { DictionaryEntry, IdxToLit, WordType, idFromEntry } from "../lib/words";
 import { Router } from "../router";
+import Listen from "../components/Listen";
+import { entryCache } from "../App";
 
 const EntryCompact: Component<{ entry: DictionaryEntry }> = (props) => {
   const { literal, ipa, wordType, syllables, definitions } = props.entry;
@@ -10,7 +11,7 @@ const EntryCompact: Component<{ entry: DictionaryEntry }> = (props) => {
       <div class={`border rounded-box max-w-120 p-2 ${getWTClass(wordType)}`}>
         <div class="flex flex-row justify-start items-baseline space-x-3 *:whitespace-nowrap">  
           <h2 class="text-xl text-neutral">{literal}</h2>
-          <p class="text-md">/{ipa}/</p>
+          <p class="text-md">/{ipa}/ <Listen sound={`word/${literal}`} /></p>
           <p class="text-md">{IdxToLit(literal, syllables)}</p>
           <p class="text-md font-lumaha">{literal}</p>
           <p class="text-md grow text-right">{wordType}</p>
@@ -26,7 +27,6 @@ const EntryCompact: Component<{ entry: DictionaryEntry }> = (props) => {
 
 const Lexicon: Component = () => {
   let [query, setQuery] = createSignal("");
-  const entries = allEntries();
   function any<T>(iter: T[], pred: (_:T)=>boolean) {
     let a = false;
     for (let i = 0; i < iter.length; i++) {
@@ -38,11 +38,11 @@ const Lexicon: Component = () => {
     return a;
   }
   let filtered = createMemo(() => {
-    return entries.filter((e) =>
+    return entryCache().filter((e) =>
       e.literal.includes(query()) ||
       any(e.definitions, d => d.includes(query())) ||
       any(e.flexations, f => f.includes(query()))
-    )
+    ).toSorted((a, b) => a.literal.localeCompare(b.literal))
   });
 
   return (
@@ -78,7 +78,6 @@ export function getWTClass(wordType: WordType): string {
     case "Preposition":
       return "bg-orange-100 border-orange-200";
     case "Pronoun":
-    case "Non-Inflectible Pronoun":
       return "bg-purple-100 border-purple-200";
     case "Noun Suffix":
     case "Noun Prefix":

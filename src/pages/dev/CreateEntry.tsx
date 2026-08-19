@@ -1,9 +1,10 @@
 import { Component, createEffect, Repeat, For, SourceAccessor, Setter } from "solid-js";
-import { DictionaryEntry, generateDictionaryEntry, IdxToLit, LitToIdx, WORD_TYPES, type WordType } from "../../lib/words";
+import { DictionaryEntry, generateDictionaryEntry, idFromEntry, IdxToLit, LitToIdx, WORD_TYPES, type WordType } from "../../lib/words";
 import { createSignal } from "solid-js";
-import { getEntry, writeEntry } from "../../lib/io";
 import { getWTClass } from "../Lexicon";
 import { dynamic } from "@solidjs/web";
+import { entryCache } from "../../App";
+import JOHN from "johnjs";
 
 const TableInput: Component<{getter: SourceAccessor<string[]>, index: number}> = (props) => {
   return <input type="text" class="input input-sm" value={props.getter()[props.index]} onInput={e=>props.getter()[props.index]=e.target.value} />
@@ -122,12 +123,12 @@ const CreateEntry: Component = () => {
   let syllableInput!: HTMLInputElement;
 
   createEffect(() => {
-    let foundEntry = getEntry(`${literal().toLowerCase()}-${wordType().toLowerCase()}`);
+    let foundEntry = entryCache().find(e=>idFromEntry(e)===`${literal().toLowerCase()}-${wordType().toLowerCase()}`);
     return foundEntry ? {found: true, entry: foundEntry} : {found: false, entry: generateDictionaryEntry(literal(), wordType())};
   }, (e) => {
     let { found, entry } = e;
     ipaInput.value = entry.ipa;
-    syllableInput.value = found ? IdxToLit(entry.literal, entry.syllables) : literal();
+    syllableInput.value = found ? IdxToLit(entry.literal, entry.syllables) : entry.literal;
     setFlexations(entry.flexations);
     if (found) {
       setDefinitions(entry.definitions);
@@ -149,11 +150,14 @@ const CreateEntry: Component = () => {
       examples: examples(),
       flexations: flexations()
     } satisfies DictionaryEntry;
-    writeEntry(entry);
+    let _=fetch("http://localhost:3001/", {
+      method: "POST",
+      body: JSON.stringify(entry),
+    })
   };
 
   return (
-    <div class="w-full h-full flex flex-col justify-center items-center">
+    <div class="w-full h-full flex flex-col justify-start items-center">
       <fieldset
         class={`fieldset rounded-box p-4 border ${getWTClass(wordType())}`}
       >
@@ -229,7 +233,6 @@ const CreateEntry: Component = () => {
             class="btn btn-soft"
             onClick={(e) => {
               setLiteral("");
-              setWordType("Noun");
             }}
           >
             Clear

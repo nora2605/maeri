@@ -18,7 +18,9 @@
   "dependencies": {
     "@solidjs/router": "^2.0.0-next.16",
     "@solidjs/web": "^2.0.0-rc.0",
+    "@tailwindcss/typography": "^0.5.20",
     "@tailwindcss/vite": "^4.3.3",
+    "@types/bun": "^1.3.14",
     "daisyui": "^5.7.17",
     "johnjs": "^2.0.1",
     "solid-js": "^2.0.0-rc.0",

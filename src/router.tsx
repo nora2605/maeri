@@ -1,6 +1,6 @@
 import { createRouter, defineRoute, defineRoutes } from "@solidjs/router";
 import Lexicon from "./pages/Lexicon";
-import Grammar from "./pages/Grammar";
+import Guide from "./pages/Guide";
 import Analyzer from "./pages/Analyzer";
 import EntryPage from "./pages/EntryPage";
 import Nothing from "./pages/Nothing";
@@ -18,7 +18,7 @@ const devRoutes = [
 
 export const routes = defineRoutes([
     { path: "/", component: Lexicon },
-    { path: "/grammar", component: Grammar },
+    { path: "/guide", component: Guide },
     { path: "/analyzer", component: Analyzer },
     entryRoute,
     { path: "*404", component: Nothing },

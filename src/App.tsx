@@ -1,22 +1,38 @@
 import { isDev } from '@solidjs/web';
 import './App.css';
 import { Router } from './router';
+import { DictionaryEntry } from './lib/words';
+import JOHN from "johnjs";
+import { createMemo } from 'solid-js';
+
+export const entryCache = createMemo(async () => {
+  let res = await fetch("/dict.john");
+  if (!res.ok) return [];
+  return JOHN.parse(await res.text()) as DictionaryEntry[];
+});
 
 export default function App() {
+
+
   return (
     <Router>{(props) => (
       <div class="drawer lg:drawer-open">
         <input id="my-drawer-4" type="checkbox" class="drawer-toggle inline" />
-        <div class="drawer-content">
+        <div class="drawer-content h-screen flex flex-col">
           <nav class="navbar w-full bg-base-300">
             <label for="my-drawer-4" aria-label="open sidebar" class="btn btn-square btn-ghost drawer-button">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" fill="none" stroke="currentColor" class="my-1.5 inline-block size-4"><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z"></path><path d="M9 4v16"></path><path d="M14 10l2 2l-2 2"></path></svg>
             </label>
             <div class="px-4">Maeri</div>
           </nav>
-          <main class="p-4">
+          <main class="p-4 grow overflow-scroll">
             {props.children}
           </main>
+          <footer class="footer sm:footer-horizontal footer-center bg-base-300 text-base-content p-4">
+            <aside>
+              <p>Made by <a href="https://nojufe.de/" target="_blank" class="underline">Nojufe</a></p>
+            </aside>
+          </footer>
         </div>
 
         <div class="drawer-side is-drawer-close:overflow-visible">
@@ -30,9 +46,9 @@ export default function App() {
                 </a>
               </li>
               <li>
-                <a href={Router.paths.grammar} class="is-drawer-close:tooltip is-drawer-close:tooltip-right" data-tip="Grammar">
+                <a href={Router.paths.guide} class="is-drawer-close:tooltip is-drawer-close:tooltip-right" data-tip="Guide">
                   <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="my-1.5 inline-block size-4"><path stroke-linecap="round" stroke-linejoin="round" d="M4.26 10.147a60.438 60.438 0 0 0-.491 6.347A48.62 48.62 0 0 1 12 20.904a48.62 48.62 0 0 1 8.232-4.41 60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.636 50.636 0 0 0-2.658-.813A59.906 59.906 0 0 1 12 3.493a59.903 59.903 0 0 1 10.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.717 50.717 0 0 1 12 13.489a50.702 50.702 0 0 1 7.74-3.342M6.75 15a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5" /></svg>
-                  <span class="is-drawer-close:hidden">Grammar</span>
+                  <span class="is-drawer-close:hidden">Guide</span>
                 </a>
               </li>
               <li>

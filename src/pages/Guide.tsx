@@ -1,5 +1,6 @@
 import { Component } from "solid-js";
 import Listen from "../components/Listen";
+import { Meta, Title } from "@solidjs/meta";
 
 function CollapseH2(props: any) {
   return (<div class="collapse collapse-arrow">
@@ -25,6 +26,8 @@ const Guide: Component = (props) => {
 
   return (
     <div class="flex flex-col items-center h-full">
+      <Title>Maeri: Guide</Title>
+      <Meta name="og:title" content="Maeri: Guide" />
       <article class="prose lg:prose-lg lg:min-w-3/4">
         <h1 class="text-center">
           The Getriš Language Reference Guide

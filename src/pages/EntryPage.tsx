@@ -4,6 +4,7 @@ import entries from "../assets/dict.json";
 import { DictionaryEntry, idFromEntry, IdxToLit, WordType } from "../lib/words";
 import { getWTClass } from "./Lexicon";
 import Listen from "../components/Listen";
+import { Meta, Title } from "@solidjs/meta";
 
 const DeclensionTable: Component<{flexations: string[]}> = (props) => {
   return (
@@ -112,6 +113,9 @@ const EntryPage: Component<{id: string}> = ({ id }) => {
     return <Nothing />;
   return (
     <div class="flex flex-row justify-center">
+      <Title>Maeri: {entry.literal}</Title>
+      <Meta name="og:title" content={`Maeri: ${entry.literal}`} />
+      <Meta name="og:description" content={`Lexicon Entry for "${entry.literal}" (/${entry.ipa}/) meaning:\n${entry.definitions.join("\n")}`} />
       <div class={`border rounded-box w-full sm:w-2/3 p-2 ${getWTClass(entry.wordType)}`}>
         <div class="grid grid-cols-3 sm:flex sm:flex-row sm:justify-start items-baseline sm:space-x-3 *:whitespace-nowrap">
           <h2 class="text-base sm:text-xl text-neutral">{entry.literal}</h2>

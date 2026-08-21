@@ -7,14 +7,14 @@ import { entryCache } from "../App";
 const EntryCompact: Component<{ entry: DictionaryEntry }> = (props) => {
   const { literal, ipa, wordType, syllables, definitions } = props.entry;
   return (
-    <a href={Router.paths.entry(idFromEntry(props.entry))}>
-      <div class={`border rounded-box max-w-120 p-2 ${getWTClass(wordType)}`}>
-        <div class="flex flex-row justify-start items-baseline space-x-3 *:whitespace-nowrap">  
-          <h2 class="text-xl text-neutral">{literal}</h2>
-          <p class="text-md">/{ipa}/ <Listen sound={`word/${literal}`} /></p>
-          <p class="text-md">{IdxToLit(literal, syllables)}</p>
-          <p class="text-md font-lumaha">{literal}</p>
-          <p class="text-md grow text-right">{wordType}</p>
+    <a class="w-full sm:w-auto" href={Router.paths.entry(idFromEntry(props.entry))}>
+      <div class={`border rounded-box w-full p-2 ${getWTClass(wordType)}`}>
+        <div class="grid grid-cols-3 sm:flex sm:flex-row sm:justify-start items-baseline sm:space-x-3 *:whitespace-nowrap">
+          <h2 class="text-base sm:text-xl text-neutral">{literal}</h2>
+          <p class="text-xs text-neutral-600 sm:text-base">{IdxToLit(literal, syllables)}</p>
+          <p class="text-xs text-neutral-600 sm:text-base place-self-end sm:place-self-auto">/{ipa}/ <Listen sound={`word/${literal}`} /></p>
+          <p class="text-xs text-neutral-600 sm:text-base font-lumaha">{literal}</p>
+          <p class="text-xs text-neutral-600 sm:text-base col-span-2 sm:grow text-right">{wordType}</p>
         </div>
         <label class="label">Definitions</label>
         <ol class="list">
@@ -47,7 +47,7 @@ const Lexicon: Component = () => {
 
   return (
     <div class="flex flex-col justify-start">
-      <label class="input w-max m-1">
+      <label class="input w-full sm:w-max m-1">
         <svg class="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
           <g stroke-linejoin="round" stroke-linecap="round" stroke-width="2.5" fill="none" stroke="currentColor">
             <circle cx="11" cy="11" r="8"></circle>

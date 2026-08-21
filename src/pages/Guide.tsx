@@ -136,7 +136,7 @@ const Guide: Component = (props) => {
               in which case the second syllable is stressed instead.
             </p>
             <p>
-              Glottal stops are inserted inbetween vowels that do not form a diphthong together.
+              Glottal stops are inserted inbetween same vowels, and some vowel pairs that do not form diphthongs.
               For example, aa is pronounced /aʔa/.
               The following vowel combinations form diphthongs:
             </p>
@@ -157,7 +157,7 @@ const Guide: Component = (props) => {
               <li>üi (/ʏ͜ɪ/)</li>
             </ul>
             <p>
-              If you have difficulty pronouncing a uvular trill (/ʀ/), you can substitute it for an alveolar flap (/ɾ/) or alveolar trill (/r/)
+              If you have difficulty pronouncing a uvular trill (/ʀ/), you can substitute it for an alveolar flap (/ɾ/) or alveolar trill (/r/), or even a velar fricative (/x/).
             </p>
           </CollapseH3>
           <CollapseH3 title="Basic Syntax">
@@ -386,7 +386,7 @@ const Guide: Component = (props) => {
             </ul>
           </CollapseH3>
           <CollapseH3 title="Word Types: Prepositions and Operators">
-          
+            
           </CollapseH3>
           <CollapseH3 title="Numbers">
             <p>Getriš uses a dozenal number system (base 12). The 12 digits are</p>

@@ -441,7 +441,7 @@ const Guide: Component = (props) => {
             <p>144 is translated as <span class="bg-green-100">tarita</span>, 1728 as <span class="bg-green-100">garita</span>, 20736 as <span class="bg-green-100">parita</span> and 248832 as <span class="bg-green-100">tagarita</span></p>
             <p>To form numbers in this range take ever digit individually (1s are omitted): 123456 (base 12) is <span class="bg-green-100">tagaritšivparitgajgaritteirtaritprimökala</span></p>
             <p>The numbers 12^6 to 12^39 are, in 12^3 (3-digit group) distance, formed by taking the onset of the digit and appending the suffix <q>-uina</q>. 12^39 though is <span class="bg-green-100">rieina</span>, after which 12^42 is <span class="bg-green-100">riefluina</span>. No one wants to continue this pattern beyond its current definition.</p>
-            <p>To give a final example, here is the number 123456789AB0: <span class="bg-green-100">taritšivögajšuinateirtaritprimökalluinažoultagaritdamparitzulgarittensjtaritpartöa</span></p>
+            <p>To give a final example, here is the number 123456789AB0: <span class="bg-green-100">taritšivögajšuina-teirtaritprimökalluina-žoultagaritdamparitzulgarit-tensjtaritpartöa</span> (hyphens for small screens)</p>
             <p>Usually these clusters don't only look bad, but are also hard to pronounce. So the adjective -a ending is free to be inserted anywhere.</p>
             <p>Numbers act as adjectives grammatically. If they should act as a noun (if referring to digits as a thing for example), replace the final a with i.</p>
             <p>To make the inverse of a number, use <span class="bg-pink-100">ur</span> as suffix instead of <span class="bg-pink-100">a</span></p>
@@ -521,32 +521,34 @@ const Guide: Component = (props) => {
             <p>
               Additionally to noun phrases, conjunctions can also attach to full clauses in which case they form subclauses. The different conjunctions then determine the relation the subclause has to the main clause (causal, local, temporal, etc.)
             </p>
-            <table>
-              <thead>
-                <tr><th>Conjunction</th><th>Type</th><th>Translation</th><th>Translation as Question Word</th></tr>
-              </thead>
-              <tbody>
-                <tr><td>ar</td><td>restrictive</td><td>but</td><td>What's the catch?, But...?</td></tr>
-                <tr><td>diru</td><td>themative</td><td>about, concerning, regarding</td><td>About what?</td></tr>
-                <tr><td>düžu</td><td>consecutive</td><td>so ... that</td><td>So that?</td></tr>
-                <tr><td>ju</td><td>modal</td><td>how</td><td>How?</td></tr>
-                <tr><td>janu</td><td>conditional</td><td>unless</td><td>Unless...?</td></tr>
-                <tr><td>jegu</td><td>local</td><td>where</td><td>Where?</td></tr>
-                <tr><td>kon</td><td>accusative</td><td>that, whether</td><td>Whom?, What?</td></tr>
-                <tr><td>mudu</td><td>conditional</td><td>if, when, whether</td><td>When?</td></tr>
-                <tr><td>nju</td><td>nominative</td><td>who, which</td><td>Who?, What?</td></tr>
-                <tr><td>rinšu</td><td>concessive</td><td>even though</td><td>Even though...?</td></tr>
-                <tr><td>rinu</td><td>adversative</td><td>while, instead of, although, however</td><td>However...?</td></tr>
-                <tr><td>sku</td><td>numerical</td><td>how much, how many</td><td>How much?, How many?</td></tr>
-                <tr><td>taeu</td><td>dative</td><td>for, to</td><td>To what?</td></tr>
-                <tr><td>vahju</td><td>causal</td><td>because, due to</td><td>Why?</td></tr>
-                <tr><td>vakju</td><td>causal-consecutive</td><td>therefore, so</td><td>Wherefore? (REFERENCEEEEE)</td></tr>
-                <tr><td>zahu</td><td>proportionalitive</td><td>the more ..., the more ...</td><td>(honestly no clue)</td></tr>
-                <tr><td>zatru</td><td>final</td><td>so that</td><td>With what objective?</td></tr>
-                <tr><td>žiku</td><td>temporal (instant)</td><td>when</td><td>When?, At what point (in time)?</td></tr>
-                <tr><td>žitu</td><td>temporal (period)</td><td>during</td><td>During which time?</td></tr>
-              </tbody>
-            </table>
+            <div class="overflow-x-scroll w-full max-w-full">
+              <table>
+                <thead>
+                  <tr><th>Conjunction</th><th>Type</th><th>Translation</th><th>Translation as Question Word</th></tr>
+                </thead>
+                <tbody>
+                  <tr><td>ar</td><td>restrictive</td><td>but</td><td>What's the catch?, But...?</td></tr>
+                  <tr><td>diru</td><td>themative</td><td>about, concerning, regarding</td><td>About what?</td></tr>
+                  <tr><td>düžu</td><td>consecutive</td><td>so ... that</td><td>So that?</td></tr>
+                  <tr><td>ju</td><td>modal</td><td>how</td><td>How?</td></tr>
+                  <tr><td>janu</td><td>conditional</td><td>unless</td><td>Unless...?</td></tr>
+                  <tr><td>jegu</td><td>local</td><td>where</td><td>Where?</td></tr>
+                  <tr><td>kon</td><td>accusative</td><td>that, whether</td><td>Whom?, What?</td></tr>
+                  <tr><td>mudu</td><td>conditional</td><td>if, when, whether</td><td>When?</td></tr>
+                  <tr><td>nju</td><td>nominative</td><td>who, which</td><td>Who?, What?</td></tr>
+                  <tr><td>rinšu</td><td>concessive</td><td>even though</td><td>Even though...?</td></tr>
+                  <tr><td>rinu</td><td>adversative</td><td>while, instead of, although, however</td><td>However...?</td></tr>
+                  <tr><td>sku</td><td>numerical</td><td>how much, how many</td><td>How much?, How many?</td></tr>
+                  <tr><td>taeu</td><td>dative</td><td>for, to</td><td>To what?</td></tr>
+                  <tr><td>vahju</td><td>causal</td><td>because, due to</td><td>Why?</td></tr>
+                  <tr><td>vakju</td><td>causal-consecutive</td><td>therefore, so</td><td>Wherefore? (REFERENCEEEEE)</td></tr>
+                  <tr><td>zahu</td><td>proportionalitive</td><td>the more ..., the more ...</td><td>(honestly no clue)</td></tr>
+                  <tr><td>zatru</td><td>final</td><td>so that</td><td>With what objective?</td></tr>
+                  <tr><td>žiku</td><td>temporal (instant)</td><td>when</td><td>When?, At what point (in time)?</td></tr>
+                  <tr><td>žitu</td><td>temporal (period)</td><td>during</td><td>During which time?</td></tr>
+                </tbody>
+              </table>
+            </div>
             <h4>Infinitive Constructions</h4>
             <p>
               The conjunction <span class="bg-orange-100">fu</span> together with a verb constitutes an infinitive construction. It substitutes an object, with the meaning of the action of the verb. It can also take adverbial specification.

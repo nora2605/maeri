@@ -91,9 +91,7 @@ export function getWTClass(wordType: WordType): string {
       return "bg-orange-100 border-orange-200";
     case "Pronoun":
       return "bg-purple-100 border-purple-200";
-    case "Noun Suffix":
-    case "Noun Prefix":
-    case "Verb Suffix":
+    case "Affix":
       return "bg-pink-100 border-pink-200";
     case "Exclamation":
     case "Onomatopoeia":

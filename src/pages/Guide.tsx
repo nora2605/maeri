@@ -189,6 +189,9 @@ const Guide: Component = (props) => {
             <p>
               This term means: good book.
             </p>
+            <p>
+              If the subject is omitted, it can be inferred from context. Usually this is a personal pronoun (most commonly I), or referring to the last clause, in which case using the demonstrative pronoun <q>a</q> is more common.
+            </p>
           </CollapseH3>
           <CollapseH3 title="Word Type: Noun">
             <p>
@@ -384,9 +387,25 @@ const Guide: Component = (props) => {
               <li><span class="bg-orange-100">žiku</span>: When (Temporal)</li>
               <li><span class="bg-orange-100">vahju</span>: Why (Causal)</li>
             </ul>
+            <p>
+              Colloquially, when not understanding something, there are alternative exclamations that can replace a grammatically correct question:
+            </p>
+            <ul>
+              <li><span class="bg-teal-100">koi</span>: What? (informal)</li>
+              <li><span class="bg-teal-100">hee</span>: What? (acoustic)</li>
+              <li><span class="bg-teal-100">nui</span>: What? (semantic)</li>
+            </ul>
           </CollapseH3>
           <CollapseH3 title="Word Types: Prepositions and Operators">
-            
+            <p>
+              Prepositions are words that stand in front of a phrase that they refer to. Together with that phrase they form an adverbial phrase. <q>on</q>, <q>in</q> and <q>with</q> are common prepositions.
+            </p>
+            <p>
+              Operators on the other hand stand inbetween 2 phrases and act as conjunctions, but do not form subclauses. <q>and</q>, <q>or</q> and <q>plus</q> are common operators.
+            </p>
+            <p>
+              Opposed to german/(sometimes english?), noun phrases are not declensed after prepositions.
+            </p>
           </CollapseH3>
           <CollapseH3 title="Numbers">
             <p>Getriš uses a dozenal number system (base 12). The 12 digits are</p>
@@ -458,16 +477,109 @@ const Guide: Component = (props) => {
         <CollapseH2 title="Advanced Concepts">
           <CollapseH3 title="Adverbial Constructions and Subclauses">
             <h4>Adverbial Constructions</h4>
-            <h4>Prepositional Phrases</h4>
+            <p>
+              Adverbial constructions are composed of a conjunction or preposition and a noun phrase.
+              In a sentence they take the role of an adverbial phrase.
+              For example:
+              <br/>
+              <span class="bg-yellow-100">lüpal</span> <span class="bg-blue-100">hain</span> <span class="bg-purple-100">pen</span> <span class="bg-orange-100">jegu</span> <span class="bg-red-100">amsi</span>
+              <br/>
+              translates to <q>Again, we're at the bridge</q>. <i>at the bridge</i> is an adverbial construction of <i>locality</i>.
+              In this sentence, <q>jegu amsi</q> would literally be translated as <i>where the bridge is</i>, but semantically <i>at</i> is more appropriate.
+              All conjunctions can be translated with a primitive subclause like this but should be translated with an equivalent preposition in english.
+            </p>
             <h4>Relative Clauses</h4>
+            <p>
+              A relative clause is a clause defining a noun phrase further by using a subclause. In Getriš, relative clauses are introduced using the conjunction <span class="bg-orange-100">nju</span>.
+              For example:
+              <br/>
+              <span class="bg-red-100">maeri</span> <span class="bg-orange-100">nju</span> <span class="bg-blue-100">marin</span> <span class="bg-purple-100">pi</span>
+              <br/>
+              translates to <q>the book, that I read</q> or <q>the book, which I read</q>. A relative clause without a noun phrase it refers to is a subject clause (below).
+            </p>
             <h4>Subject and Object Clauses</h4>
+            <p>
+              Subject clauses substitute the subject of a sentence with a subclause and Object clauses substitute the object. They're introduced by <span class="bg-orange-100">nju</span> and <span class="bg-orange-100">kon</span> respectively.
+              For example:
+              <br/>
+              <span class="bg-blue-100">rugjin</span> <span class="bg-orange-100">nju</span> <span class="bg-blue-100">marin</span>
+              <br/>
+              Which can be translated as <q>who reads knows</q> but in english is probably more accurately said as <q>Those, who read, know</q>.
+            </p>
+            <p>
+              An object sentence is common in indirect speech:
+              <br/>
+              <span class="bg-blue-100">heitum</span> <span class="bg-purple-100">hi</span> <span class="bg-orange-100">kon</span> <span class="bg-blue-100">marin</span> <span class="bg-purple-100">hi</span> <span class="bg-red-100">maerim</span>
+              <br/>
+              translates to <q>They said, that they read a book</q>. In english this is commonly shorted to <q>They said they read a book</q>.
+            </p>
             <h4>Subclauses</h4>
+            <p>
+              Additionally to noun phrases, conjunctions can also attach to full clauses in which case they form subclauses. The different conjunctions then determine the relation the subclause has to the main clause (causal, local, temporal, etc.)
+            </p>
+            <table>
+              <thead>
+                <tr><th>Conjunction</th><th>Type</th><th>Translation</th><th>Translation as Question Word</th></tr>
+              </thead>
+              <tbody>
+                <tr><td>ar</td><td>restrictive</td><td>but</td><td>What's the catch?, But...?</td></tr>
+                <tr><td>diru</td><td>themative</td><td>about, concerning, regarding</td><td>About what?</td></tr>
+                <tr><td>düžu</td><td>consecutive</td><td>so ... that</td><td>So that?</td></tr>
+                <tr><td>ju</td><td>modal</td><td>how</td><td>How?</td></tr>
+                <tr><td>janu</td><td>conditional</td><td>unless</td><td>Unless...?</td></tr>
+                <tr><td>jegu</td><td>local</td><td>where</td><td>Where?</td></tr>
+                <tr><td>kon</td><td>accusative</td><td>that, whether</td><td>Whom?, What?</td></tr>
+                <tr><td>mudu</td><td>conditional</td><td>if, when, whether</td><td>When?</td></tr>
+                <tr><td>nju</td><td>nominative</td><td>who, which</td><td>Who?, What?</td></tr>
+                <tr><td>rinšu</td><td>concessive</td><td>even though</td><td>Even though...?</td></tr>
+                <tr><td>rinu</td><td>adversative</td><td>while, instead of, although, however</td><td>However...?</td></tr>
+                <tr><td>sku</td><td>numerical</td><td>how much, how many</td><td>How much?, How many?</td></tr>
+                <tr><td>taeu</td><td>dative</td><td>for, to</td><td>To what?</td></tr>
+                <tr><td>vahju</td><td>causal</td><td>because, due to</td><td>Why?</td></tr>
+                <tr><td>vakju</td><td>causal-consecutive</td><td>therefore, so</td><td>Wherefore? (REFERENCEEEEE)</td></tr>
+                <tr><td>zahu</td><td>proportionalitive</td><td>the more ..., the more ...</td><td>(honestly no clue)</td></tr>
+                <tr><td>zatru</td><td>final</td><td>so that</td><td>With what objective?</td></tr>
+                <tr><td>žiku</td><td>temporal (instant)</td><td>when</td><td>When?, At what point (in time)?</td></tr>
+                <tr><td>žitu</td><td>temporal (period)</td><td>during</td><td>During which time?</td></tr>
+              </tbody>
+            </table>
             <h4>Infinitive Constructions</h4>
+            <p>
+              The conjunction <span class="bg-orange-100">fu</span> together with a verb constitutes an infinitive construction. It substitutes an object, with the meaning of the action of the verb. It can also take adverbial specification.
+              <br/>
+              <span class="bg-blue-100">seruitum</span> <span class="bg-purple-100">pi</span> <span class="bg-orange-100">fu</span> <span class="bg-blue-100">akuin</span> <span class="bg-yellow-100">jehie</span>
+              <br/>
+              translates to <q>I forgot to clean everywhere</q>.
+            </p>
             <h4>Appositions</h4>
+            <p>
+              Appositions are non-clause constructions that give more detail to a noun phrase, commonly used on names to add titles or a description.
+              <q>Zel, the good person, reads a book</q>
+              can be translated as
+              <br/>
+              <span class="bg-blue-100">marin</span> <span class="bg-red-100">zel</span>, <span class="bg-green-100">luka</span> <span class="bg-red-100">ske</span>, <span class="bg-red-100">maerim</span>.
+              <br/>
+              This is just a change of word order. Objects in the sentence must be excplicitly declensed.
+            </p>
           </CollapseH3>
           <CollapseH3 title="Modal Verbs">
+            <p>
+              Modal verbs are auxiliary verbs that modify another verb. They take a clause as object without an infinitive construction. Common modal verbs are <q>can</q>, <q>may</q>, <q>might</q>, <q>must</q>, <q>shall</q>
+            </p>
           </CollapseH3>
           <CollapseH3 title="Passive Voice">
+          <p>
+            The passive voice flips the subject and direct object's roles in the clause. To instead take the role of the indirect object, a direct object must be given or the preposition <span class="bg-orange-100">taeu</span> used on the subject. In Getriš the syntax stays the same, the passivity is indicated by the suffix <span class="bg-pink-100">fe</span> on the predicate.
+            Compare:
+            <br/>
+            <span class="bg-verb-100">trugin</span> <span class="bg-purple-100">pi</span> <span class="bg-purple-100">tim</span>: <q>I expect you</q>
+            <span class="bg-verb-100">truginfe</span> <span class="bg-purple-100">pi</span> <span class="bg-orange-100">šju</span> <span class="bg-purple-100">ti</span>: <q>I'm being expected by you</q>
+          </p>
+          <p>
+            A few common phrases use the passive: <span class="bg-blue-100">nestrinfe</span>, lit. to be called, is the default way to say <q>My name is ...</q>, as in <q>I'm being called ...</q>.
+            <br/>
+            <span class="bg-blue-100">mudinfe</span>, lit. to be happened, is used in the question <q>How are you?</q>, as <q>What's being happened?</q>, because it implies that whomever you're asking is causing the events.
+          </p>
           </CollapseH3>
           <CollapseH3 title="Participles">
             <p>
@@ -490,6 +602,9 @@ const Guide: Component = (props) => {
             </p>
           </CollapseH3>
           <CollapseH3 title="Mood Markers and Fillers">
+            <p>
+              There are certain modal particles such as <q>leu</q>, <q>pou</q>, <q>hau</q> that can indicate a mood and act as filler words in a sentence. They are considered informal but can convey information about which parts of the sentiment are expected, or expected to be known.
+            </p>
           </CollapseH3>
           <CollapseH3 title="Rare Constructions">
             <h4>Lone adjective construction</h4>
@@ -497,17 +612,71 @@ const Guide: Component = (props) => {
             <h4>Progressive, Imperfect and Perfect</h4>
           </CollapseH3>
           <CollapseH3 title="Occasionality and Specificity">
+            <p>
+              Occasionality modifiers such as <q>always</q>, <q>sometimes</q>, <q>occasionally</q>, as well as probability of an action are conveyed through verb suffixes.
+              <br/>
+              <span class="bg-blue-100">heinaňle</span> <span class="bg-purple-100">pi</span>
+              <br/>
+              means <q>I never speak.</q> While <i>aňle</i> can be used as an adverb as well, this form is more common.
+            </p>
+            <p>
+              Since Getriš does not have words for the demonstrative pronouns starting with <q>any-</q>, or the word <q>any</q>, or determined or undetermined articles,
+              this information is conveyed through context or the noun suffix <span class="bg-pink-100">sau</span>, which fulfills the role of <q>any</q>.
+              Other specificity markers include <span class="bg-pink-100">mae</span> (some, some of, many), <span class="bg-pink-100">mi</span> (all of, each), <span class="bg-pink-100">uloi</span> (only, sole, single).
+            </p>
           </CollapseH3>
           <CollapseH3 title="Direct and Indirect Speech, Enumerations">
+            <p>
+              Direct speech enclosed in quotes „...“ substitutes an object.
+            </p>
+            <p>
+              Indirect speech can be conveyed roughly via a themative object, or more concretely with an object clause with <span class="bg-orange-100">kon</span>
+            </p>
+            <p>
+              Enumerations in Getriš are separated by semicola (;) and substitute any part of speech with multiple. Since no parts of speech are in agreement, the rest of the clause is not affected by this.
+              Affixes can be applied to the whole group with a hyphen and optionally enclosing parantheses.
+              For clarity, in speech, a semicolon can be spoken as /ʏ/.
+            </p>
           </CollapseH3>
           <CollapseH3 title="Morphology">
             <h4>Concatenative</h4>
+            <p>
+              When forming a single unit of meaning, words can be concatenated to form a new word. Typically a common ending is then stripped (adjective -a, noun -i, verb -in).
+              Loose Concatenation refers to 2 nouns, with space inbetween, that do not form a grammatical unit but a semantical one. This is common with materials, colors and shapes. Only the last noun of a loose concatenation has to be declensed,
+              the others are treated as adjectives, even without the suffix.
+            </p>
             <h4>Adjectivization</h4>
+            <p>
+              Adjectives can be formed by adding the suffix -a to another word, typically nouns or verbs. The meaning of it depends but is typically equivalent to adding -y to the english translation.
+            </p>
             <h4>Nominalization</h4>
-            <p>TODO: -or, -ee</p>
+            <p>
+              Nominalization from adjectives refers to the quality as a concept, e.g. <span class="bg-green-100">da</span> (warm), <span class="bg-red-100">di</span> (warmth).
+              It's formed by replacing the adjective ending -a with the noun ending -i.
+            </p>
+            <p>
+              Nominalization from verbs can be achieved with different suffixes: <span class="bg-pink-100">-ai</span> refers to the actor, <span class="bg-pink-100">-ie</span> to the direct object, <span class="bg-pink-100">-spi</span> to the process.
+              Sometimes, the stem or the stem with the noun ending -i or -o also has a meaning (usually -ation).
+            </p>
             <h4>Verbalization</h4>
+            <p>
+              Verbalization with the ending -in on a noun or adjective is usually equivalent to adding -ing in the english translation.
+              In the case of adjectives it refers to the process of adjusting something towards that quality, e.g. <span class="bg-green-100">da</span> (warm), <span class="bg-blue-100">dain</span> (to warm (up))
+            </p>
           </CollapseH3>
           <CollapseH3 title="Colors">
+            <p>
+              Colors in Getriš are not treated as adjectives but nouns, which makes them deserve this extra section.
+              To say something has a certain color, you can use the possessive of the color (like in japanese), or loosely concatenate it.
+              Making the color an adjective loosens its meaning.
+              For example:
+              <br />
+              <span class="bg-red-100">haoup</span> <span class="bg-red-100">ebek</span>: red ball
+              <br />
+              <span class="bg-red-100">haoupši</span> <span class="bg-red-100">ebek</span>: red ball
+              <br />
+              <span class="bg-green-100">haoupa</span> <span class="bg-red-100">ebek</span>: reddish ball
+            </p>
           </CollapseH3>
           <CollapseH3 title="Date and Time">
             <p>Note in this section, that Getriš is not spoken on Earth. Their date and time system is a little different...</p>

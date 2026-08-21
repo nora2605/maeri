@@ -543,7 +543,7 @@
   },
   {
     "literal": "ablue",
-    "wordType": "Verb Suffix",
+    "wordType": "Affix",
     "definitions": [
       "always"
     ],
@@ -814,7 +814,7 @@
   },
   {
     "literal": "ai",
-    "wordType": "Noun Suffix",
+    "wordType": "Affix",
     "definitions": [
       "-or/-er (subject of an action)"
     ],
@@ -836,7 +836,7 @@
   },
   {
     "literal": "ie",
-    "wordType": "Noun Suffix",
+    "wordType": "Affix",
     "definitions": [
       "-ee (direct object of action)"
     ],
@@ -870,17 +870,6 @@
       "ajahia",
       "ajaňa"
     ]
-  },
-  {
-    "literal": "aja samili",
-    "wordType": "Exclamation",
-    "definitions": [
-      "greetings (lit. nice face)"
-    ],
-    "syllables": [],
-    "ipa": "ˈaja ˈsamili",
-    "examples": [],
-    "flexations": []
   },
   {
     "literal": "ajaja",
@@ -1515,5 +1504,46 @@
       "aeöitae",
       "aeöimurtae"
     ]
+  },
+  {
+    "literal": "aňle",
+    "wordType": "Affix",
+    "definitions": [
+      "never"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈaŋle",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "aňle",
+    "wordType": "Exclamation",
+    "definitions": [
+      "no way"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈaŋle",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "aja samili",
+    "wordType": "Exclamation",
+    "definitions": [
+      "greetings (lit. nice face)"
+    ],
+    "syllables": [
+      1,
+      6,
+      8
+    ],
+    "ipa": "ˈaja ˈsamili",
+    "examples": [],
+    "flexations": []
   }
 ]

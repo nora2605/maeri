@@ -16,9 +16,7 @@ export const WORD_TYPES = <const> [
     "Conjunction",
     "Pronoun",
     "Exclamation",
-    "Noun Suffix",
-    "Noun Prefix",
-    "Verb Suffix",
+    "Affix",
     "Onomatopoeia",
     "Operator",
     "Preposition"

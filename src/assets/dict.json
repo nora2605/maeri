@@ -1,0 +1,1519 @@
+[
+  {
+    "literal": "pi",
+    "wordType": "Pronoun",
+    "definitions": [
+      "I (first person pronoun)"
+    ],
+    "syllables": [],
+    "ipa": "ˈpi",
+    "examples": [],
+    "flexations": [
+      "piň",
+      "pi",
+      "pen",
+      "pimaň",
+      "pim",
+      "pimen",
+      "pirň",
+      "pirn",
+      "pren",
+      "pišaň",
+      "pša",
+      "pišaen",
+      "piňši",
+      "pši",
+      "penši"
+    ]
+  },
+  {
+    "literal": "luka",
+    "wordType": "Adjective",
+    "definitions": [
+      "good"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈluka",
+    "examples": [],
+    "flexations": [
+      "luka",
+      "lukagua",
+      "lukahia",
+      "lukaňa"
+    ]
+  },
+  {
+    "literal": "afo",
+    "wordType": "Noun",
+    "definitions": [
+      "air"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈafo",
+    "examples": [],
+    "flexations": [
+      "afoň",
+      "afo",
+      "afoen",
+      "afomaň",
+      "afom",
+      "afomen",
+      "aforň",
+      "aforn",
+      "aforen",
+      "afošaň",
+      "afoša",
+      "afošaen",
+      "afoňši",
+      "afoši",
+      "afoenši"
+    ]
+  },
+  {
+    "literal": "aezi",
+    "wordType": "Noun",
+    "definitions": [
+      "feather"
+    ],
+    "syllables": [
+      1,
+      2
+    ],
+    "ipa": "aˈʔezi",
+    "examples": [],
+    "flexations": [
+      "aeziň",
+      "aezi",
+      "aezen",
+      "aezimaň",
+      "aezim",
+      "aezimen",
+      "aezirň",
+      "aezirn",
+      "aeziren",
+      "aezišaň",
+      "aeziša",
+      "aezišaen",
+      "aeziňši",
+      "aeziši",
+      "aezenši"
+    ]
+  },
+  {
+    "literal": "adobi",
+    "wordType": "Noun",
+    "definitions": [
+      "brick"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈadobi",
+    "examples": [],
+    "flexations": [
+      "adobiň",
+      "adobi",
+      "adoben",
+      "adobimaň",
+      "adobim",
+      "adobimen",
+      "adobirň",
+      "adobirn",
+      "adobren",
+      "adobišaň",
+      "adobiša",
+      "adobišaen",
+      "adobiňši",
+      "adobiši",
+      "adobenši"
+    ]
+  },
+  {
+    "literal": "aehjetsi",
+    "wordType": "Noun",
+    "definitions": [
+      "oak"
+    ],
+    "syllables": [
+      2,
+      6
+    ],
+    "ipa": "ˈa͜eçɜtsi",
+    "examples": [],
+    "flexations": [
+      "aehjetsiň",
+      "aehjetsi",
+      "aehjetsen",
+      "aehjetsmaň",
+      "aehjetsim",
+      "aehjetsmen",
+      "aehjetsirň",
+      "aehjetsirn",
+      "aehjetsren",
+      "aehjetsšaň",
+      "aehjetsša",
+      "aehjetsšaen",
+      "aehjetsiňši",
+      "aehjetsši",
+      "aehjetsenši"
+    ]
+  },
+  {
+    "literal": "aeko",
+    "wordType": "Noun",
+    "definitions": [
+      "oxygen"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈa͜eko",
+    "examples": [],
+    "flexations": [
+      "aekoň",
+      "aeko",
+      "aekoen",
+      "aekomaň",
+      "aekom",
+      "aekomen",
+      "aekorň",
+      "aekorn",
+      "aekoren",
+      "aekošaň",
+      "aekoša",
+      "aekošaen",
+      "aekoňši",
+      "aekoši",
+      "aekoenši"
+    ]
+  },
+  {
+    "literal": "pröko",
+    "wordType": "Noun",
+    "definitions": [
+      "shit, poop"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈpʀœko",
+    "examples": [],
+    "flexations": [
+      "prökoň",
+      "pröko",
+      "prökoen",
+      "prökomaň",
+      "prökom",
+      "prökomen",
+      "prökorň",
+      "prökorn",
+      "prökoren",
+      "prökošaň",
+      "prökoša",
+      "prökošaen",
+      "prökoňši",
+      "prökoši",
+      "prökoenši"
+    ]
+  },
+  {
+    "literal": "a",
+    "wordType": "Pronoun",
+    "definitions": [
+      "that (referring to last clause)"
+    ],
+    "syllables": [],
+    "ipa": "ˈa",
+    "examples": [
+      [
+        "mön a rusza",
+        "that's interesting"
+      ]
+    ],
+    "flexations": [
+      "",
+      "a",
+      "",
+      "",
+      "am",
+      "",
+      "",
+      "arn",
+      "",
+      "",
+      "aša",
+      "",
+      "",
+      "aši",
+      ""
+    ]
+  },
+  {
+    "literal": "lüpganjujuks",
+    "wordType": "Noun",
+    "definitions": [
+      "refridgerator"
+    ],
+    "syllables": [
+      3,
+      6,
+      8
+    ],
+    "ipa": "ˌlypganˈjujʊk͜s",
+    "examples": [],
+    "flexations": [
+      "lüpganjujuksaň",
+      "lüpganjujuks",
+      "lüpganjujuksen",
+      "lüpganjujuksmaň",
+      "lüpganjujuksüm",
+      "lüpganjujuksmen",
+      "lüpganjujuksarň",
+      "lüpganjujuksarn",
+      "lüpganjujuksren",
+      "lüpganjujuksšaň",
+      "lüpganjujuksša",
+      "lüpganjujuksšaen",
+      "lüpganjujuksaňši",
+      "lüpganjujuksši",
+      "lüpganjujuksenši"
+    ]
+  },
+  {
+    "literal": "abiesi",
+    "wordType": "Noun",
+    "definitions": [
+      "spruce"
+    ],
+    "syllables": [
+      1,
+      3,
+      4
+    ],
+    "ipa": "ˈabiɜsi",
+    "examples": [],
+    "flexations": [
+      "abiesiň",
+      "abiesi",
+      "abiesen",
+      "abiesmaň",
+      "abiesim",
+      "abiesmen",
+      "abiesirň",
+      "abiesirn",
+      "abiesren",
+      "abiesšaň",
+      "abiesša",
+      "abiesšaen",
+      "abiesiňši",
+      "abiesši",
+      "abiesenši"
+    ]
+  },
+  {
+    "literal": "abriido",
+    "wordType": "Noun",
+    "definitions": [
+      "disagreement"
+    ],
+    "syllables": [
+      1,
+      4,
+      5
+    ],
+    "ipa": "ˈabʀiʔido",
+    "examples": [],
+    "flexations": [
+      "abriidoň",
+      "abriido",
+      "abriidoen",
+      "abriidomaň",
+      "abriidom",
+      "abriidomen",
+      "abriidorň",
+      "abriidorn",
+      "abriidoren",
+      "abriidošaň",
+      "abriidoša",
+      "abriidošaen",
+      "abriidoňši",
+      "abriidoši",
+      "abriidoenši"
+    ]
+  },
+  {
+    "literal": "aebi",
+    "wordType": "Noun",
+    "definitions": [
+      "past"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈa͜ebi",
+    "examples": [],
+    "flexations": [
+      "aebiň",
+      "aebi",
+      "aeben",
+      "aebimaň",
+      "aebim",
+      "aebimen",
+      "aebirň",
+      "aebirn",
+      "aebren",
+      "aebišaň",
+      "aebiša",
+      "aebišaen",
+      "aebiňši",
+      "aebiši",
+      "aebenši"
+    ]
+  },
+  {
+    "literal": "aanju",
+    "wordType": "Adverb",
+    "definitions": [
+      "no longer, not anymore"
+    ],
+    "syllables": [
+      1,
+      2
+    ],
+    "ipa": "aˈʔanju",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "aale",
+    "wordType": "Adverb",
+    "definitions": [
+      "already"
+    ],
+    "syllables": [
+      1,
+      2
+    ],
+    "ipa": "aˈʔale",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "aaza",
+    "wordType": "Adjective",
+    "definitions": [
+      "free (as in freedom)"
+    ],
+    "syllables": [
+      1,
+      2
+    ],
+    "ipa": "aˈʔaza",
+    "examples": [],
+    "flexations": [
+      "aaza",
+      "aazagua",
+      "aazahia",
+      "aazaňa"
+    ]
+  },
+  {
+    "literal": "gjihin",
+    "wordType": "Verb",
+    "definitions": [
+      "come"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgjɪhɪn",
+    "examples": [],
+    "flexations": [
+      "gjihirei",
+      "gjihimurei",
+      "gjihiru",
+      "gjihimuru",
+      "gjihoiru",
+      "gjihirae",
+      "gjihimurae",
+      "gjihin",
+      "gjihimurin",
+      "gjihoi",
+      "gjihitei",
+      "gjihimurtei",
+      "gjihitum",
+      "gjihimurtum",
+      "gjihoitu",
+      "gjihitae",
+      "gjihimurtae"
+    ]
+  },
+  {
+    "literal": "maeri",
+    "wordType": "Noun",
+    "definitions": [
+      "book"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈma͜eʀi",
+    "examples": [],
+    "flexations": [
+      "maeriň",
+      "maeri",
+      "maeren",
+      "maerimaň",
+      "maerim",
+      "maerimen",
+      "maerirň",
+      "maerirn",
+      "maeriren",
+      "maerišaň",
+      "maeriša",
+      "maerišaen",
+      "maeriňši",
+      "maeriši",
+      "maerenši"
+    ]
+  },
+  {
+    "literal": "abja",
+    "wordType": "Adjective",
+    "definitions": [
+      "late"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈabja",
+    "examples": [],
+    "flexations": [
+      "abja",
+      "abjagua",
+      "abjahia",
+      "abjaňa"
+    ]
+  },
+  {
+    "literal": "ret",
+    "wordType": "Noun",
+    "definitions": [
+      "lemon"
+    ],
+    "syllables": [],
+    "ipa": "ˈʀɜt",
+    "examples": [],
+    "flexations": [
+      "retaň",
+      "ret",
+      "reten",
+      "retmaň",
+      "retüm",
+      "retmen",
+      "retarň",
+      "retarn",
+      "retren",
+      "retšaň",
+      "retša",
+      "retšaen",
+      "retaňši",
+      "retši",
+      "retenši"
+    ]
+  },
+  {
+    "literal": "aari",
+    "wordType": "Adverb",
+    "definitions": [
+      "not yet"
+    ],
+    "syllables": [
+      1,
+      2
+    ],
+    "ipa": "aˈʔaʀi",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ablue",
+    "wordType": "Verb Suffix",
+    "definitions": [
+      "always"
+    ],
+    "syllables": [
+      1,
+      4
+    ],
+    "ipa": "ˈabluʔɜ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ablu",
+    "wordType": "Adverb",
+    "definitions": [
+      "always"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈablu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "abrin",
+    "wordType": "Verb",
+    "definitions": [
+      "fight"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈabʀɪn",
+    "examples": [],
+    "flexations": [
+      "abrirei",
+      "abrimurei",
+      "abriru",
+      "abrimuru",
+      "abroiru",
+      "abrirae",
+      "abrimurae",
+      "abrin",
+      "abrimurin",
+      "abroi",
+      "abritei",
+      "abrimurtei",
+      "abritum",
+      "abrimurtum",
+      "abroitu",
+      "abritae",
+      "abrimurtae"
+    ]
+  },
+  {
+    "literal": "ada",
+    "wordType": "Adjective",
+    "definitions": [
+      "thick",
+      "gel-like"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈada",
+    "examples": [],
+    "flexations": [
+      "ada",
+      "adagua",
+      "adahia",
+      "adaňa"
+    ]
+  },
+  {
+    "literal": "aelü",
+    "wordType": "Noun",
+    "definitions": [
+      "neuron"
+    ],
+    "syllables": [],
+    "ipa": "ˈa͜ely",
+    "examples": [],
+    "flexations": [
+      "aelüň",
+      "aelü",
+      "aelüen",
+      "aelümaň",
+      "aelüm",
+      "aelümen",
+      "aelürň",
+      "aelürn",
+      "aelüren",
+      "aelüšaň",
+      "aelüša",
+      "aelüšaen",
+      "aelüňši",
+      "aelüši",
+      "aelüenši"
+    ]
+  },
+  {
+    "literal": "aelümia",
+    "wordType": "Adjective",
+    "definitions": [
+      "romantic"
+    ],
+    "syllables": [
+      2,
+      4,
+      6
+    ],
+    "ipa": "ˈa͜elymia",
+    "examples": [],
+    "flexations": [
+      "aelümia",
+      "aelümiagua",
+      "aelümiahia",
+      "aelümiaňa"
+    ]
+  },
+  {
+    "literal": "aenoi",
+    "wordType": "Noun",
+    "definitions": [
+      "peace"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈa͜eno͜ɪ",
+    "examples": [],
+    "flexations": [
+      "aenoiň",
+      "aenoi",
+      "aenoen",
+      "aenoimaň",
+      "aenoim",
+      "aenomen",
+      "aenoirň",
+      "aenoirn",
+      "aenoren",
+      "aenoišaň",
+      "aenoiša",
+      "aenoišaen",
+      "aenoiňši",
+      "aenoiši",
+      "aenoenši"
+    ]
+  },
+  {
+    "literal": "aeöfi",
+    "wordType": "Noun",
+    "definitions": [
+      "health"
+    ],
+    "syllables": [
+      2,
+      3
+    ],
+    "ipa": "ˈa͜eʔøfi",
+    "examples": [],
+    "flexations": [
+      "aeöfiň",
+      "aeöfi",
+      "aeöfen",
+      "aeöfmaň",
+      "aeöfim",
+      "aeöfmen",
+      "aeöfirň",
+      "aeöfirn",
+      "aeöfren",
+      "aeöfšaň",
+      "aeöfša",
+      "aeöfšaen",
+      "aeöfiňši",
+      "aeöfši",
+      "aeöfenši"
+    ]
+  },
+  {
+    "literal": "aeöi",
+    "wordType": "Noun",
+    "definitions": [
+      "repair"
+    ],
+    "syllables": [],
+    "ipa": "ˈa͜eʔø͜i",
+    "examples": [],
+    "flexations": [
+      "aeöiň",
+      "aeöi",
+      "aeöen",
+      "aeömaň",
+      "aeöim",
+      "aeömen",
+      "aeöirň",
+      "aeöirn",
+      "aeören",
+      "aeöšaň",
+      "aeöša",
+      "aeöšaen",
+      "aeöiňši",
+      "aeöši",
+      "aeöenši"
+    ]
+  },
+  {
+    "literal": "aeon",
+    "wordType": "Noun",
+    "definitions": [
+      "support"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈa͜eʔon",
+    "examples": [],
+    "flexations": [
+      "aeonaň",
+      "aeon",
+      "aeonen",
+      "aeonmaň",
+      "aeonüm",
+      "aeonmen",
+      "aeonarň",
+      "aeonarn",
+      "aeonren",
+      "aeonšaň",
+      "aeonša",
+      "aeonšaen",
+      "aeonaňši",
+      "aeonši",
+      "aeonenši"
+    ]
+  },
+  {
+    "literal": "aeonin",
+    "wordType": "Verb",
+    "definitions": [
+      "support"
+    ],
+    "syllables": [
+      2,
+      3
+    ],
+    "ipa": "ˈa͜eʔonɪn",
+    "examples": [],
+    "flexations": [
+      "aeonirei",
+      "aeonimurei",
+      "aeoniru",
+      "aeonimuru",
+      "aeonoiru",
+      "aeonirae",
+      "aeonimurae",
+      "aeonin",
+      "aeonimurin",
+      "aeonoi",
+      "aeonitei",
+      "aeonimurtei",
+      "aeonitum",
+      "aeonimurtum",
+      "aeonoitu",
+      "aeonitae",
+      "aeonimurtae"
+    ]
+  },
+  {
+    "literal": "ai",
+    "wordType": "Noun Suffix",
+    "definitions": [
+      "-or/-er (subject of an action)"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈaʔi",
+    "examples": [
+      [
+        "alütai",
+        "worker"
+      ],
+      [
+        "špiai",
+        "player"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "ie",
+    "wordType": "Noun Suffix",
+    "definitions": [
+      "-ee (direct object of action)"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈie",
+    "examples": [
+      [
+        "koptie",
+        "punchee (it what is being punched)"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "aja",
+    "wordType": "Adjective",
+    "definitions": [
+      "nice (formal)",
+      "beautiful"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈaja",
+    "examples": [],
+    "flexations": [
+      "aja",
+      "ajagua",
+      "ajahia",
+      "ajaňa"
+    ]
+  },
+  {
+    "literal": "aja samili",
+    "wordType": "Exclamation",
+    "definitions": [
+      "greetings (lit. nice face)"
+    ],
+    "syllables": [],
+    "ipa": "ˈaja ˈsamili",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ajaja",
+    "wordType": "Adjective",
+    "definitions": [
+      "perfect"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈajaja",
+    "examples": [],
+    "flexations": [
+      "ajaja",
+      "",
+      "",
+      "ajajaňa"
+    ]
+  },
+  {
+    "literal": "ajaru",
+    "wordType": "Adverb",
+    "definitions": [
+      "soon"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈajaʀu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ajin",
+    "wordType": "Adverb",
+    "definitions": [
+      "now",
+      "instantly"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈajin",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ajina",
+    "wordType": "Adjective",
+    "definitions": [
+      "instant"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈajina",
+    "examples": [],
+    "flexations": [
+      "ajina",
+      "ajinagua",
+      "ajinahia",
+      "ajinaňa"
+    ]
+  },
+  {
+    "literal": "ajini",
+    "wordType": "Noun",
+    "definitions": [
+      "moment"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈajini",
+    "examples": [],
+    "flexations": [
+      "ajiniň",
+      "ajini",
+      "ajinen",
+      "ajinmaň",
+      "ajinim",
+      "ajinmen",
+      "ajinirň",
+      "ajinirn",
+      "ajinren",
+      "ajinšaň",
+      "ajinša",
+      "ajinšaen",
+      "ajiniňši",
+      "ajinši",
+      "ajinenši"
+    ]
+  },
+  {
+    "literal": "ajins",
+    "wordType": "Noun",
+    "definitions": [
+      "instance"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈajins",
+    "examples": [],
+    "flexations": [
+      "ajinsaň",
+      "ajins",
+      "ajinsen",
+      "ajinsmaň",
+      "ajinsüm",
+      "ajinsmen",
+      "ajinsarň",
+      "ajinsarn",
+      "ajinsren",
+      "ajinsšaň",
+      "ajinsša",
+      "ajinsšaen",
+      "ajinsaňši",
+      "ajinsši",
+      "ajinsenši"
+    ]
+  },
+  {
+    "literal": "akajo",
+    "wordType": "Noun",
+    "definitions": [
+      "guilt",
+      "shame"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈakajo",
+    "examples": [],
+    "flexations": [
+      "akajoň",
+      "akajo",
+      "akajoen",
+      "akajomaň",
+      "akajom",
+      "akajomen",
+      "akajorň",
+      "akajorn",
+      "akajoren",
+      "akajošaň",
+      "akajoša",
+      "akajošaen",
+      "akajoňši",
+      "akajoši",
+      "akajoenši"
+    ]
+  },
+  {
+    "literal": "ajöltrui",
+    "wordType": "Noun",
+    "definitions": [
+      "(nam.) harp-like instrument"
+    ],
+    "syllables": [
+      1,
+      4,
+      7
+    ],
+    "ipa": "ˈajɶlˌtʀuʔi",
+    "examples": [],
+    "flexations": [
+      "ajöltruiň",
+      "ajöltrui",
+      "ajöltruen",
+      "ajöltrumaň",
+      "ajöltruim",
+      "ajöltrumen",
+      "ajöltruirň",
+      "ajöltruirn",
+      "ajöltruren",
+      "ajöltruišaň",
+      "ajöltruiša",
+      "ajöltruišaen",
+      "ajöltruiňši",
+      "ajöltruiši",
+      "ajöltruenši"
+    ]
+  },
+  {
+    "literal": "akojae",
+    "wordType": "Noun",
+    "definitions": [
+      "object (grammatical)"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈakoja͜e",
+    "examples": [],
+    "flexations": [
+      "akojaeň",
+      "akojae",
+      "akojaeen",
+      "akojaemaň",
+      "akojaem",
+      "akojaemen",
+      "akojaerň",
+      "akojaern",
+      "akojaeren",
+      "akojaešaň",
+      "akojaeša",
+      "akojaešaen",
+      "akojaeňši",
+      "akojaeši",
+      "akojaeenši"
+    ]
+  },
+  {
+    "literal": "aktiu",
+    "wordType": "Noun",
+    "definitions": [
+      "plate"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈaktiʔu",
+    "examples": [],
+    "flexations": [
+      "aktiuň",
+      "aktiu",
+      "aktiuen",
+      "aktiumaň",
+      "aktium",
+      "aktiumen",
+      "aktiurň",
+      "aktiurn",
+      "aktiuren",
+      "aktiušaň",
+      "aktiuša",
+      "aktiušaen",
+      "aktiuňši",
+      "aktiuši",
+      "aktiuenši"
+    ]
+  },
+  {
+    "literal": "akua",
+    "wordType": "Adjective",
+    "definitions": [
+      "clean"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈakwa",
+    "examples": [],
+    "flexations": [
+      "akua",
+      "akuagua",
+      "akuahia",
+      "akuaňa"
+    ]
+  },
+  {
+    "literal": "alisimiko",
+    "wordType": "Noun",
+    "definitions": [
+      "potassium (chemical element)"
+    ],
+    "syllables": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "ipa": "ˈaliˌsimiko",
+    "examples": [],
+    "flexations": [
+      "alisimikoň",
+      "alisimiko",
+      "alisimikoen",
+      "alisimikomaň",
+      "alisimikom",
+      "alisimikomen",
+      "alisimikorň",
+      "alisimikorn",
+      "alisimikoren",
+      "alisimikošaň",
+      "alisimikoša",
+      "alisimikošaen",
+      "alisimikoňši",
+      "alisimikoši",
+      "alisimikoenši"
+    ]
+  },
+  {
+    "literal": "alütin",
+    "wordType": "Verb",
+    "definitions": [
+      "work",
+      "be on duty"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈalʏtɪn",
+    "examples": [],
+    "flexations": [
+      "alütirei",
+      "alütimurei",
+      "alütiru",
+      "alütimuru",
+      "alütoiru",
+      "alütirae",
+      "alütimurae",
+      "alütin",
+      "alütimurin",
+      "alütoi",
+      "alütitei",
+      "alütimurtei",
+      "alütitum",
+      "alütimurtum",
+      "alütoitu",
+      "alütitae",
+      "alütimurtae"
+    ]
+  },
+  {
+    "literal": "alvisko",
+    "wordType": "Noun",
+    "definitions": [
+      "tennessine (chemical element)"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈalvɪsko",
+    "examples": [],
+    "flexations": [
+      "alviskoň",
+      "alvisko",
+      "alviskoen",
+      "alviskomaň",
+      "alviskom",
+      "alviskomen",
+      "alviskorň",
+      "alviskorn",
+      "alviskoren",
+      "alviskošaň",
+      "alviskoša",
+      "alviskošaen",
+      "alviskoňši",
+      "alviskoši",
+      "alviskoenši"
+    ]
+  },
+  {
+    "literal": "alu",
+    "wordType": "Adverb",
+    "definitions": [
+      "ever"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈalu",
+    "examples": [
+      [
+        "žitu alu",
+        "forever"
+      ],
+      [
+        "mön ti zatsahia ske alu",
+        "you're the youngest person ever"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "amin",
+    "wordType": "Verb",
+    "definitions": [
+      "breathe"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈamɪn",
+    "examples": [],
+    "flexations": [
+      "amirei",
+      "amimurei",
+      "amiru",
+      "amimuru",
+      "amoiru",
+      "amirae",
+      "amimurae",
+      "amin",
+      "amimurin",
+      "amoi",
+      "amitei",
+      "amimurtei",
+      "amitum",
+      "amimurtum",
+      "amoitu",
+      "amitae",
+      "amimurtae"
+    ]
+  },
+  {
+    "literal": "amsi",
+    "wordType": "Noun",
+    "definitions": [
+      "bridge",
+      "arch"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈamsi",
+    "examples": [],
+    "flexations": [
+      "amsiň",
+      "amsi",
+      "amsen",
+      "amsmaň",
+      "amsim",
+      "amsmen",
+      "amsirň",
+      "amsirn",
+      "amsren",
+      "amsšaň",
+      "amsša",
+      "amsšaen",
+      "amsiňši",
+      "amsši",
+      "amsenši"
+    ]
+  },
+  {
+    "literal": "anaeješ",
+    "wordType": "Noun",
+    "definitions": [
+      "sacrifice"
+    ],
+    "syllables": [
+      1,
+      4
+    ],
+    "ipa": "ˈana͜ejɜʃ",
+    "examples": [],
+    "flexations": [
+      "anaeješaň",
+      "anaeješ",
+      "anaeješen",
+      "anaeješmaň",
+      "anaeješüm",
+      "anaeješmen",
+      "anaeješarň",
+      "anaeješarn",
+      "anaeješren",
+      "anaeješaň",
+      "anaeješa",
+      "anaeješaen",
+      "anaeješaňši",
+      "anaeješi",
+      "anaeješenši"
+    ]
+  },
+  {
+    "literal": "anafkli",
+    "wordType": "Noun",
+    "definitions": [
+      "sword"
+    ],
+    "syllables": [
+      1,
+      4
+    ],
+    "ipa": "ˈanafkli",
+    "examples": [],
+    "flexations": [
+      "anafkliň",
+      "anafkli",
+      "anafklen",
+      "anafklimaň",
+      "anafklim",
+      "anafklimen",
+      "anafklirň",
+      "anafklirn",
+      "anafkliren",
+      "anafklišaň",
+      "anafkliša",
+      "anafklišaen",
+      "anafkliňši",
+      "anafkliši",
+      "anafklenši"
+    ]
+  },
+  {
+    "literal": "anatlin",
+    "wordType": "Verb",
+    "definitions": [
+      "pain, hurt (passive)"
+    ],
+    "syllables": [
+      1,
+      4
+    ],
+    "ipa": "ˈanatlɪn",
+    "examples": [
+      [
+        "anatlin pši jaro",
+        "my leg hurts"
+      ]
+    ],
+    "flexations": [
+      "anatlirei",
+      "anatlimurei",
+      "anatliru",
+      "anatlimuru",
+      "anatloiru",
+      "anatlirae",
+      "anatlimurae",
+      "anatlin",
+      "anatlimurin",
+      "anatloi",
+      "anatlitei",
+      "anatlimurtei",
+      "anatlitum",
+      "anatlimurtum",
+      "anatloitu",
+      "anatlitae",
+      "anatlimurtae"
+    ]
+  },
+  {
+    "literal": "alšin",
+    "wordType": "Verb",
+    "definitions": [
+      "craft, build"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈalʃɪn",
+    "examples": [],
+    "flexations": [
+      "alširei",
+      "alšimurei",
+      "alširu",
+      "alšimuru",
+      "alšoiru",
+      "alširae",
+      "alšimurae",
+      "alšin",
+      "alšimurin",
+      "alšoi",
+      "alšitei",
+      "alšimurtei",
+      "alšitum",
+      "alšimurtum",
+      "alšoitu",
+      "alšitae",
+      "alšimurtae"
+    ]
+  },
+  {
+    "literal": "akuin",
+    "wordType": "Verb",
+    "definitions": [
+      "clean"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈakwɪn",
+    "examples": [],
+    "flexations": [
+      "akuirei",
+      "akuimurei",
+      "akuiru",
+      "akuimuru",
+      "akuoiru",
+      "akuirae",
+      "akuimurae",
+      "akuin",
+      "akuimurin",
+      "akuoi",
+      "akuitei",
+      "akuimurtei",
+      "akuitum",
+      "akuimurtum",
+      "akuoitu",
+      "akuitae",
+      "akuimurtae"
+    ]
+  },
+  {
+    "literal": "aeöin",
+    "wordType": "Verb",
+    "definitions": [
+      "heal",
+      "repair"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈa͜eʔɶ͜ɪn",
+    "examples": [],
+    "flexations": [
+      "aeöirei",
+      "aeöimurei",
+      "aeöiru",
+      "aeöimuru",
+      "aeöoiru",
+      "aeöirae",
+      "aeöimurae",
+      "aeöin",
+      "aeöimurin",
+      "aeöoi",
+      "aeöitei",
+      "aeöimurtei",
+      "aeöitum",
+      "aeöimurtum",
+      "aeöoitu",
+      "aeöitae",
+      "aeöimurtae"
+    ]
+  }
+]

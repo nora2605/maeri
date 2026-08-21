@@ -1,10 +1,9 @@
-import { Component, createMemo, For, Loading, Show } from "solid-js";
+import { Component, For, Match, Show, Switch } from "solid-js";
 import Nothing from "./Nothing";
-import { entryCache } from "../App";
-import { idFromEntry, IdxToLit } from "../lib/words";
+import entries from "../assets/dict.json";
+import { DictionaryEntry, idFromEntry, IdxToLit, WordType } from "../lib/words";
 import { getWTClass } from "./Lexicon";
 import Listen from "../components/Listen";
-import { dynamic } from "@solidjs/web";
 
 const DeclensionTable: Component<{flexations: string[]}> = (props) => {
   return (
@@ -108,40 +107,45 @@ const ComparisonTable: Component<{flexations: string[]}> = (props) => {
 };
 
 const EntryPage: Component<{id: string}> = ({ id }) => {
-  const entry = createMemo(() => entryCache().find(e=>idFromEntry(e)===decodeURI(id)));
-  const Flexations = dynamic(() => entry() &&
-    (entry()!.wordType === "Noun" || entry()!.wordType === "Pronoun" ? DeclensionTable :
-    entry()!.wordType === "Verb" ? ConjugationTable :
-    entry()!.wordType === "Adjective" ? ComparisonTable : (() => <></>))
-  );
-  return (<Loading>
-    <Show when={entry()} fallback={<Nothing />}>
-      <div class="flex flex-row justify-center">
-        <div class={`border rounded-box w-full sm:w-2/3 p-2 ${getWTClass(entry()!.wordType)}`}>
-          <div class="grid grid-cols-3 sm:flex sm:flex-row sm:justify-start items-baseline sm:space-x-3 *:whitespace-nowrap">
-            <h2 class="text-base sm:text-xl text-neutral">{entry()!.literal}</h2>
-            <p class="text-xs text-neutral-600 sm:text-base">{IdxToLit(entry()!.literal, entry()!.syllables)}</p>
-            <p class="text-xs text-neutral-600 sm:text-base place-self-end sm:place-self-auto">/{entry()!.ipa}/ <Listen sound={`word/${entry()!.literal}`} /></p>
-            <p class="text-xs text-neutral-600 sm:text-base font-lumaha">{entry()!.literal}</p>
-            <p class="text-xs text-neutral-600 sm:text-base col-span-2 sm:grow text-right">{entry()!.wordType}</p>
-          </div>
-          <label class="label">Definitions</label>
-          <ol class="list">
-            <For each={entry()!.definitions}>{(d, i) => <li class="list-row p-2"><span class="tabular-nums">{i()+1}.</span>{d}</li>}</For>
-          </ol>
-          <Show when={entry()!.examples.length>0}>
-            <label class="label">Examples</label>
-            <table class="table w-max">
-              <For each={entry()!.examples}>{(e) => <tr class="">
-                <td class="text-base align-baseline">{e[0]}</td><td class="text-neutral-600 align-baseline">{e[1]}</td>
-              </tr>}</For>
-            </table>
-          </Show>
-          <Flexations flexations={entry()!.flexations} />
+  const entry = entries.find(e=>idFromEntry(e as DictionaryEntry)===decodeURI(id)) as DictionaryEntry | undefined;
+  if (!entry)
+    return <Nothing />;
+  return (
+    <div class="flex flex-row justify-center">
+      <div class={`border rounded-box w-full sm:w-2/3 p-2 ${getWTClass(entry.wordType)}`}>
+        <div class="grid grid-cols-3 sm:flex sm:flex-row sm:justify-start items-baseline sm:space-x-3 *:whitespace-nowrap">
+          <h2 class="text-base sm:text-xl text-neutral">{entry.literal}</h2>
+          <p class="text-xs text-neutral-600 sm:text-base">{IdxToLit(entry.literal, entry.syllables)}</p>
+          <p class="text-xs text-neutral-600 sm:text-base place-self-end sm:place-self-auto">/{entry.ipa}/ <Listen sound={`word/${entry.literal}`} /></p>
+          <p class="text-xs text-neutral-600 sm:text-base font-lumaha">{entry.literal}</p>
+          <p class="text-xs text-neutral-600 sm:text-base col-span-2 sm:grow text-right">{entry.wordType}</p>
         </div>
+        <label class="label">Definitions</label>
+        <ol class="list">
+          <For each={entry.definitions}>{(d, i) => <li class="list-row p-2"><span class="tabular-nums">{i()+1}.</span>{d}</li>}</For>
+        </ol>
+        <Show when={entry.examples.length>0}>
+          <label class="label">Examples</label>
+          <table class="table w-max">
+            <For each={entry.examples}>{(e) => <tr class="">
+              <td class="text-base align-baseline">{e[0]}</td><td class="text-neutral-600 align-baseline">{e[1]}</td>
+            </tr>}</For>
+          </table>
+        </Show>
+        <Switch>
+          <Match when={entry.wordType==="Noun" || entry.wordType==="Pronoun"}>  
+            <DeclensionTable flexations={entry.flexations} />
+          </Match>
+          <Match when={entry.wordType==="Verb"}>  
+            <ConjugationTable flexations={entry.flexations} />
+          </Match>
+          <Match when={entry.wordType==="Adjective"}>  
+            <ComparisonTable flexations={entry.flexations} />
+          </Match>
+        </Switch>
       </div>
-    </Show>
-  </Loading>);
+    </div>
+    );
 }
 
 export default EntryPage;

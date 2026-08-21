@@ -107,7 +107,7 @@ const Guide: Component = (props) => {
               A space between words is therefore when the letters do not touch. The handwritten glyphs look approximately like this (click on the image for a larger preview):
             </p>
             <div class="flex flex-col items-center w-full">
-              <button class="p-4 bg-base-300 max-w-80 xl:max-w-120 h-min btn" onClick={()=>scriptImgModal.showModal()}>
+              <button type="button" class="p-4 bg-base-300 max-w-80 xl:max-w-120 h-min btn" onClick={e=>{scriptImgModal.showModal(); e.preventDefault()}}>
                 <img class="object-contain" src="/script.webp" />
               </button>
             </div>
@@ -116,7 +116,7 @@ const Guide: Component = (props) => {
                 <img class="object-contain" src="/script.webp" />
               </div>
               <form method="dialog" class="modal-backdrop">
-                <button>close</button>
+                <button type="button" onClick={e=>e.preventDefault()}>close</button>
               </form>
             </dialog>
             <p>

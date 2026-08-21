@@ -1,10 +1,9 @@
-import { Component, createEffect, Repeat, For, SourceAccessor, Setter } from "solid-js";
+import { Component, createEffect, Repeat, For, SourceAccessor } from "solid-js";
 import { DictionaryEntry, generateDictionaryEntry, idFromEntry, IdxToLit, LitToIdx, WORD_TYPES, type WordType } from "../../lib/words";
 import { createSignal } from "solid-js";
 import { getWTClass } from "../Lexicon";
 import { dynamic } from "@solidjs/web";
-import { entryCache } from "../../App";
-import JOHN from "johnjs";
+import entries from "../../assets/dict.json";
 
 const TableInput: Component<{getter: SourceAccessor<string[]>, index: number}> = (props) => {
   return <input type="text" class="input input-sm" value={props.getter()[props.index]} onInput={e=>props.getter()[props.index]=e.target.value} />
@@ -123,7 +122,7 @@ const CreateEntry: Component = () => {
   let syllableInput!: HTMLInputElement;
 
   createEffect(() => {
-    let foundEntry = entryCache().find(e=>idFromEntry(e)===`${literal().toLowerCase()}-${wordType().toLowerCase()}`);
+    let foundEntry = (entries as DictionaryEntry[]).find(e=>idFromEntry(e)===`${literal().toLowerCase()}-${wordType().toLowerCase()}`);
     return foundEntry ? {found: true, entry: foundEntry} : {found: false, entry: generateDictionaryEntry(literal(), wordType())};
   }, (e) => {
     let { found, entry } = e;
@@ -150,15 +149,18 @@ const CreateEntry: Component = () => {
       examples: examples(),
       flexations: flexations()
     } satisfies DictionaryEntry;
-    let _=fetch("http://localhost:3001/", {
-      method: "POST",
+    fetch("/api/", {
+      method: "PATCH",
       body: JSON.stringify(entry),
-    })
+      headers: {
+        "Content-Type": "application/json"
+      }
+    });
   };
 
   return (
     <div class="w-full h-full flex flex-col justify-start items-center">
-      <fieldset
+      <div
         class={`fieldset rounded-box p-4 border ${getWTClass(wordType())}`}
       >
         <legend class="fieldset-legend">New Entry</legend>
@@ -198,10 +200,10 @@ const CreateEntry: Component = () => {
               )}
             </Repeat>
             <div class="flex flex-row justify-between">
-              <button class="btn bg-white inline-block self-start" onClick={(e) => setDefinitions((v) => [...v, ""])} >
+              <button type="button" class="btn bg-white inline-block self-start" onClick={(e) => {setDefinitions((v) => [...v, ""]); e.preventDefault()}} >
                 Add
               </button>
-              <button class="btn bg-white inline-block self-end" onClick={(e) => setDefinitions((v) => v.slice(0, -1))} >
+              <button type="button" class="btn bg-white inline-block self-end" onClick={(e) => {setDefinitions((v) => v.slice(0, -1)); e.preventDefault()}} >
                 Remove
               </button>
             </div>
@@ -217,28 +219,29 @@ const CreateEntry: Component = () => {
               )}
             </Repeat>
             <div class="flex flex-row justify-between">
-              <button class="btn bg-white inline-block self-start" onClick={(e) => setExamples((v) => [...v, ["", ""]])} >
+              <button type="button" class="btn bg-white inline-block self-start" onClick={(e) => { setExamples((v) => [...v, ["", ""]]); e.preventDefault()}} >
                 Add
               </button>
-              <button class="btn bg-white inline-block self-end" onClick={(e) => setExamples((v) => v.slice(0, -1))} >
+              <button type="button" class="btn bg-white inline-block self-end" onClick={(e) => { setExamples((v) => v.slice(0, -1)); e.preventDefault()}} >
                 Remove
               </button>
             </div>
           </div>
           <FlexationTable getter={flexations} />
-          <button class="btn btn-neutral" onClick={(e) => submitNewEntry()}>
+          <button type="button" class="btn btn-neutral" onClick={(e) => {submitNewEntry(); e.preventDefault()}}>
             Add
           </button>
-          <button
+          <button type="button"
             class="btn btn-soft"
             onClick={(e) => {
               setLiteral("");
+              e.preventDefault();
             }}
           >
             Clear
           </button>
         </div>
-      </fieldset>
+      </div>
     </div>
   );
 }

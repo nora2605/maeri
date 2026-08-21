@@ -1,19 +1,8 @@
 import { isDev } from '@solidjs/web';
 import './App.css';
 import { Router } from './router';
-import { DictionaryEntry } from './lib/words';
-import JOHN from "johnjs";
-import { createMemo } from 'solid-js';
-
-export const entryCache = createMemo(async () => {
-  let res = await fetch("/dict.john");
-  if (!res.ok) return [];
-  return JOHN.parse(await res.text()) as DictionaryEntry[];
-});
 
 export default function App() {
-
-
   return (
     <Router>{(props) => (
       <div class="drawer lg:drawer-open">

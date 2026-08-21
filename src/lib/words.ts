@@ -93,6 +93,7 @@ function generateIPAFromLiteral(literal: string): string {
             if (ipaDict.has(c)) sounds.push(ipaDict.get(c)!);
             else sounds.push(c);
             lastWasV = false;
+            bound = false;
         }
     }
     return sounds.join("");

@@ -1,13 +1,12 @@
 import { Component, createMemo, createSignal, For } from "solid-js";
-import { DictionaryEntry, IdxToLit, WordType, idFromEntry } from "../lib/words";
-import { Router } from "../router";
+import { DictionaryEntry, IdxToLit, WORD_TYPES, WordType, idFromEntry } from "../lib/words";
 import Listen from "../components/Listen";
-import { entryCache } from "../App";
+import entries from "../assets/dict.json";
 
 const EntryCompact: Component<{ entry: DictionaryEntry }> = (props) => {
   const { literal, ipa, wordType, syllables, definitions } = props.entry;
   return (
-    <a class="w-full sm:w-auto" href={Router.paths.entry(idFromEntry(props.entry))}>
+    <a class="w-full sm:w-auto" href={`entry/${idFromEntry(props.entry)}`}>
       <div class={`border rounded-box w-full p-2 ${getWTClass(wordType)}`}>
         <div class="grid grid-cols-3 sm:flex sm:flex-row sm:justify-start items-baseline sm:space-x-3 *:whitespace-nowrap">
           <h2 class="text-base sm:text-xl text-neutral">{literal}</h2>
@@ -27,6 +26,8 @@ const EntryCompact: Component<{ entry: DictionaryEntry }> = (props) => {
 
 const Lexicon: Component = () => {
   let [query, setQuery] = createSignal("");
+  let [wordTypeFilter, setWordTypeFilter] = createSignal("All" as ("All" | WordType));
+
   function any<T>(iter: T[], pred: (_:T)=>boolean) {
     let a = false;
     for (let i = 0; i < iter.length; i++) {
@@ -38,26 +39,37 @@ const Lexicon: Component = () => {
     return a;
   }
   let filtered = createMemo(() => {
-    return entryCache().filter((e) =>
+    return entries.filter((e) =>
       e.literal.includes(query()) ||
       any(e.definitions, d => d.includes(query())) ||
       any(e.flexations, f => f.includes(query()))
+    ).filter((e) => 
+      wordTypeFilter() === "All" || e.wordType === wordTypeFilter()
     ).toSorted((a, b) => a.literal.localeCompare(b.literal))
   });
 
   return (
     <div class="flex flex-col justify-start">
-      <label class="input w-full sm:w-max m-1">
-        <svg class="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-          <g stroke-linejoin="round" stroke-linecap="round" stroke-width="2.5" fill="none" stroke="currentColor">
-            <circle cx="11" cy="11" r="8"></circle>
-            <path d="m21 21-4.3-4.3"></path>
-          </g>
-        </svg>
-        <input type="search" required placeholder="Search..." value={query()} onInput={e=>setQuery(e.target.value)} />
-      </label>
+      <div class="flex flex-row items-center">
+        <label class="input w-full sm:w-max m-1">
+          <svg class="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <g stroke-linejoin="round" stroke-linecap="round" stroke-width="2.5" fill="none" stroke="currentColor">
+              <circle cx="11" cy="11" r="8"></circle>
+              <path d="m21 21-4.3-4.3"></path>
+            </g>
+          </svg>
+          <input type="search" required placeholder="Search..." value={query()} onInput={e=>setQuery(e.target.value)} />
+        </label>
+        <select
+          class="select"
+          onInput={(e) => setWordTypeFilter(e.target.value as ("All" | WordType))}
+        >
+          <option>All</option>
+          <For each={WORD_TYPES}>{(e) => <option>{e}</option>}</For>
+        </select>
+      </div>
       <div class="flex flex-wrap *:m-1">
-        <For each={filtered()}>{e => <EntryCompact entry={e} />}</For>
+        <For each={filtered()}>{e => <EntryCompact entry={e as DictionaryEntry} />}</For>
       </div>
     </div>
   );

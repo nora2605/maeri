@@ -28,6 +28,7 @@ const Guide: Component = (props) => {
     <div class="flex flex-col items-center h-full">
       <Title>Maeri: Guide</Title>
       <Meta name="og:title" content="Maeri: Guide" />
+      <Meta name="og:description" content="The official Getriš Conlang Documentation and Reference" />
       <article class="prose lg:prose-lg lg:min-w-3/4">
         <h1 class="text-center">
           The Getriš Language Reference Guide

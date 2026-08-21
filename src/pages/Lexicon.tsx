@@ -2,6 +2,7 @@ import { Component, createMemo, createSignal, For } from "solid-js";
 import { DictionaryEntry, IdxToLit, WORD_TYPES, WordType, idFromEntry } from "../lib/words";
 import Listen from "../components/Listen";
 import entries from "../assets/dict.json";
+import { Meta, Title } from "@solidjs/meta";
 
 const EntryCompact: Component<{ entry: DictionaryEntry }> = (props) => {
   const { literal, ipa, wordType, syllables, definitions } = props.entry;
@@ -50,6 +51,9 @@ const Lexicon: Component = () => {
 
   return (
     <div class="flex flex-col justify-start">
+      <Meta name="og:title" content="Maeri" />
+      <Meta name="og:description" content="Lexicon of the Getriš Language" />
+      <Title>Maeri</Title>
       <div class="flex flex-row items-center">
         <label class="input w-full sm:w-max m-1">
           <svg class="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">

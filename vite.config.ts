@@ -1,11 +1,13 @@
 import { defineConfig } from 'vite';
 import solid from '@solidjs/vite-plugin';
 import tailwindcss from '@tailwindcss/vite';
+import { cloudflare } from '@cloudflare/vite-plugin';
 
 export default defineConfig({
   plugins: [
     tailwindcss(),
-    solid({ start: true }),
+    cloudflare({ viteEnvironment: { name: "ssr" } }),
+    solid({ start: true, ssr: true }),
   ],
   server: {
     port: 3000,

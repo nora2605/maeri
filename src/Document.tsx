@@ -11,7 +11,7 @@ export default function Document(props: ParentProps) {
         <meta name="og:title" content="Maeri" />
         <meta name="og:type" content="website" />
         <meta name="og:url" content="https://maeri.nojufe.de" />
-        <meta name="og:image" content="https://maeri.nojufe.de/favicon.ico" />
+        <meta name="og:image" content="https://maeri.nojufe.de/logo.png" />
         <meta name="og:description" content="The official Getriš Conlang Documentation and Reference" />
         <link rel="icon" href="/favicon.ico" />
         <title>Maeri</title>

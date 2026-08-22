@@ -1,11 +1,21 @@
-import { Component, createMemo, createSignal, For } from "solid-js";
+import { Component, createMemo, createSignal, For, Show } from "solid-js";
 import { DictionaryEntry, IdxToLit, WORD_TYPES, WordType, idFromEntry } from "../lib/words";
 import Listen from "../components/Listen";
 import entries from "../assets/dict.json";
 import { Meta, Title } from "@solidjs/meta";
 
-const EntryCompact: Component<{ entry: DictionaryEntry }> = (props) => {
-  const { literal, ipa, wordType, syllables, definitions } = props.entry;
+const EntryCompact: Component<{ entry: DictionaryEntry, highlight: string }> = (props) => {
+  const { literal, ipa, wordType, syllables, definitions, flexations } = props.entry;
+  const foundCase = () => {
+    if (
+      props.highlight !== "" &&
+      !literal.includes(props.highlight) && 
+      !definitions.find(a => a.includes(props.highlight))
+    ) {
+      return flexations.toSorted((a, b) => a.localeCompare(b)).find(a => a.includes(props.highlight));
+    }
+    return undefined;
+  };
   return (
     <a class="w-full sm:w-auto" href={`entry/${idFromEntry(props.entry)}`}>
       <div class={`border rounded-box w-full p-2 ${getWTClass(wordType)}`}>
@@ -16,6 +26,9 @@ const EntryCompact: Component<{ entry: DictionaryEntry }> = (props) => {
           <p class="text-xs text-neutral-600 sm:text-base font-lumaha">{literal}</p>
           <p class="text-xs text-neutral-600 sm:text-base col-span-2 sm:grow text-right">{wordType}</p>
         </div>
+        <Show when={foundCase()}>
+          <p class="text-xs text-neutral-600 sm:text-base">Found Form: {foundCase()}</p>
+        </Show>
         <label class="label">Definitions</label>
         <ol class="list">
           <For each={definitions}>{(d, i) => <li class="list-row p-2"><span class="tabular-nums">{i()+1}.</span>{d}</li>}</For>
@@ -39,14 +52,28 @@ const Lexicon: Component = () => {
     }
     return a;
   }
+
+  function orderedSetUnion<T>(a: T[][], eq: (a:T,b:T)=>boolean): T[] {
+    let c = [...a[0]];
+    a.slice(1).forEach(l => {
+      l.forEach(lv => {
+        if (!any(c, v => eq(v, lv)))
+          c.push(lv);
+      })
+    });
+    return c;
+  }
+
   let filtered = createMemo(() => {
-    return entries.filter((e) =>
-      e.literal.includes(query()) ||
-      any(e.definitions, d => d.includes(query())) ||
-      any(e.flexations, f => f.includes(query()))
-    ).filter((e) => 
+    let o = entries.toSorted((a, b) => a.literal.localeCompare(b.literal)) as DictionaryEntry[];
+    return orderedSetUnion([
+      o.filter((e) => e.literal.startsWith(query())),
+      o.filter((e) => e.literal.includes(query())),
+      o.filter((e) => any(e.definitions, d => d.includes(query()))),
+      o.filter((e) => any(e.flexations, f => f.includes(query())))
+    ], (a,b)=>idFromEntry(a)===idFromEntry(b)).filter((e) => 
       wordTypeFilter() === "All" || e.wordType === wordTypeFilter()
-    ).toSorted((a, b) => a.literal.localeCompare(b.literal))
+    );
   });
 
   return (
@@ -73,7 +100,7 @@ const Lexicon: Component = () => {
         </select>
       </div>
       <div class="flex flex-wrap *:m-1">
-        <For each={filtered()}>{e => <EntryCompact entry={e as DictionaryEntry} />}</For>
+        <For each={filtered()}>{e => <EntryCompact entry={e as DictionaryEntry} highlight={query()} />}</For>
       </div>
     </div>
   );

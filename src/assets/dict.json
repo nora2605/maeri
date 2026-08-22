@@ -1545,5 +1545,1090 @@
     "ipa": "ˈaja ˈsamili",
     "examples": [],
     "flexations": []
+  },
+  {
+    "literal": "anmeda",
+    "wordType": "Adjective",
+    "definitions": [
+      "material"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈanmeda",
+    "examples": [],
+    "flexations": [
+      "anmeda",
+      "anmedagua",
+      "anmedahia",
+      "anmedaňa"
+    ]
+  },
+  {
+    "literal": "anmedi",
+    "wordType": "Noun",
+    "definitions": [
+      "material"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈanmedi",
+    "examples": [],
+    "flexations": [
+      "anmediň",
+      "anmedi",
+      "anmeden",
+      "anmedimaň",
+      "anmedim",
+      "anmedimen",
+      "anmedirň",
+      "anmedirn",
+      "anmedren",
+      "anmedišaň",
+      "anmediša",
+      "anmedišaen",
+      "anmediňši",
+      "anmediši",
+      "anmedenši"
+    ]
+  },
+  {
+    "literal": "anmizae",
+    "wordType": "Noun",
+    "definitions": [
+      "industry"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈanmiza͜e",
+    "examples": [],
+    "flexations": [
+      "anmizaeň",
+      "anmizae",
+      "anmizaeen",
+      "anmizaemaň",
+      "anmizaem",
+      "anmizaemen",
+      "anmizaerň",
+      "anmizaern",
+      "anmizaeren",
+      "anmizaešaň",
+      "anmizaeša",
+      "anmizaešaen",
+      "anmizaeňši",
+      "anmizaeši",
+      "anmizaeenši"
+    ]
+  },
+  {
+    "literal": "anmoro",
+    "wordType": "Noun",
+    "definitions": [
+      "resistance"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈanmoʀo",
+    "examples": [],
+    "flexations": [
+      "anmoroň",
+      "anmoro",
+      "anmoroen",
+      "anmoromaň",
+      "anmorom",
+      "anmoromen",
+      "anmororň",
+      "anmororn",
+      "anmororen",
+      "anmorošaň",
+      "anmoroša",
+      "anmorošaen",
+      "anmoroňši",
+      "anmoroši",
+      "anmoroenši"
+    ]
+  },
+  {
+    "literal": "anšin",
+    "wordType": "Verb",
+    "definitions": [
+      "belong"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈanʃɪn",
+    "examples": [],
+    "flexations": [
+      "anširei",
+      "anšimurei",
+      "anširu",
+      "anšimuru",
+      "anšoiru",
+      "anširae",
+      "anšimurae",
+      "anšin",
+      "anšimurin",
+      "anšoi",
+      "anšitei",
+      "anšimurtei",
+      "anšitum",
+      "anšimurtum",
+      "anšoitu",
+      "anšitae",
+      "anšimurtae"
+    ]
+  },
+  {
+    "literal": "ti",
+    "wordType": "Pronoun",
+    "definitions": [
+      "you (second person pronoun)"
+    ],
+    "syllables": [],
+    "ipa": "ˈti",
+    "examples": [],
+    "flexations": [
+      "tiň",
+      "ti",
+      "ten",
+      "timaň",
+      "tim",
+      "timen",
+      "tirň",
+      "tirn",
+      "tren",
+      "tšaň",
+      "tša",
+      "tšaen",
+      "tiňši",
+      "tši",
+      "tenši"
+    ]
+  },
+  {
+    "literal": "hi",
+    "wordType": "Pronoun",
+    "definitions": [
+      "he, she, they, it (third person pronoun)"
+    ],
+    "syllables": [],
+    "ipa": "ˈhi",
+    "examples": [],
+    "flexations": [
+      "hiň",
+      "hi",
+      "hen",
+      "himaň",
+      "him",
+      "himen",
+      "hirň",
+      "hirn",
+      "hiren",
+      "hišaň",
+      "hiša",
+      "hišaen",
+      "hiňši",
+      "hiši",
+      "henši"
+    ]
+  },
+  {
+    "literal": "mön",
+    "wordType": "Verb",
+    "definitions": [
+      "be"
+    ],
+    "syllables": [],
+    "ipa": "ˈmœn",
+    "examples": [],
+    "flexations": [
+      "mörei",
+      "mömurei",
+      "möru",
+      "mömuru",
+      "möoiru",
+      "mörae",
+      "mömurae",
+      "mön",
+      "mömurin",
+      "möoi",
+      "mötei",
+      "mömurtei",
+      "mötum",
+      "mömurtum",
+      "möoitu",
+      "mötae",
+      "mömurtae"
+    ]
+  },
+  {
+    "literal": "anšitaif",
+    "wordType": "Noun",
+    "definitions": [
+      "possessive (grammatical case)"
+    ],
+    "syllables": [
+      2,
+      4,
+      6
+    ],
+    "ipa": "ˈanʃitaʔif",
+    "examples": [],
+    "flexations": [
+      "anšitaifaň",
+      "anšitaif",
+      "anšitaifen",
+      "anšitaifmaň",
+      "anšitaifüm",
+      "anšitaifmen",
+      "anšitaifarň",
+      "anšitaifarn",
+      "anšitaifren",
+      "anšitaifšaň",
+      "anšitaifša",
+      "anšitaifšaen",
+      "anšitaifaňši",
+      "anšitaifši",
+      "anšitaifenši"
+    ]
+  },
+  {
+    "literal": "antain",
+    "wordType": "Verb",
+    "definitions": [
+      "attack"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈantaʔɪn",
+    "examples": [],
+    "flexations": [
+      "antairei",
+      "antaimurei",
+      "antairu",
+      "antaimuru",
+      "antaoiru",
+      "antairae",
+      "antaimurae",
+      "antain",
+      "antaimurin",
+      "antaoi",
+      "antaitei",
+      "antaimurtei",
+      "antaitum",
+      "antaimurtum",
+      "antaoitu",
+      "antaitae",
+      "antaimurtae"
+    ]
+  },
+  {
+    "literal": "antoin",
+    "wordType": "Verb",
+    "definitions": [
+      "scream"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈantoʔɪn",
+    "examples": [],
+    "flexations": [
+      "antoirei",
+      "antoimurei",
+      "antoiru",
+      "antoimuru",
+      "antooiru",
+      "antoirae",
+      "antoimurae",
+      "antoin",
+      "antoimurin",
+      "antooi",
+      "antoitei",
+      "antoimurtei",
+      "antoitum",
+      "antoimurtum",
+      "antooitu",
+      "antoitae",
+      "antoimurtae"
+    ]
+  },
+  {
+    "literal": "antola",
+    "wordType": "Adjective",
+    "definitions": [
+      "painful"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈantola",
+    "examples": [],
+    "flexations": [
+      "antola",
+      "antolagua",
+      "antolahia",
+      "antolaňa"
+    ]
+  },
+  {
+    "literal": "antoli",
+    "wordType": "Noun",
+    "definitions": [
+      "pain"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈantoli",
+    "examples": [],
+    "flexations": [
+      "antoliň",
+      "antoli",
+      "antolen",
+      "antolmaň",
+      "antolim",
+      "antolmen",
+      "antolirň",
+      "antolirn",
+      "antolren",
+      "antolšaň",
+      "antolša",
+      "antolšaen",
+      "antoliňši",
+      "antolši",
+      "antolenši"
+    ]
+  },
+  {
+    "literal": "anujae",
+    "wordType": "Noun",
+    "definitions": [
+      "subject (grammatical)"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈanuja͜e",
+    "examples": [],
+    "flexations": [
+      "anujaeň",
+      "anujae",
+      "anujaeen",
+      "anujaemaň",
+      "anujaem",
+      "anujaemen",
+      "anujaerň",
+      "anujaern",
+      "anujaeren",
+      "anujaešaň",
+      "anujaeša",
+      "anujaešaen",
+      "anujaeňši",
+      "anujaeši",
+      "anujaeenši"
+    ]
+  },
+  {
+    "literal": "anvükin",
+    "wordType": "Verb",
+    "definitions": [
+      "avenge"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈanvykɪn",
+    "examples": [],
+    "flexations": [
+      "anvükirei",
+      "anvükimurei",
+      "anvükiru",
+      "anvükimuru",
+      "anvükoiru",
+      "anvükirae",
+      "anvükimurae",
+      "anvükin",
+      "anvükimurin",
+      "anvükoi",
+      "anvükitei",
+      "anvükimurtei",
+      "anvükitum",
+      "anvükimurtum",
+      "anvükoitu",
+      "anvükitae",
+      "anvükimurtae"
+    ]
+  },
+  {
+    "literal": "ar",
+    "wordType": "Conjunction",
+    "definitions": [
+      "but"
+    ],
+    "syllables": [],
+    "ipa": "ˈaʀ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "aoase",
+    "wordType": "Noun",
+    "definitions": [
+      "ace (person who excels at something)",
+      "jack of all trades",
+      "expert"
+    ],
+    "syllables": [
+      2,
+      3
+    ],
+    "ipa": "ˈa͜oʔase",
+    "examples": [],
+    "flexations": [
+      "aoaseň",
+      "aoase",
+      "aoaseen",
+      "aoasemaň",
+      "aoasem",
+      "aoasemen",
+      "aoaserň",
+      "aoasern",
+      "aoaseren",
+      "aoasešaň",
+      "aoaseša",
+      "aoasešaen",
+      "aoaseňši",
+      "aoaseši",
+      "aoaseenši"
+    ]
+  },
+  {
+    "literal": "getriš",
+    "wordType": "Noun",
+    "definitions": [
+      "(nam.) international language"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgetʀiʃ",
+    "examples": [],
+    "flexations": [
+      "getrišaň",
+      "getriš",
+      "getrišen",
+      "getrišmaň",
+      "getrišüm",
+      "getrišmen",
+      "getrišarň",
+      "getrišarn",
+      "getrišren",
+      "getrišaň",
+      "getriša",
+      "getrišaen",
+      "getrišaňši",
+      "getriši",
+      "getrišenši"
+    ]
+  },
+  {
+    "literal": "aömi",
+    "wordType": "Noun",
+    "definitions": [
+      "angel"
+    ],
+    "syllables": [
+      1,
+      2
+    ],
+    "ipa": "aˈʔømi",
+    "examples": [],
+    "flexations": [
+      "aömiň",
+      "aömi",
+      "aömen",
+      "aömimaň",
+      "aömim",
+      "aömimen",
+      "aömirň",
+      "aömirn",
+      "aömren",
+      "aömšaň",
+      "aömša",
+      "aömšaen",
+      "aömiňši",
+      "aömši",
+      "aömenši"
+    ]
+  },
+  {
+    "literal": "pju",
+    "wordType": "Affix",
+    "definitions": [
+      "diminuitive suffix"
+    ],
+    "syllables": [],
+    "ipa": "ˈpju",
+    "examples": [
+      [
+        "mipet; mipetpju",
+        "cat, kitty"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "aptua",
+    "wordType": "Adjective",
+    "definitions": [
+      "broken, defunct"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈaptua",
+    "examples": [],
+    "flexations": [
+      "aptua",
+      "aptuagua",
+      "aptuahia",
+      "aptuaňa"
+    ]
+  },
+  {
+    "literal": "ara",
+    "wordType": "Adjective",
+    "definitions": [
+      "horned"
+    ],
+    "syllables": [],
+    "ipa": "ˈaʀa",
+    "examples": [],
+    "flexations": [
+      "ara",
+      "aragua",
+      "arahia",
+      "araňa"
+    ]
+  },
+  {
+    "literal": "arae",
+    "wordType": "Preposition",
+    "definitions": [
+      "by (time)"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈaʀa͜e",
+    "examples": [
+      [
+        "hairu jugal arae šivöa-un",
+        "I'll be there by 8 pm"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "araro",
+    "wordType": "Noun",
+    "definitions": [
+      "spoke"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈaʀaʀo",
+    "examples": [],
+    "flexations": [
+      "araroň",
+      "araro",
+      "araroen",
+      "araromaň",
+      "ararom",
+      "araromen",
+      "ararorň",
+      "ararorn",
+      "araroren",
+      "ararošaň",
+      "araroša",
+      "ararošaen",
+      "araroňši",
+      "araroši",
+      "araroenši"
+    ]
+  },
+  {
+    "literal": "arek",
+    "wordType": "Adverb",
+    "definitions": [
+      "tomorrow"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈaʀɜk",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ari",
+    "wordType": "Noun",
+    "definitions": [
+      "horn"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈaʀi",
+    "examples": [],
+    "flexations": [
+      "ariň",
+      "ari",
+      "aren",
+      "arimaň",
+      "arim",
+      "arimen",
+      "arirň",
+      "arirn",
+      "ariren",
+      "arišaň",
+      "ariša",
+      "arišaen",
+      "ariňši",
+      "ariši",
+      "arenši"
+    ]
+  },
+  {
+    "literal": "aristepko",
+    "wordType": "Noun",
+    "definitions": [
+      "dubnium (chemical element)"
+    ],
+    "syllables": [
+      1,
+      4,
+      7
+    ],
+    "ipa": "ˈaʀɪsˌtɜpko",
+    "examples": [],
+    "flexations": [
+      "aristepkoň",
+      "aristepko",
+      "aristepkoen",
+      "aristepkomaň",
+      "aristepkom",
+      "aristepkomen",
+      "aristepkorň",
+      "aristepkorn",
+      "aristepkoren",
+      "aristepkošaň",
+      "aristepkoša",
+      "aristepkošaen",
+      "aristepkoňši",
+      "aristepkoši",
+      "aristepkoenši"
+    ]
+  },
+  {
+    "literal": "arjin",
+    "wordType": "Exclamation",
+    "definitions": [
+      "thank you, thanks",
+      "perfect, splendid"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈaʀjɪn",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "arkašežo",
+    "wordType": "Noun",
+    "definitions": [
+      "lymphatic system"
+    ],
+    "syllables": [
+      2,
+      4,
+      6
+    ],
+    "ipa": "ˈaʀkaʃeʒo",
+    "examples": [],
+    "flexations": [
+      "arkašežoň",
+      "arkašežo",
+      "arkašežoen",
+      "arkašežomaň",
+      "arkašežom",
+      "arkašežomen",
+      "arkašežorň",
+      "arkašežorn",
+      "arkašežoren",
+      "arkašežošaň",
+      "arkašežoša",
+      "arkašežošaen",
+      "arkašežoňši",
+      "arkašežoši",
+      "arkašežoenši"
+    ]
+  },
+  {
+    "literal": "loiva",
+    "wordType": "Adjective",
+    "definitions": [
+      "one",
+      "first"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈlɔ͜ɪva",
+    "examples": [
+      [
+        "loiva ebek",
+        "one ball"
+      ],
+      [
+        "ebek loiva",
+        "the first ball"
+      ]
+    ],
+    "flexations": [
+      "loiva",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "literal": "šiva",
+    "wordType": "Adjective",
+    "definitions": [
+      "two",
+      "second"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʃiva",
+    "examples": [
+      [
+        "šiva ebeken",
+        "two balls"
+      ],
+      [
+        "ebek šiva",
+        "the second ball"
+      ]
+    ],
+    "flexations": [
+      "šiva",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "literal": "gaja",
+    "wordType": "Adjective",
+    "definitions": [
+      "three",
+      "third"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgaja",
+    "examples": [
+      [
+        "gaja ebeken",
+        "three balls"
+      ],
+      [
+        "ebek gaja",
+        "the third ball"
+      ]
+    ],
+    "flexations": [
+      "gaja",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "literal": "teira",
+    "wordType": "Adjective",
+    "definitions": [
+      "four",
+      "fourth"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈte͜ɪʀa",
+    "examples": [
+      [
+        "teira ebeken",
+        "four balls"
+      ],
+      [
+        "ebek teira",
+        "the fourth ball"
+      ]
+    ],
+    "flexations": [
+      "teira",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "literal": "prima",
+    "wordType": "Adjective",
+    "definitions": [
+      "five",
+      "fifth"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈpʀima",
+    "examples": [
+      [
+        "prima ebeken",
+        "five balls"
+      ],
+      [
+        "ebek prima",
+        "the fifth ball"
+      ]
+    ],
+    "flexations": [
+      "prima",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "literal": "kala",
+    "wordType": "Adjective",
+    "definitions": [
+      "six",
+      "sixth"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈkala",
+    "examples": [
+      [
+        "kala ebeken",
+        "six balls"
+      ],
+      [
+        "ebek kala",
+        "the sixth ball"
+      ]
+    ],
+    "flexations": [
+      "kala",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "literal": "žoula",
+    "wordType": "Adjective",
+    "definitions": [
+      "seven",
+      "seventh"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʒo͜ula",
+    "examples": [
+      [
+        "žoula ebeken",
+        "seven balls"
+      ],
+      [
+        "ebek žoula",
+        "the seventh ball"
+      ]
+    ],
+    "flexations": [
+      "žoula",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "literal": "dama",
+    "wordType": "Adjective",
+    "definitions": [
+      "eight",
+      "eighth"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈdama",
+    "examples": [
+      [
+        "dama ebeken",
+        "eight balls"
+      ],
+      [
+        "ebek dama",
+        "the eighth ball"
+      ]
+    ],
+    "flexations": [
+      "dama",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "literal": "zula",
+    "wordType": "Adjective",
+    "definitions": [
+      "nine",
+      "ninth"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈzula",
+    "examples": [
+      [
+        "zula ebeken",
+        "nine balls"
+      ],
+      [
+        "ebek zula",
+        "the ninth ball"
+      ]
+    ],
+    "flexations": [
+      "zula",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "literal": "tensja",
+    "wordType": "Adjective",
+    "definitions": [
+      "ten",
+      "tenth"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈtensja",
+    "examples": [
+      [
+        "tensja ebeken",
+        "ten balls"
+      ],
+      [
+        "ebek tensja",
+        "the tenth ball"
+      ]
+    ],
+    "flexations": [
+      "tensja",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "literal": "parta",
+    "wordType": "Adjective",
+    "definitions": [
+      "eleven",
+      "eleventh"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈpaʀta",
+    "examples": [
+      [
+        "tensja ebeken",
+        "eleven balls"
+      ],
+      [
+        "ebek tensja",
+        "the eleventh ball"
+      ]
+    ],
+    "flexations": [
+      "parta",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "literal": "riefa",
+    "wordType": "Adjective",
+    "definitions": [
+      "twelve",
+      "twelfth"
+    ],
+    "syllables": [
+      2,
+      3
+    ],
+    "ipa": "ˈʀiɜfa",
+    "examples": [
+      [
+        "riefa ebeken",
+        "twelve balls"
+      ],
+      [
+        "ebek riefa",
+        "the twelfth ball"
+      ]
+    ],
+    "flexations": [
+      "riefa",
+      "",
+      "",
+      ""
+    ]
   }
 ]

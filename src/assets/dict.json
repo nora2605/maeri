@@ -1963,35 +1963,6 @@
     ]
   },
   {
-    "literal": "getriš",
-    "wordType": "Noun",
-    "definitions": [
-      "(nam.) international language"
-    ],
-    "syllables": [
-      2
-    ],
-    "ipa": "ˈgetʀiʃ",
-    "examples": [],
-    "flexations": [
-      "getrišaň",
-      "getriš",
-      "getrišen",
-      "getrišmaň",
-      "getrišüm",
-      "getrišmen",
-      "getrišarň",
-      "getrišarn",
-      "getrišren",
-      "getrišaň",
-      "getriša",
-      "getrišaen",
-      "getrišaňši",
-      "getriši",
-      "getrišenši"
-    ]
-  },
-  {
     "literal": "aömi",
     "wordType": "Noun",
     "definitions": [
@@ -3216,25 +3187,6 @@
     ]
   },
   {
-    "literal": "arotja",
-    "wordType": "Adjective",
-    "definitions": [
-      "objective"
-    ],
-    "syllables": [
-      1,
-      4
-    ],
-    "ipa": "ˈaʀɔtja",
-    "examples": [],
-    "flexations": [
-      "arotja",
-      "arotjagua",
-      "arotjahia",
-      "arotjaňa"
-    ]
-  },
-  {
     "literal": "arte",
     "wordType": "Adverb",
     "definitions": [
@@ -3341,36 +3293,6 @@
       ]
     ],
     "flexations": []
-  },
-  {
-    "literal": "ashapdi",
-    "wordType": "Noun",
-    "definitions": [
-      "portal"
-    ],
-    "syllables": [
-      2,
-      5
-    ],
-    "ipa": "ˈashapdi",
-    "examples": [],
-    "flexations": [
-      "ashapdiň",
-      "ashapdi",
-      "ashapden",
-      "ashapdimaň",
-      "ashapdim",
-      "ashapdimen",
-      "ashapdirň",
-      "ashapdirn",
-      "ashapdren",
-      "ashapdišaň",
-      "ashapdiša",
-      "ashapdišaen",
-      "ashapdiňši",
-      "ashapdiši",
-      "ashapdenši"
-    ]
   },
   {
     "literal": "ašira",
@@ -4343,6 +4265,182 @@
       "ažižeňši",
       "ažižeši",
       "ažižeenši"
+    ]
+  },
+  {
+    "literal": "va",
+    "wordType": "Exclamation",
+    "definitions": [
+      "wow, oh"
+    ],
+    "syllables": [],
+    "ipa": "ˈva",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "arotja",
+    "wordType": "Adjective",
+    "definitions": [
+      "objective"
+    ],
+    "syllables": [
+      1,
+      4
+    ],
+    "ipa": "aˈʀɔtja",
+    "examples": [],
+    "flexations": [
+      "arotja",
+      "arotjagua",
+      "arotjahia",
+      "arotjaňa"
+    ]
+  },
+  {
+    "literal": "ashapdi",
+    "wordType": "Noun",
+    "definitions": [
+      "portal"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "asˈhapdi",
+    "examples": [],
+    "flexations": [
+      "ashapdiň",
+      "ashapdi",
+      "ashapden",
+      "ashapdimaň",
+      "ashapdim",
+      "ashapdimen",
+      "ashapdirň",
+      "ashapdirn",
+      "ashapdren",
+      "ashapdišaň",
+      "ashapdiša",
+      "ashapdišaen",
+      "ashapdiňši",
+      "ashapdiši",
+      "ashapdenši"
+    ]
+  },
+  {
+    "literal": "getriš",
+    "wordType": "Noun",
+    "definitions": [
+      "(nam.) international language"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgɜtʀɪʃ",
+    "examples": [],
+    "flexations": [
+      "getrišaň",
+      "getriš",
+      "getrišen",
+      "getrišmaň",
+      "getrišüm",
+      "getrišmen",
+      "getrišarň",
+      "getrišarn",
+      "getrišren",
+      "getrišaň",
+      "getriša",
+      "getrišaen",
+      "getrišaňši",
+      "getriši",
+      "getrišenši"
+    ]
+  },
+  {
+    "literal": "tšubuk",
+    "wordType": "Noun",
+    "definitions": [
+      "sugar"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtʃubuk",
+    "examples": [],
+    "flexations": [
+      "tšubukaň",
+      "tšubuk",
+      "tšubuken",
+      "tšubukmaň",
+      "tšubuküm",
+      "tšubukmen",
+      "tšubukarň",
+      "tšubukarn",
+      "tšubukren",
+      "tšubukšaň",
+      "tšubukša",
+      "tšubukšaen",
+      "tšubukaňši",
+      "tšubukši",
+      "tšubukenši"
+    ]
+  },
+  {
+    "literal": "mee",
+    "wordType": "Noun",
+    "definitions": [
+      "goat"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈmɜʔɜ",
+    "examples": [],
+    "flexations": [
+      "meeň",
+      "mee",
+      "meeen",
+      "meemaň",
+      "meem",
+      "meemen",
+      "meerň",
+      "meern",
+      "meeren",
+      "meešaň",
+      "meeša",
+      "meešaen",
+      "meeňši",
+      "meeši",
+      "meeenši"
+    ]
+  },
+  {
+    "literal": "mipet",
+    "wordType": "Noun",
+    "definitions": [
+      "cat"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈmipɜt",
+    "examples": [],
+    "flexations": [
+      "mipetaň",
+      "mipet",
+      "mipeten",
+      "mipetmaň",
+      "mipetüm",
+      "mipetmen",
+      "mipetarň",
+      "mipetarn",
+      "mipetren",
+      "mipetšaň",
+      "mipetša",
+      "mipetšaen",
+      "mipetaňši",
+      "mipetši",
+      "mipetenši"
     ]
   }
 ]

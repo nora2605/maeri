@@ -69,7 +69,9 @@ const Lexicon: Component = () => {
     return orderedSetUnion([
       o.filter((e) => e.literal.startsWith(query())),
       o.filter((e) => e.literal.includes(query())),
+      o.filter((e) => any(e.definitions, d => d.startsWith(query()))),
       o.filter((e) => any(e.definitions, d => d.includes(query()))),
+      o.filter((e) => any(e.flexations, f => f.startsWith(query()))),
       o.filter((e) => any(e.flexations, f => f.includes(query())))
     ], (a,b)=>idFromEntry(a)===idFromEntry(b)).filter((e) => 
       wordTypeFilter() === "All" || e.wordType === wordTypeFilter()

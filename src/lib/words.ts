@@ -52,7 +52,7 @@ function generateIPAFromLiteral(literal: string): string {
         ["ň", "ŋ"]
     ]);
     let longV = ["a", "e", "i", "o", "u", "ø", "y"];
-    let shortV = ["a", "ɜ", "ɪ", "ɒ", "ʊ", "ɶ", "ʏ"];
+    let shortV = ["a", "ɜ", "ɪ", "ɔ", "ʊ", "ɶ", "ʏ"];
     let lastWasV = false;
     let bound = false;
     let V = (c: string) => ["a", "e", "i", "o", "u", "ö", "ü"].indexOf(c);
@@ -61,8 +61,7 @@ function generateIPAFromLiteral(literal: string): string {
         a == "e" ? b == "i" :
         a == "ö" ? (["i", "ü"].includes(b)) :
         a == "o" ? (["i", "u"].includes(b)) :
-        a == "ü" ? b == "i" :
-        a == "u" ? (["a", "e", "o", "ö"].includes(b)) : false;
+        a == "ü" ? b == "i" : false;
 
     for (let i = 0; i < literal.length; i++) {
         let c = literal[i]!;
@@ -76,6 +75,10 @@ function generateIPAFromLiteral(literal: string): string {
         if (V(c) >= 0) {
             if (lastWasV) {
                 if (makeDiphthong(literal[i-1], c) && !bound) {
+                    if (literal[i-1] !== 'o' || c !== 'u') {
+                        sounds.pop();
+                        sounds.push(shortV[V(literal[i-1])]);
+                    }
                     sounds.push("͜");
                     bound = true;
                 }
@@ -84,7 +87,10 @@ function generateIPAFromLiteral(literal: string): string {
                     bound = false;
                 }
             }
-            sounds.push(longV[V(c)]!)
+            if (bound && literal[i-1] !== 'a' && c !== 'u')
+                sounds.push(shortV[V(c)]!)
+            else
+                sounds.push(longV[V(c)]!)
             lastWasV = true;
         }
         else {

@@ -40,6 +40,9 @@ const Guide: Component = (props) => {
             Its script is from Northern Genezel, its vocabulary largely Volesian and the grammar mostly Dusköhn.
           </p>
           <p>
+            Getriš is used in some projects such as <a href="https://nojufe.bandcamp.com/album/pedestrian-in-reinmyer">Pedestrian in Reinmyer (Album)</a> and <a href="https://modrinth.com/resourcepack/getrish">a Minecraft Translation</a>.
+          </p>
+          <p>
             Not in-universe the language has been slowly created and its vocabulary aggregated since 2020 by <a href="https://nojufe.de/" target="_blank">Nojufe</a>.
           </p>
           <p>
@@ -120,7 +123,7 @@ const Guide: Component = (props) => {
                 <img class="object-contain" src="/script.webp" />
               </div>
               <form method="dialog" class="modal-backdrop">
-                <button type="button" onClick={e=>e.preventDefault()}>close</button>
+                <button>close</button>
               </form>
             </dialog>
             <p>
@@ -147,10 +150,10 @@ const Guide: Component = (props) => {
             <ul>
               <li>ae (/a͜e/)</li>
               <li>ao (/a͜o/)</li>
-              <li>au (/a͜ʊ/)</li>
+              <li>au (/a͜u/)</li>
               <li>ei (/ɜ͜ɪ/)</li>
               <li>oi (/ɔ͜ɪ/)</li>
-              <li>ou (/ɔ͜u/)</li>
+              <li>ou (/o͜u/)</li>
               <li>ua (/wa/)</li>
               <li>ue (/we/)</li>
               <li>uo (/wo/)</li>

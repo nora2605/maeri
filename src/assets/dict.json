@@ -8627,5 +8627,2839 @@
       "enhovuhaeši",
       "enhovuhaeenši"
     ]
+  },
+  {
+    "literal": "eňilha",
+    "wordType": "Adjective",
+    "definitions": [
+      "reachable"
+    ],
+    "syllables": [
+      1,
+      4
+    ],
+    "ipa": "ˈɜŋɪlha",
+    "examples": [],
+    "flexations": [
+      "eňilha",
+      "eňilhagua",
+      "eňilhahia",
+      "eňilhaňa"
+    ]
+  },
+  {
+    "literal": "eňilin",
+    "wordType": "Verb",
+    "definitions": [
+      "reach"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈɜŋɪlɪn",
+    "examples": [],
+    "flexations": [
+      "eňilirei",
+      "eňilimurei",
+      "eňiliru",
+      "eňilimuru",
+      "eňiloiru",
+      "eňilirae",
+      "eňilimurae",
+      "eňilin",
+      "eňilimurin",
+      "eňiloi",
+      "eňilitei",
+      "eňilimurtei",
+      "eňilitum",
+      "eňilimurtum",
+      "eňiloitu",
+      "eňilitae",
+      "eňilimurtae"
+    ]
+  },
+  {
+    "literal": "enmu",
+    "wordType": "Noun",
+    "definitions": [
+      "nugget"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈɜnmu",
+    "examples": [],
+    "flexations": [
+      "enmuň",
+      "enmu",
+      "enmuen",
+      "enmumaň",
+      "enmum",
+      "enmumen",
+      "enmurň",
+      "enmurn",
+      "enmuren",
+      "enmušaň",
+      "enmuša",
+      "enmušaen",
+      "enmuňši",
+      "enmuši",
+      "enmuenši"
+    ]
+  },
+  {
+    "literal": "enrjo",
+    "wordType": "Noun",
+    "definitions": [
+      "knee"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈɜnʀjo",
+    "examples": [],
+    "flexations": [
+      "enrjoň",
+      "enrjo",
+      "enrjoen",
+      "enrjomaň",
+      "enrjom",
+      "enrjomen",
+      "enrjorň",
+      "enrjorn",
+      "enrjoren",
+      "enrjošaň",
+      "enrjoša",
+      "enrjošaen",
+      "enrjoňši",
+      "enrjoši",
+      "enrjoenši"
+    ]
+  },
+  {
+    "literal": "eiri",
+    "wordType": "Noun",
+    "definitions": [
+      "surgery"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈɜ͜ɪʀi",
+    "examples": [],
+    "flexations": [
+      "eiriň",
+      "eiri",
+      "eiren",
+      "eirimaň",
+      "eirim",
+      "eirimen",
+      "eirirň",
+      "eirirn",
+      "eiriren",
+      "eirišaň",
+      "eiriša",
+      "eirišaen",
+      "eiriňši",
+      "eiriši",
+      "eirenši"
+    ]
+  },
+  {
+    "literal": "enurje",
+    "wordType": "Noun",
+    "definitions": [
+      "elbow"
+    ],
+    "syllables": [
+      1,
+      4
+    ],
+    "ipa": "ˈenʊʀjɜ",
+    "examples": [],
+    "flexations": [
+      "enurjeň",
+      "enurje",
+      "enurjeen",
+      "enurjemaň",
+      "enurjem",
+      "enurjemen",
+      "enurjerň",
+      "enurjern",
+      "enurjeren",
+      "enurješaň",
+      "enurješa",
+      "enurješaen",
+      "enurjeňši",
+      "enurješi",
+      "enurjeenši"
+    ]
+  },
+  {
+    "literal": "enzens",
+    "wordType": "Noun",
+    "definitions": [
+      "insanity"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈɜnzɜns",
+    "examples": [],
+    "flexations": [
+      "enzensaň",
+      "enzens",
+      "enzensen",
+      "enzensmaň",
+      "enzensüm",
+      "enzensmen",
+      "enzensarň",
+      "enzensarn",
+      "enzensren",
+      "enzensšaň",
+      "enzensša",
+      "enzensšaen",
+      "enzensaňši",
+      "enzensši",
+      "enzensenši"
+    ]
+  },
+  {
+    "literal": "epju",
+    "wordType": "Noun",
+    "definitions": [
+      "child"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈɜpju",
+    "examples": [],
+    "flexations": [
+      "epjuň",
+      "epju",
+      "epjuen",
+      "epjumaň",
+      "epjum",
+      "epjumen",
+      "epjurň",
+      "epjurn",
+      "epjuren",
+      "epjušaň",
+      "epjuša",
+      "epjušaen",
+      "epjuňši",
+      "epjuši",
+      "epjuenši"
+    ]
+  },
+  {
+    "literal": "epsi",
+    "wordType": "Noun",
+    "definitions": [
+      "berry"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈɜpsi",
+    "examples": [],
+    "flexations": [
+      "epsiň",
+      "epsi",
+      "epsen",
+      "epsmaň",
+      "epsim",
+      "epsmen",
+      "epsirň",
+      "epsirn",
+      "epsren",
+      "epsšaň",
+      "epsša",
+      "epsšaen",
+      "epsiňši",
+      "epsši",
+      "epsenši"
+    ]
+  },
+  {
+    "literal": "erikaki",
+    "wordType": "Noun",
+    "definitions": [
+      "statue"
+    ],
+    "syllables": [],
+    "ipa": "ˈeʀiˌkaki",
+    "examples": [],
+    "flexations": [
+      "erikakiň",
+      "erikaki",
+      "erikaken",
+      "erikakmaň",
+      "erikakim",
+      "erikakmen",
+      "erikakirň",
+      "erikakirn",
+      "erikakren",
+      "erikakšaň",
+      "erikakša",
+      "erikakšaen",
+      "erikakiňši",
+      "erikakši",
+      "erikakenši"
+    ]
+  },
+  {
+    "literal": "erikin",
+    "wordType": "Verb",
+    "definitions": [
+      "stand"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈeʀikɪn",
+    "examples": [],
+    "flexations": [
+      "erikirei",
+      "erikimurei",
+      "erikiru",
+      "erikimuru",
+      "erikoiru",
+      "erikirae",
+      "erikimurae",
+      "erikin",
+      "erikimurin",
+      "erikoi",
+      "erikitei",
+      "erikimurtei",
+      "erikitum",
+      "erikimurtum",
+      "erikoitu",
+      "erikitae",
+      "erikimurtae"
+    ]
+  },
+  {
+    "literal": "erki",
+    "wordType": "Noun",
+    "definitions": [
+      "stand",
+      "station"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈɜʀki",
+    "examples": [],
+    "flexations": [
+      "erkiň",
+      "erki",
+      "erken",
+      "erkmaň",
+      "erkim",
+      "erkmen",
+      "erkirň",
+      "erkirn",
+      "erkren",
+      "erkšaň",
+      "erkša",
+      "erkšaen",
+      "erkiňši",
+      "erkši",
+      "erkenši"
+    ]
+  },
+  {
+    "literal": "ero",
+    "wordType": "Noun",
+    "definitions": [
+      "arm"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈeʀo",
+    "examples": [],
+    "flexations": [
+      "eroň",
+      "ero",
+      "eroen",
+      "eromaň",
+      "erom",
+      "eromen",
+      "erorň",
+      "erorn",
+      "eroren",
+      "erošaň",
+      "eroša",
+      "erošaen",
+      "eroňši",
+      "eroši",
+      "eroenši"
+    ]
+  },
+  {
+    "literal": "ersmüns",
+    "wordType": "Noun",
+    "definitions": [
+      "nickel (chemical element)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈɜʀsmʏns",
+    "examples": [],
+    "flexations": [
+      "ersmünsaň",
+      "ersmüns",
+      "ersmünsen",
+      "ersmünsmaň",
+      "ersmünsüm",
+      "ersmünsmen",
+      "ersmünsarň",
+      "ersmünsarn",
+      "ersmünsren",
+      "ersmünsšaň",
+      "ersmünsša",
+      "ersmünsšaen",
+      "ersmünsaňši",
+      "ersmünsši",
+      "ersmünsenši"
+    ]
+  },
+  {
+    "literal": "erula",
+    "wordType": "Adjective",
+    "definitions": [
+      "upright",
+      "straight"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈeʀula",
+    "examples": [],
+    "flexations": [
+      "erula",
+      "erulagua",
+      "erulahia",
+      "erulaňa"
+    ]
+  },
+  {
+    "literal": "erulin",
+    "wordType": "Verb",
+    "definitions": [
+      "wake up",
+      "stand up, get up"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈeʀulɪn",
+    "examples": [],
+    "flexations": [
+      "erulirei",
+      "erulimurei",
+      "eruliru",
+      "erulimuru",
+      "eruloiru",
+      "erulirae",
+      "erulimurae",
+      "erulin",
+      "erulimurin",
+      "eruloi",
+      "erulitei",
+      "erulimurtei",
+      "erulitum",
+      "erulimurtum",
+      "eruloitu",
+      "erulitae",
+      "erulimurtae"
+    ]
+  },
+  {
+    "literal": "erumnin",
+    "wordType": "Verb",
+    "definitions": [
+      "equip"
+    ],
+    "syllables": [
+      1,
+      4
+    ],
+    "ipa": "ˈeʀʊmnɪn",
+    "examples": [],
+    "flexations": [
+      "erumnirei",
+      "erumnimurei",
+      "erumniru",
+      "erumnimuru",
+      "erumnoiru",
+      "erumnirae",
+      "erumnimurae",
+      "erumnin",
+      "erumnimurin",
+      "erumnoi",
+      "erumnitei",
+      "erumnimurtei",
+      "erumnitum",
+      "erumnimurtum",
+      "erumnoitu",
+      "erumnitae",
+      "erumnimurtae"
+    ]
+  },
+  {
+    "literal": "espirui",
+    "wordType": "Noun",
+    "definitions": [
+      "feedback",
+      "review"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈɜspiʀwi",
+    "examples": [],
+    "flexations": [
+      "espiruiň",
+      "espirui",
+      "espiruen",
+      "espirumaň",
+      "espiruim",
+      "espirumen",
+      "espiruirň",
+      "espiruirn",
+      "espiruren",
+      "espirušaň",
+      "espiruša",
+      "espirušaen",
+      "espiruiňši",
+      "espiruši",
+      "espiruenši"
+    ]
+  },
+  {
+    "literal": "eštalae",
+    "wordType": "Noun",
+    "definitions": [
+      "information, data"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈɜʃtala͜e",
+    "examples": [],
+    "flexations": [
+      "eštalaeň",
+      "eštalae",
+      "eštalaeen",
+      "eštalaemaň",
+      "eštalaem",
+      "eštalaemen",
+      "eštalaerň",
+      "eštalaern",
+      "eštalaeren",
+      "eštalaešaň",
+      "eštalaeša",
+      "eštalaešaen",
+      "eštalaeňši",
+      "eštalaeši",
+      "eštalaeenši"
+    ]
+  },
+  {
+    "literal": "estali",
+    "wordType": "Noun",
+    "definitions": [
+      "event, occasion, time"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈɜstali",
+    "examples": [],
+    "flexations": [
+      "estaliň",
+      "estali",
+      "estalen",
+      "estalmaň",
+      "estalim",
+      "estalmen",
+      "estalirň",
+      "estalirn",
+      "estalren",
+      "estalšaň",
+      "estalša",
+      "estalšaen",
+      "estaliňši",
+      "estalši",
+      "estalenši"
+    ]
+  },
+  {
+    "literal": "eštforo",
+    "wordType": "Noun",
+    "definitions": [
+      "worm"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈɜʃtfoʀo",
+    "examples": [],
+    "flexations": [
+      "eštforoň",
+      "eštforo",
+      "eštforoen",
+      "eštforomaň",
+      "eštforom",
+      "eštforomen",
+      "eštfororň",
+      "eštfororn",
+      "eštfororen",
+      "eštforošaň",
+      "eštforoša",
+      "eštforošaen",
+      "eštforoňši",
+      "eštforoši",
+      "eštforoenši"
+    ]
+  },
+  {
+    "literal": "eszo",
+    "wordType": "Noun",
+    "definitions": [
+      "mouth"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈɜszo",
+    "examples": [],
+    "flexations": [
+      "eszoň",
+      "eszo",
+      "eszoen",
+      "eszomaň",
+      "eszom",
+      "eszomen",
+      "eszorň",
+      "eszorn",
+      "eszoren",
+      "eszošaň",
+      "eszoša",
+      "eszošaen",
+      "eszoňši",
+      "eszoši",
+      "eszoenši"
+    ]
+  },
+  {
+    "literal": "etjosae",
+    "wordType": "Noun",
+    "definitions": [
+      "error",
+      "fault"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈɜtjosa͜e",
+    "examples": [],
+    "flexations": [
+      "etjosaeň",
+      "etjosae",
+      "etjosaeen",
+      "etjosaemaň",
+      "etjosaem",
+      "etjosaemen",
+      "etjosaerň",
+      "etjosaern",
+      "etjosaeren",
+      "etjosaešaň",
+      "etjosaeša",
+      "etjosaešaen",
+      "etjosaeňši",
+      "etjosaeši",
+      "etjosaeenši"
+    ]
+  },
+  {
+    "literal": "etjosin",
+    "wordType": "Verb",
+    "definitions": [
+      "fail",
+      "lose"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈɜtjosɪn",
+    "examples": [],
+    "flexations": [
+      "etjosirei",
+      "etjosimurei",
+      "etjosiru",
+      "etjosimuru",
+      "etjosoiru",
+      "etjosirae",
+      "etjosimurae",
+      "etjosin",
+      "etjosimurin",
+      "etjosoi",
+      "etjositei",
+      "etjosimurtei",
+      "etjositum",
+      "etjosimurtum",
+      "etjosoitu",
+      "etjositae",
+      "etjosimurtae"
+    ]
+  },
+  {
+    "literal": "eueu",
+    "wordType": "Adverb",
+    "definitions": [
+      "exceptionally"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈeweʔu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "evali",
+    "wordType": "Noun",
+    "definitions": [
+      "rope"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈevali",
+    "examples": [],
+    "flexations": [
+      "evaliň",
+      "evali",
+      "evalen",
+      "evalmaň",
+      "evalim",
+      "evalmen",
+      "evalirň",
+      "evalirn",
+      "evalren",
+      "evalšaň",
+      "evalša",
+      "evalšaen",
+      "evaliňši",
+      "evalši",
+      "evalenši"
+    ]
+  },
+  {
+    "literal": "evin",
+    "wordType": "Verb",
+    "definitions": [
+      "hold"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈevɪn",
+    "examples": [],
+    "flexations": [
+      "evirei",
+      "evimurei",
+      "eviru",
+      "evimuru",
+      "evoiru",
+      "evirae",
+      "evimurae",
+      "evin",
+      "evimurin",
+      "evoi",
+      "evitei",
+      "evimurtei",
+      "evitum",
+      "evimurtum",
+      "evoitu",
+      "evitae",
+      "evimurtae"
+    ]
+  },
+  {
+    "literal": "eza",
+    "wordType": "Adjective",
+    "definitions": [
+      "light (lightweight)",
+      "easy"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈeza",
+    "examples": [],
+    "flexations": [
+      "eza",
+      "ezagua",
+      "ezahia",
+      "ezaňa"
+    ]
+  },
+  {
+    "literal": "faeogosi",
+    "wordType": "Noun",
+    "definitions": [
+      "alga (algae)"
+    ],
+    "syllables": [
+      3,
+      4,
+      6
+    ],
+    "ipa": "fa͜eˈʔogosi",
+    "examples": [],
+    "flexations": [
+      "faeogosiň",
+      "faeogosi",
+      "faeogosen",
+      "faeogosmaň",
+      "faeogosim",
+      "faeogosmen",
+      "faeogosirň",
+      "faeogosirn",
+      "faeogosren",
+      "faeogosšaň",
+      "faeogosša",
+      "faeogosšaen",
+      "faeogosiňši",
+      "faeogosši",
+      "faeogosenši"
+    ]
+  },
+  {
+    "literal": "fagjin",
+    "wordType": "Verb",
+    "definitions": [
+      "follow"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfagjɪn",
+    "examples": [],
+    "flexations": [
+      "fagjirei",
+      "fagjimurei",
+      "fagjiru",
+      "fagjimuru",
+      "fagjoiru",
+      "fagjirae",
+      "fagjimurae",
+      "fagjin",
+      "fagjimurin",
+      "fagjoi",
+      "fagjitei",
+      "fagjimurtei",
+      "fagjitum",
+      "fagjimurtum",
+      "fagjoitu",
+      "fagjitae",
+      "fagjimurtae"
+    ]
+  },
+  {
+    "literal": "fakin",
+    "wordType": "Verb",
+    "definitions": [
+      "walk, cruise, stride"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfakɪn",
+    "examples": [],
+    "flexations": [
+      "fakirei",
+      "fakimurei",
+      "fakiru",
+      "fakimuru",
+      "fakoiru",
+      "fakirae",
+      "fakimurae",
+      "fakin",
+      "fakimurin",
+      "fakoi",
+      "fakitei",
+      "fakimurtei",
+      "fakitum",
+      "fakimurtum",
+      "fakoitu",
+      "fakitae",
+      "fakimurtae"
+    ]
+  },
+  {
+    "literal": "faleain",
+    "wordType": "Verb",
+    "definitions": [
+      "return"
+    ],
+    "syllables": [
+      2,
+      4,
+      5
+    ],
+    "ipa": "ˈfaleaʔin",
+    "examples": [],
+    "flexations": [
+      "faleairei",
+      "faleaimurei",
+      "faleairu",
+      "faleaimuru",
+      "faleaoiru",
+      "faleairae",
+      "faleaimurae",
+      "faleain",
+      "faleaimurin",
+      "faleaoi",
+      "faleaitei",
+      "faleaimurtei",
+      "faleaitum",
+      "faleaimurtum",
+      "faleaoitu",
+      "faleaitae",
+      "faleaimurtae"
+    ]
+  },
+  {
+    "literal": "falea",
+    "wordType": "Adverb",
+    "definitions": [
+      "back (returning)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈfalea",
+    "examples": [
+      [
+        "hagjoi falea",
+        "go back!"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "fakala",
+    "wordType": "Exclamation",
+    "definitions": [
+      "damn, fuck, fucking"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈfakala",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "fakizein",
+    "wordType": "Verb",
+    "definitions": [
+      "go away (acc.: from), leave"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈfakizɜ͜ɪn",
+    "examples": [],
+    "flexations": [
+      "fakizeirei",
+      "fakizeimurei",
+      "fakizeiru",
+      "fakizeimuru",
+      "fakizeoiru",
+      "fakizeirae",
+      "fakizeimurae",
+      "fakizein",
+      "fakizeimurin",
+      "fakizeoi",
+      "fakizeitei",
+      "fakizeimurtei",
+      "fakizeitum",
+      "fakizeimurtum",
+      "fakizeoitu",
+      "fakizeitae",
+      "fakizeimurtae"
+    ]
+  },
+  {
+    "literal": "faln",
+    "wordType": "Noun",
+    "definitions": [
+      "land"
+    ],
+    "syllables": [],
+    "ipa": "ˈfaln",
+    "examples": [],
+    "flexations": [
+      "falnaň",
+      "faln",
+      "falnen",
+      "falnmaň",
+      "falnüm",
+      "falnmen",
+      "falnarň",
+      "falnarn",
+      "falnren",
+      "falnšaň",
+      "falnša",
+      "falnšaen",
+      "falnaňši",
+      "falnši",
+      "falnenši"
+    ]
+  },
+  {
+    "literal": "falvatsko",
+    "wordType": "Noun",
+    "definitions": [
+      "cerium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      7
+    ],
+    "ipa": "ˈfalvatsko",
+    "examples": [],
+    "flexations": [
+      "falvatskoň",
+      "falvatsko",
+      "falvatskoen",
+      "falvatskomaň",
+      "falvatskom",
+      "falvatskomen",
+      "falvatskorň",
+      "falvatskorn",
+      "falvatskoren",
+      "falvatskošaň",
+      "falvatskoša",
+      "falvatskošaen",
+      "falvatskoňši",
+      "falvatskoši",
+      "falvatskoenši"
+    ]
+  },
+  {
+    "literal": "faňlauko",
+    "wordType": "Noun",
+    "definitions": [
+      "fermium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈfaŋla͜uko",
+    "examples": [],
+    "flexations": [
+      "faňlaukoň",
+      "faňlauko",
+      "faňlaukoen",
+      "faňlaukomaň",
+      "faňlaukom",
+      "faňlaukomen",
+      "faňlaukorň",
+      "faňlaukorn",
+      "faňlaukoren",
+      "faňlaukošaň",
+      "faňlaukoša",
+      "faňlaukošaen",
+      "faňlaukoňši",
+      "faňlaukoši",
+      "faňlaukoenši"
+    ]
+  },
+  {
+    "literal": "faraiko",
+    "wordType": "Noun",
+    "definitions": [
+      "titanium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      4,
+      5
+    ],
+    "ipa": "ˈfaʀaʔiko",
+    "examples": [],
+    "flexations": [
+      "faraikoň",
+      "faraiko",
+      "faraikoen",
+      "faraikomaň",
+      "faraikom",
+      "faraikomen",
+      "faraikorň",
+      "faraikorn",
+      "faraikoren",
+      "faraikošaň",
+      "faraikoša",
+      "faraikošaen",
+      "faraikoňši",
+      "faraikoši",
+      "faraikoenši"
+    ]
+  },
+  {
+    "literal": "faršae",
+    "wordType": "Noun",
+    "definitions": [
+      "suffix (grammatical)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈfaʀʃa͜e",
+    "examples": [],
+    "flexations": [
+      "faršaeň",
+      "faršae",
+      "faršaeen",
+      "faršaemaň",
+      "faršaem",
+      "faršaemen",
+      "faršaerň",
+      "faršaern",
+      "faršaeren",
+      "faršaešaň",
+      "faršaeša",
+      "faršaešaen",
+      "faršaeňši",
+      "faršaeši",
+      "faršaeenši"
+    ]
+  },
+  {
+    "literal": "farsga",
+    "wordType": "Preposition",
+    "definitions": [
+      "behind"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈfaʀsga",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "farsia",
+    "wordType": "Adjective",
+    "definitions": [
+      "shy"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈfaʀsiʔa",
+    "examples": [],
+    "flexations": [
+      "farsia",
+      "farsiagua",
+      "farsiahia",
+      "farsiaňa"
+    ]
+  },
+  {
+    "literal": "farü",
+    "wordType": "Noun",
+    "definitions": [
+      "sock"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfaʀy",
+    "examples": [],
+    "flexations": [
+      "farüň",
+      "farü",
+      "farüen",
+      "farümaň",
+      "farüm",
+      "farümen",
+      "farürň",
+      "farürn",
+      "farüren",
+      "farüšaň",
+      "farüša",
+      "farüšaen",
+      "farüňši",
+      "farüši",
+      "farüenši"
+    ]
+  },
+  {
+    "literal": "faviigu",
+    "wordType": "Noun",
+    "definitions": [
+      "coral"
+    ],
+    "syllables": [
+      2,
+      4,
+      5
+    ],
+    "ipa": "ˈfaviʔigu",
+    "examples": [],
+    "flexations": [
+      "faviiguň",
+      "faviigu",
+      "faviiguen",
+      "faviigumaň",
+      "faviigum",
+      "faviigumen",
+      "faviigurň",
+      "faviigurn",
+      "faviiguren",
+      "faviigušaň",
+      "faviiguša",
+      "faviigušaen",
+      "faviiguňši",
+      "faviiguši",
+      "faviiguenši"
+    ]
+  },
+  {
+    "literal": "fea",
+    "wordType": "Adjective",
+    "definitions": [
+      "true, correct"
+    ],
+    "syllables": [],
+    "ipa": "ˈfea",
+    "examples": [],
+    "flexations": [
+      "fea",
+      "feagua",
+      "feahia",
+      "feaňa"
+    ]
+  },
+  {
+    "literal": "fepin",
+    "wordType": "Verb",
+    "definitions": [
+      "remove"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfepɪn",
+    "examples": [],
+    "flexations": [
+      "fepirei",
+      "fepimurei",
+      "fepiru",
+      "fepimuru",
+      "fepoiru",
+      "fepirae",
+      "fepimurae",
+      "fepin",
+      "fepimurin",
+      "fepoi",
+      "fepitei",
+      "fepimurtei",
+      "fepitum",
+      "fepimurtum",
+      "fepoitu",
+      "fepitae",
+      "fepimurtae"
+    ]
+  },
+  {
+    "literal": "fhjane",
+    "wordType": "Noun",
+    "definitions": [
+      "(nam.) Currency of the Crescent Union"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈfçanɜ",
+    "examples": [],
+    "flexations": [
+      "fhjaneň",
+      "fhjane",
+      "fhjaneen",
+      "fhjanemaň",
+      "fhjanem",
+      "fhjanemen",
+      "fhjanerň",
+      "fhjanern",
+      "fhjaneren",
+      "fhjanešaň",
+      "fhjaneša",
+      "fhjanešaen",
+      "fhjaneňši",
+      "fhjaneši",
+      "fhjaneenši"
+    ]
+  },
+  {
+    "literal": "fhjazion",
+    "wordType": "Noun",
+    "definitions": [
+      "economy"
+    ],
+    "syllables": [
+      4,
+      6
+    ],
+    "ipa": "ˈfçaziɔn",
+    "examples": [],
+    "flexations": [
+      "fhjazionaň",
+      "fhjazion",
+      "fhjazionen",
+      "fhjazionmaň",
+      "fhjazionüm",
+      "fhjazionmen",
+      "fhjazionarň",
+      "fhjazionarn",
+      "fhjazionren",
+      "fhjazionšaň",
+      "fhjazionša",
+      "fhjazionšaen",
+      "fhjazionaňši",
+      "fhjazionši",
+      "fhjazionenši"
+    ]
+  },
+  {
+    "literal": "eszion",
+    "wordType": "Noun",
+    "definitions": [
+      "documentation",
+      "write-up"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈɜsziɔn",
+    "examples": [],
+    "flexations": [
+      "eszionaň",
+      "eszion",
+      "eszionen",
+      "eszionmaň",
+      "eszionüm",
+      "eszionmen",
+      "eszionarň",
+      "eszionarn",
+      "eszionren",
+      "eszionšaň",
+      "eszionša",
+      "eszionšaen",
+      "eszionaňši",
+      "eszionši",
+      "eszionenši"
+    ]
+  },
+  {
+    "literal": "fhjebi",
+    "wordType": "Noun",
+    "definitions": [
+      "ticket",
+      "permission",
+      "cheque"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈfçebi",
+    "examples": [],
+    "flexations": [
+      "fhjebiň",
+      "fhjebi",
+      "fhjeben",
+      "fhjebimaň",
+      "fhjebim",
+      "fhjebimen",
+      "fhjebirň",
+      "fhjebirn",
+      "fhjebiren",
+      "fhjebišaň",
+      "fhjebiša",
+      "fhjebšaen",
+      "fhjebiňši",
+      "fhjebiši",
+      "fhjebenši"
+    ]
+  },
+  {
+    "literal": "fhjeim",
+    "wordType": "Noun",
+    "definitions": [
+      "good, ware"
+    ],
+    "syllables": [],
+    "ipa": "ˈfçɜ͜ɪm",
+    "examples": [],
+    "flexations": [
+      "fhjeimaň",
+      "fhjeim",
+      "fhjeimen",
+      "fhjeimmaň",
+      "fhjeimüm",
+      "fhjeimmen",
+      "fhjeimarň",
+      "fhjeimarn",
+      "fhjeimren",
+      "fhjeimšaň",
+      "fhjeimša",
+      "fhjeimšaen",
+      "fhjeimaňši",
+      "fhjeimši",
+      "fhjeimenši"
+    ]
+  },
+  {
+    "literal": "fhjöi",
+    "wordType": "Noun",
+    "definitions": [
+      "gust"
+    ],
+    "syllables": [],
+    "ipa": "ˈfçɶ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "fhjöiň",
+      "fhjöi",
+      "fhjöen",
+      "fhjömaň",
+      "fhjöim",
+      "fhjömen",
+      "fhjöirň",
+      "fhjöirn",
+      "fhjören",
+      "fhjöšaň",
+      "fhjöša",
+      "fhjöšaen",
+      "fhjöiňši",
+      "fhjöši",
+      "fhjöenši"
+    ]
+  },
+  {
+    "literal": "fhju",
+    "wordType": "Noun",
+    "definitions": [
+      "store, shop"
+    ],
+    "syllables": [],
+    "ipa": "ˈfçu",
+    "examples": [],
+    "flexations": [
+      "fhjuň",
+      "fhju",
+      "fhjuen",
+      "fhjumaň",
+      "fhjum",
+      "fhjumen",
+      "fhjurň",
+      "fhjurn",
+      "fhjuren",
+      "fhjušaň",
+      "fhjuša",
+      "fhjušaen",
+      "fhjuňši",
+      "fhjuši",
+      "fhjuenši"
+    ]
+  },
+  {
+    "literal": "fihjtin",
+    "wordType": "Verb",
+    "definitions": [
+      "confess"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈfɪçtɪn",
+    "examples": [],
+    "flexations": [
+      "fihjtirei",
+      "fihjtimurei",
+      "fihjtiru",
+      "fihjtimuru",
+      "fihjtoiru",
+      "fihjtirae",
+      "fihjtimurae",
+      "fihjtin",
+      "fihjtimurin",
+      "fihjtoi",
+      "fihjtitei",
+      "fihjtimurtei",
+      "fihjtitum",
+      "fihjtimurtum",
+      "fihjtoitu",
+      "fihjtitae",
+      "fihjtimurtae"
+    ]
+  },
+  {
+    "literal": "filahin",
+    "wordType": "Verb",
+    "definitions": [
+      "meet",
+      "connect (acc.: with)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈfilahɪn",
+    "examples": [],
+    "flexations": [
+      "filahirei",
+      "filahimurei",
+      "filahiru",
+      "filahimuru",
+      "filahoiru",
+      "filahirae",
+      "filahimurae",
+      "filahin",
+      "filahimurin",
+      "filahoi",
+      "filahitei",
+      "filahimurtei",
+      "filahitum",
+      "filahimurtum",
+      "filahoitu",
+      "filahitae",
+      "filahimurtae"
+    ]
+  },
+  {
+    "literal": "filai",
+    "wordType": "Noun",
+    "definitions": [
+      "meeting",
+      "connection"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈfilaʔi",
+    "examples": [],
+    "flexations": [
+      "filaiň",
+      "filai",
+      "filaen",
+      "filamaň",
+      "filaim",
+      "filamen",
+      "filairň",
+      "filairn",
+      "filaren",
+      "filašaň",
+      "filaša",
+      "filašaen",
+      "filaiňši",
+      "filaši",
+      "filaenši"
+    ]
+  },
+  {
+    "literal": "filim",
+    "wordType": "Noun",
+    "definitions": [
+      "country, state, nation"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfilim",
+    "examples": [],
+    "flexations": [
+      "filimaň",
+      "filim",
+      "filimen",
+      "filimümaň",
+      "filimüm",
+      "filimümen",
+      "filimarň",
+      "filimarn",
+      "filimren",
+      "filimšaň",
+      "filimša",
+      "filimšaen",
+      "filimaňši",
+      "filimši",
+      "filimenši"
+    ]
+  },
+  {
+    "literal": "finmai",
+    "wordType": "Noun",
+    "definitions": [
+      "traveler"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈfɪnmaʔi",
+    "examples": [],
+    "flexations": [
+      "finmaiň",
+      "finmai",
+      "finmaen",
+      "finmamaň",
+      "finmaim",
+      "finmamen",
+      "finmairň",
+      "finmairn",
+      "finmaren",
+      "finmašaň",
+      "finmaša",
+      "finmašaen",
+      "finmaiňši",
+      "finmaši",
+      "finmaenši"
+    ]
+  },
+  {
+    "literal": "finmi",
+    "wordType": "Noun",
+    "definitions": [
+      "trip, vacation",
+      "journey, travel"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈfɪnmi",
+    "examples": [],
+    "flexations": [
+      "finmiň",
+      "finmi",
+      "finmen",
+      "finmimaň",
+      "finmim",
+      "finmimen",
+      "finmirň",
+      "finmirn",
+      "finmiren",
+      "finmišaň",
+      "finmiša",
+      "finmišaen",
+      "finmiňši",
+      "finmiši",
+      "finmenši"
+    ]
+  },
+  {
+    "literal": "finmin",
+    "wordType": "Verb",
+    "definitions": [
+      "travel"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈfɪnmɪn",
+    "examples": [],
+    "flexations": [
+      "finmirei",
+      "finmimurei",
+      "finmiru",
+      "finmimuru",
+      "finmoiru",
+      "finmirae",
+      "finmimurae",
+      "finmin",
+      "finmimurin",
+      "finmoi",
+      "finmitei",
+      "finmimurtei",
+      "finmitum",
+      "finmimurtum",
+      "finmoitu",
+      "finmitae",
+      "finmimurtae"
+    ]
+  },
+  {
+    "literal": "fišel",
+    "wordType": "Noun",
+    "definitions": [
+      "ammunition"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfɪʃɜl",
+    "examples": [],
+    "flexations": [
+      "fišelaň",
+      "fišel",
+      "fišelen",
+      "fišelmaň",
+      "fišelüm",
+      "fišelmen",
+      "fišelarň",
+      "fišelarn",
+      "fišelren",
+      "fišelšaň",
+      "fišelša",
+      "fišelšaen",
+      "fišelaňši",
+      "fišelši",
+      "fišelenši"
+    ]
+  },
+  {
+    "literal": "fišurin",
+    "wordType": "Verb",
+    "definitions": [
+      "stare"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈfiʃuʀɪn",
+    "examples": [],
+    "flexations": [
+      "fišurirei",
+      "fišurimurei",
+      "fišuriru",
+      "fišurimuru",
+      "fišuroiru",
+      "fišurirae",
+      "fišurimurae",
+      "fišurin",
+      "fišurimurin",
+      "fišuroi",
+      "fišuritei",
+      "fišurimurtei",
+      "fišuritum",
+      "fišurimurtum",
+      "fišuroitu",
+      "fišuritae",
+      "fišurimurtae"
+    ]
+  },
+  {
+    "literal": "fiti",
+    "wordType": "Noun",
+    "definitions": [
+      "smell"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfiti",
+    "examples": [],
+    "flexations": [
+      "fitiň",
+      "fiti",
+      "fiten",
+      "fitmaň",
+      "fitim",
+      "fitmen",
+      "fitirň",
+      "fitirn",
+      "fitren",
+      "fitšaň",
+      "fitša",
+      "fitšaen",
+      "fitiňši",
+      "fitši",
+      "fitenši"
+    ]
+  },
+  {
+    "literal": "fitin",
+    "wordType": "Verb",
+    "definitions": [
+      "smell"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfitɪn",
+    "examples": [],
+    "flexations": [
+      "fitirei",
+      "fitimurei",
+      "fitiru",
+      "fitimuru",
+      "fitoiru",
+      "fitirae",
+      "fitimurae",
+      "fitin",
+      "fitimurin",
+      "fitoi",
+      "fititei",
+      "fitimurtei",
+      "fititum",
+      "fitimurtum",
+      "fitoitu",
+      "fititae",
+      "fitimurtae"
+    ]
+  },
+  {
+    "literal": "fitua",
+    "wordType": "Adjective",
+    "definitions": [
+      "stinky, smelly"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfitwa",
+    "examples": [],
+    "flexations": [
+      "fitua",
+      "fituagua",
+      "fituahia",
+      "fituaňa"
+    ]
+  },
+  {
+    "literal": "fituii",
+    "wordType": "Noun",
+    "definitions": [
+      "odor"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈfitwiʔi",
+    "examples": [],
+    "flexations": [
+      "fituiiň",
+      "fituii",
+      "fituien",
+      "fituimaň",
+      "fituiim",
+      "fituimen",
+      "fituiirň",
+      "fituiirn",
+      "fituiren",
+      "fituišaň",
+      "fituiša",
+      "fituišaen",
+      "fituiiňši",
+      "fituiši",
+      "fituienši"
+    ]
+  },
+  {
+    "literal": "fivitško",
+    "wordType": "Noun",
+    "definitions": [
+      "palladium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      6
+    ],
+    "ipa": "ˈfivɪtʃko",
+    "examples": [],
+    "flexations": [
+      "fivitškoň",
+      "fivitško",
+      "fivitškoen",
+      "fivitškomaň",
+      "fivitškom",
+      "fivitškomen",
+      "fivitškorň",
+      "fivitškorn",
+      "fivitškoren",
+      "fivitškošaň",
+      "fivitškoša",
+      "fivitškošaen",
+      "fivitškoňši",
+      "fivitškoši",
+      "fivitškoenši"
+    ]
+  },
+  {
+    "literal": "fjot",
+    "wordType": "Noun",
+    "definitions": [
+      "tower"
+    ],
+    "syllables": [],
+    "ipa": "ˈfjɔt",
+    "examples": [],
+    "flexations": [
+      "fjotaň",
+      "fjot",
+      "fjoten",
+      "fjotmaň",
+      "fjotüm",
+      "fjotmen",
+      "fjotarň",
+      "fjotarn",
+      "fjotren",
+      "fjotšaň",
+      "fjotša",
+      "fjotšaen",
+      "fjotaňši",
+      "fjotši",
+      "fjotenši"
+    ]
+  },
+  {
+    "literal": "fjurdžu",
+    "wordType": "Noun",
+    "definitions": [
+      "tear"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈfjʊʀdʒu",
+    "examples": [],
+    "flexations": [
+      "fjurdžuň",
+      "fjurdžu",
+      "fjurdžuen",
+      "fjurdžumaň",
+      "fjurdžum",
+      "fjurdžumen",
+      "fjurdžurň",
+      "fjurdžurn",
+      "fjurdžuren",
+      "fjurdžušaň",
+      "fjurdžuša",
+      "fjurdžušaen",
+      "fjurdžuňši",
+      "fjurdžuši",
+      "fjurdžuenši"
+    ]
+  },
+  {
+    "literal": "fjurin",
+    "wordType": "Verb",
+    "definitions": [
+      "cry"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈfjuʀɪn",
+    "examples": [],
+    "flexations": [
+      "fjurirei",
+      "fjurimurei",
+      "fjuriru",
+      "fjurimuru",
+      "fjuroiru",
+      "fjurirae",
+      "fjurimurae",
+      "fjurin",
+      "fjurimurin",
+      "fjuroi",
+      "fjuritei",
+      "fjurimurtei",
+      "fjuritum",
+      "fjurimurtum",
+      "fjuroitu",
+      "fjuritae",
+      "fjurimurtae"
+    ]
+  },
+  {
+    "literal": "fkimni",
+    "wordType": "Noun",
+    "definitions": [
+      "adventure"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈfkɪmni",
+    "examples": [],
+    "flexations": [
+      "fkimniň",
+      "fkimni",
+      "fkimnen",
+      "fkimnimaň",
+      "fkimnim",
+      "fkimnimen",
+      "fkimnirň",
+      "fkimnirn",
+      "fkimniren",
+      "fkimnišaň",
+      "fkimniša",
+      "fkimnišaen",
+      "fkimniňši",
+      "fkimniši",
+      "fkimnenši"
+    ]
+  },
+  {
+    "literal": "fkivi",
+    "wordType": "Noun",
+    "definitions": [
+      "torch"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈfkivi",
+    "examples": [],
+    "flexations": [
+      "fkiviň",
+      "fkivi",
+      "fkiven",
+      "fkivimaň",
+      "fkivim",
+      "fkivimen",
+      "fkivirň",
+      "fkivirn",
+      "fkiviren",
+      "fkivišaň",
+      "fkiviša",
+      "fkivišaen",
+      "fkiviňši",
+      "fkiviši",
+      "fkivenši"
+    ]
+  },
+  {
+    "literal": "fkulin",
+    "wordType": "Verb",
+    "definitions": [
+      "stab"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈfkulɪn",
+    "examples": [],
+    "flexations": [
+      "fkulirei",
+      "fkulimurei",
+      "fkuliru",
+      "fkulimuru",
+      "fkuloiru",
+      "fkulirae",
+      "fkulimurae",
+      "fkulin",
+      "fkulimurin",
+      "fkuloi",
+      "fkulitei",
+      "fkulimurtei",
+      "fkulitum",
+      "fkulimurtum",
+      "fkuloitu",
+      "fkulitae",
+      "fkulimurtae"
+    ]
+  },
+  {
+    "literal": "fkulo",
+    "wordType": "Noun",
+    "definitions": [
+      "stick"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈfkulo",
+    "examples": [],
+    "flexations": [
+      "fkuloň",
+      "fkulo",
+      "fkuloen",
+      "fkulomaň",
+      "fkulom",
+      "fkulomen",
+      "fkulorň",
+      "fkulorn",
+      "fkuloren",
+      "fkulošaň",
+      "fkuloša",
+      "fkulošaen",
+      "fkuloňši",
+      "fkuloši",
+      "fkuloenši"
+    ]
+  },
+  {
+    "literal": "fla",
+    "wordType": "Adjective",
+    "definitions": [
+      "full, filled"
+    ],
+    "syllables": [],
+    "ipa": "ˈfla",
+    "examples": [],
+    "flexations": [
+      "fla",
+      "flagua",
+      "flahia",
+      "flaňa"
+    ]
+  },
+  {
+    "literal": "flami",
+    "wordType": "Noun",
+    "definitions": [
+      "flag"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈflami",
+    "examples": [],
+    "flexations": [
+      "flamiň",
+      "flami",
+      "flamen",
+      "flamimaň",
+      "flamim",
+      "flamimen",
+      "flamirň",
+      "flamirn",
+      "flamren",
+      "flamšaň",
+      "flamša",
+      "flamšaen",
+      "flamiňši",
+      "flamši",
+      "flamenši"
+    ]
+  },
+  {
+    "literal": "flei",
+    "wordType": "Noun",
+    "definitions": [
+      "praise, glory"
+    ],
+    "syllables": [],
+    "ipa": "ˈflɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "fleiň",
+      "flei",
+      "fleen",
+      "flemaň",
+      "fleim",
+      "flemen",
+      "fleirň",
+      "fleirn",
+      "fleren",
+      "flešaň",
+      "fleša",
+      "flešaen",
+      "fleiňši",
+      "fleši",
+      "fleenši"
+    ]
+  },
+  {
+    "literal": "fluhi",
+    "wordType": "Noun",
+    "definitions": [
+      "sink, drain"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈfluhi",
+    "examples": [],
+    "flexations": [
+      "fluhiň",
+      "fluhi",
+      "fluhen",
+      "fluhimaň",
+      "fluhim",
+      "fluhimen",
+      "fluhirň",
+      "fluhirn",
+      "fluhiren",
+      "fluhišaň",
+      "fluhiša",
+      "fluhišaen",
+      "fluhiňši",
+      "fluhiši",
+      "fluhenši"
+    ]
+  },
+  {
+    "literal": "flüpöi",
+    "wordType": "Noun",
+    "definitions": [
+      "logarithm"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈflypɶ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "flüpöiň",
+      "flüpöi",
+      "flüpöen",
+      "flüpömaň",
+      "flüpöim",
+      "flüpömen",
+      "flüpöirň",
+      "flüpöirn",
+      "flüpören",
+      "flüpöšaň",
+      "flüpöša",
+      "flüpöšaen",
+      "flüpöiňši",
+      "flüpöši",
+      "flüpöenši"
+    ]
+  },
+  {
+    "literal": "fnupibi",
+    "wordType": "Noun",
+    "definitions": [
+      "flint (material)"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈfnupibi",
+    "examples": [],
+    "flexations": [
+      "fnupibiň",
+      "fnupibi",
+      "fnupiben",
+      "fnupibimaň",
+      "fnupibim",
+      "fnupibimen",
+      "fnupibirň",
+      "fnupibirn",
+      "fnupibiren",
+      "fnupibišaň",
+      "fnupibiša",
+      "fnupibišaen",
+      "fnupibiňši",
+      "fnupibiši",
+      "fnupibenši"
+    ]
+  },
+  {
+    "literal": "fnupi",
+    "wordType": "Noun",
+    "definitions": [
+      "bunny, rabbit"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈfnupi",
+    "examples": [],
+    "flexations": [
+      "fnupiň",
+      "fnupi",
+      "fnupen",
+      "fnupmaň",
+      "fnupim",
+      "fnupmen",
+      "fnupirň",
+      "fnupirn",
+      "fnupren",
+      "fnupšaň",
+      "fnupša",
+      "fnupšaen",
+      "fnupiňši",
+      "fnupši",
+      "fnupenši"
+    ]
+  },
+  {
+    "literal": "foonai",
+    "wordType": "Noun",
+    "definitions": [
+      "sea, lake"
+    ],
+    "syllables": [
+      2,
+      3,
+      5
+    ],
+    "ipa": "ˈfoʔonaʔi",
+    "examples": [],
+    "flexations": [
+      "foonaiň",
+      "foonai",
+      "foonaen",
+      "foonamaň",
+      "foonaim",
+      "foonamen",
+      "foonairň",
+      "foonairn",
+      "foonaren",
+      "foonašaň",
+      "foonaša",
+      "foonašaen",
+      "foonaiňši",
+      "foonaši",
+      "foonaenši"
+    ]
+  },
+  {
+    "literal": "fošimi",
+    "wordType": "Noun",
+    "definitions": [
+      "crossbow"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈfoʃimi",
+    "examples": [],
+    "flexations": [
+      "fošimiň",
+      "fošimi",
+      "fošimen",
+      "fošimimaň",
+      "fošimim",
+      "fošimimen",
+      "fošimirň",
+      "fošimirn",
+      "fošimren",
+      "fošimšaň",
+      "fošimša",
+      "fošimšaen",
+      "fošimiňši",
+      "fošimši",
+      "fošimenši"
+    ]
+  },
+  {
+    "literal": "lüp",
+    "wordType": "Affix",
+    "definitions": [
+      "re-, again"
+    ],
+    "syllables": [],
+    "ipa": "ˈlʏp",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "kamü",
+    "wordType": "Affix",
+    "definitions": [
+      "unlikely"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈkamʏ",
+    "examples": [
+      [
+        "mönkamü pi gobup",
+        "It's unlikely that I'm blue"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "kamue",
+    "wordType": "Affix",
+    "definitions": [
+      "unusually"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈkamuʔɜ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "maue",
+    "wordType": "Affix",
+    "definitions": [
+      "occasionally, sometimes"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈmawɜ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "spi",
+    "wordType": "Affix",
+    "definitions": [
+      "process (of)"
+    ],
+    "syllables": [],
+    "ipa": "ˈspi",
+    "examples": [
+      [
+        "marinspi",
+        "reading process; the reading"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "žomoe",
+    "wordType": "Affix",
+    "definitions": [
+      "often, usually"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈʒomoʔe",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "žomü",
+    "wordType": "Affix",
+    "definitions": [
+      "probably"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒomʏ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "koga",
+    "wordType": "Adverb",
+    "definitions": [
+      "east"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈkoga",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "meiga",
+    "wordType": "Adverb",
+    "definitions": [
+      "right"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈmɜ͜ɪga",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "meika",
+    "wordType": "Adverb",
+    "definitions": [
+      "west"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈmɜ͜ɪka",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "riga",
+    "wordType": "Adverb",
+    "definitions": [
+      "down"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʀiga",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "riga",
+    "wordType": "Preposition",
+    "definitions": [
+      "under, below"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʀiga",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ruega",
+    "wordType": "Adverb",
+    "definitions": [
+      "up"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʀwega",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ruega",
+    "wordType": "Preposition",
+    "definitions": [
+      "over, above"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʀwega",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "šifsga",
+    "wordType": "Adverb",
+    "definitions": [
+      "front, forward"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈʃɪfsga",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "šifsga",
+    "wordType": "Preposition",
+    "definitions": [
+      "in front of"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈʃɪfsga",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "farsga",
+    "wordType": "Adverb",
+    "definitions": [
+      "backward"
+    ],
+    "syllables": [],
+    "ipa": "ˈfaʀsga",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "tuga",
+    "wordType": "Adverb",
+    "definitions": [
+      "north"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈtuga",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "uruga",
+    "wordType": "Adverb",
+    "definitions": [
+      "south"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈuʀuga",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "veu",
+    "wordType": "Preposition",
+    "definitions": [
+      "between"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈvɜʔu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "žeiga",
+    "wordType": "Adverb",
+    "definitions": [
+      "left"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʒɜ͜ɪga",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "hitu",
+    "wordType": "Preposition",
+    "definitions": [
+      "to, towards (spatial)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈhitu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "huinu",
+    "wordType": "Preposition",
+    "definitions": [
+      "next to"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈhwinu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ik",
+    "wordType": "Preposition",
+    "definitions": [
+      "through"
+    ],
+    "syllables": [],
+    "ipa": "ˈɪk",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "jan",
+    "wordType": "Preposition",
+    "definitions": [
+      "except"
+    ],
+    "syllables": [],
+    "ipa": "ˈjan",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "kojon",
+    "wordType": "Preposition",
+    "definitions": [
+      "(consisting) of, containing"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈkojɔn",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "miš",
+    "wordType": "Preposition",
+    "definitions": [
+      "like, similar to"
+    ],
+    "syllables": [],
+    "ipa": "ˈmɪʃ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "nen",
+    "wordType": "Preposition",
+    "definitions": [
+      "on (surface)"
+    ],
+    "syllables": [],
+    "ipa": "ˈnɜn",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "rae",
+    "wordType": "Preposition",
+    "definitions": [
+      "this, these"
+    ],
+    "syllables": [],
+    "ipa": "ˈʀa͜e",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "raei",
+    "wordType": "Pronoun",
+    "definitions": [
+      "this, these"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʀa͜eʔi",
+    "examples": [],
+    "flexations": [
+      "raeiň",
+      "raei",
+      "raeen",
+      "raemaň",
+      "raeim",
+      "raemen",
+      "raeirň",
+      "raeirn",
+      "raeren",
+      "raešaň",
+      "raeša",
+      "raešaen",
+      "raeiňši",
+      "raeši",
+      "raeenši"
+    ]
+  },
+  {
+    "literal": "rihuin",
+    "wordType": "Preposition",
+    "definitions": [
+      "opposite (spatial)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʀihwin",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "rivar",
+    "wordType": "Preposition",
+    "definitions": [
+      "(away) from"
+    ],
+    "syllables": [],
+    "ipa": "ˈʀivaʀ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "šju",
+    "wordType": "Preposition",
+    "definitions": [
+      "by, from (subject)"
+    ],
+    "syllables": [],
+    "ipa": "ˈʃju",
+    "examples": [
+      [
+        "höikitumfe ebek šju pi",
+        "the ball was thrown by me"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "uan",
+    "wordType": "Preposition",
+    "definitions": [
+      "(together) with"
+    ],
+    "syllables": [],
+    "ipa": "ˈwan",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "uanu",
+    "wordType": "Preposition",
+    "definitions": [
+      "through, by (means of), using, with"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈwanu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "virt",
+    "wordType": "Preposition",
+    "definitions": [
+      "instead of"
+    ],
+    "syllables": [],
+    "ipa": "ˈvɪʀt",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "zuru",
+    "wordType": "Preposition",
+    "definitions": [
+      "from ... onwards, since"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈzuʀu",
+    "examples": [],
+    "flexations": []
   }
 ]

@@ -17,24 +17,26 @@ const EntryCompact: Component<{ entry: DictionaryEntry, highlight: string }> = (
     return undefined;
   };
   return (
-    <a class="w-full sm:w-auto" href={`entry/${idFromEntry(props.entry)}`}>
-      <div class={`border rounded-box w-full p-2 ${getWTClass(wordType)}`}>
-        <div class="grid grid-cols-3 sm:flex sm:flex-row sm:justify-start items-baseline sm:space-x-3 *:whitespace-nowrap">
-          <h2 class="text-base sm:text-xl text-neutral">{literal}</h2>
-          <p class="text-xs text-neutral-600 sm:text-base">{IdxToLit(literal, syllables)}</p>
-          <p class="text-xs text-neutral-600 sm:text-base place-self-end sm:place-self-auto">/{ipa}/ <Listen sound={`word/${literal}`} /></p>
-          <p class="text-xs text-neutral-600 sm:text-base font-lumaha">{literal}</p>
-          <p class="text-xs text-neutral-600 sm:text-base col-span-2 sm:grow text-right">{wordType}</p>
+    <div>
+      <a class="w-full sm:w-auto" href={`entry/${idFromEntry(props.entry)}`}>
+        <div class={`border rounded-box w-full p-2 ${getWTClass(wordType)}`}>
+          <div class="grid grid-cols-3 sm:flex sm:flex-row sm:justify-start items-baseline sm:space-x-3 *:whitespace-nowrap">
+            <h2 class="text-base sm:text-xl text-neutral">{literal}</h2>
+            <p class="text-xs text-neutral-600 sm:text-base">{IdxToLit(literal, syllables)}</p>
+            <p class="text-xs text-neutral-600 sm:text-base place-self-end sm:place-self-auto">/{ipa}/ <Listen sound={`word/${literal}`} /></p>
+            <p class="text-xs text-neutral-600 sm:text-base font-lumaha">{literal}</p>
+            <p class="text-xs text-neutral-600 sm:text-base col-span-2 sm:grow text-right">{wordType}</p>
+          </div>
+          <Show when={foundCase()}>
+            <p class="text-xs text-neutral-600 sm:text-base">Found Form: {foundCase()}</p>
+          </Show>
+          <label class="label">Definitions</label>
+          <ol class="list">
+            <For each={definitions}>{(d, i) => <li class="list-row p-2"><span class="tabular-nums">{i()+1}.</span>{d}</li>}</For>
+          </ol>
         </div>
-        <Show when={foundCase()}>
-          <p class="text-xs text-neutral-600 sm:text-base">Found Form: {foundCase()}</p>
-        </Show>
-        <label class="label">Definitions</label>
-        <ol class="list">
-          <For each={definitions}>{(d, i) => <li class="list-row p-2"><span class="tabular-nums">{i()+1}.</span>{d}</li>}</For>
-        </ol>
-      </div>
-    </a>
+      </a>
+    </div>
   );
 }
 
@@ -79,7 +81,7 @@ const Lexicon: Component = () => {
   });
 
   return (
-    <div class="flex flex-col justify-start">
+    <div>
       <Meta name="og:title" content="Maeri" />
       <Meta name="og:description" content="Lexicon of the Getriš Language" />
       <Title>Maeri</Title>
@@ -101,7 +103,7 @@ const Lexicon: Component = () => {
           <For each={WORD_TYPES}>{(e) => <option>{e}</option>}</For>
         </select>
       </div>
-      <div class="flex flex-wrap *:m-1">
+      <div class="sm:flex sm:flex-wrap *:m-1">
         <For each={filtered()}>{e => <EntryCompact entry={e as DictionaryEntry} highlight={query()} />}</For>
       </div>
     </div>

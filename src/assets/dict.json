@@ -11461,5 +11461,1751 @@
     "ipa": "ˈzuʀu",
     "examples": [],
     "flexations": []
+  },
+  {
+    "literal": "ip",
+    "wordType": "Affix",
+    "definitions": [
+      "cis"
+    ],
+    "syllables": [],
+    "ipa": "ˈɪp",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "irt",
+    "wordType": "Affix",
+    "definitions": [
+      "trans"
+    ],
+    "syllables": [],
+    "ipa": "ˈɪʀt",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "karo",
+    "wordType": "Affix",
+    "definitions": [
+      "pro"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈkaʀo",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "pero",
+    "wordType": "Affix",
+    "definitions": [
+      "contra"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈpeʀo",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "zuňga",
+    "wordType": "Operator",
+    "definitions": [
+      "minus"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈzʊŋga",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "žun",
+    "wordType": "Operator",
+    "definitions": [
+      "nor"
+    ],
+    "syllables": [],
+    "ipa": "ˈʒʊn",
+    "examples": [
+      [
+        "rin A žun B",
+        "neither A nor B"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "žu",
+    "wordType": "Operator",
+    "definitions": [
+      "and"
+    ],
+    "syllables": [],
+    "ipa": "ˈʒu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "žöi",
+    "wordType": "Operator",
+    "definitions": [
+      "exclusive or"
+    ],
+    "syllables": [],
+    "ipa": "ˈʒɶ͜ɪ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ža",
+    "wordType": "Operator",
+    "definitions": [
+      "or (inclusive)"
+    ],
+    "syllables": [],
+    "ipa": "ˈʒa",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "üpka",
+    "wordType": "Operator",
+    "definitions": [
+      "-th root of"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʏpka",
+    "examples": [
+      [
+        "üpka prima",
+        "square root of five"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "rula",
+    "wordType": "Operator",
+    "definitions": [
+      "to the power of"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʀula",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "luga",
+    "wordType": "Operator",
+    "definitions": [
+      "plus"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈluga",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "opka",
+    "wordType": "Operator",
+    "definitions": [
+      "by, over (division)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈɔpka",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ilka",
+    "wordType": "Operator",
+    "definitions": [
+      "times (multiplication)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈɪlka",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "jeoo",
+    "wordType": "Onomatopoeia",
+    "definitions": [
+      "sigh"
+    ],
+    "syllables": [],
+    "ipa": "ˈjeʔoʔo",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "uiiu",
+    "wordType": "Onomatopoeia",
+    "definitions": [
+      "siren sound"
+    ],
+    "syllables": [
+      2,
+      3
+    ],
+    "ipa": "ˈwiʔiu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "tiki toki",
+    "wordType": "Onomatopoeia",
+    "definitions": [
+      "noise of a clock (4 seconds)"
+    ],
+    "syllables": [
+      2,
+      7
+    ],
+    "ipa": "ˈtiki ˈtɔki",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "šrur",
+    "wordType": "Onomatopoeia",
+    "definitions": [
+      "purr"
+    ],
+    "syllables": [],
+    "ipa": "ˈʃʀ̩",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "mjon",
+    "wordType": "Onomatopoeia",
+    "definitions": [
+      "ghost noise"
+    ],
+    "syllables": [],
+    "ipa": "ˈmjɔn",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "kuk",
+    "wordType": "Onomatopoeia",
+    "definitions": [
+      "knock"
+    ],
+    "syllables": [],
+    "ipa": "ˈkʊk",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "fu",
+    "wordType": "Conjunction",
+    "definitions": [
+      "to, in order to (infinitive)"
+    ],
+    "syllables": [],
+    "ipa": "ˈfu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ju",
+    "wordType": "Conjunction",
+    "definitions": [
+      "how, as, -ly, in a ... manner (way, modal)"
+    ],
+    "syllables": [],
+    "ipa": "ˈju",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "kon",
+    "wordType": "Conjunction",
+    "definitions": [
+      "that, what (accusative)"
+    ],
+    "syllables": [],
+    "ipa": "ˈkɔn",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "nju",
+    "wordType": "Conjunction",
+    "definitions": [
+      "who, which, what, that (relative, nominative)"
+    ],
+    "syllables": [],
+    "ipa": "ˈnu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "jegu",
+    "wordType": "Conjunction",
+    "definitions": [
+      "to, at, in, where (local)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈjegu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "mudu",
+    "wordType": "Conjunction",
+    "definitions": [
+      "if, when, in case of, whether (conditional)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈmudu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "janu",
+    "wordType": "Conjunction",
+    "definitions": [
+      "unless"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈjanu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "konju",
+    "wordType": "Conjunction",
+    "definitions": [
+      "who, what (specifically in questions)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈkɔnju",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "rinšu",
+    "wordType": "Conjunction",
+    "definitions": [
+      "even though (concessive)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʀɪnʃu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "rinu",
+    "wordType": "Conjunction",
+    "definitions": [
+      "while, instead of, although, however (adversative)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʀinu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "sku",
+    "wordType": "Conjunction",
+    "definitions": [
+      "how many, how much"
+    ],
+    "syllables": [],
+    "ipa": "ˈsku",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "taeu",
+    "wordType": "Conjunction",
+    "definitions": [
+      "for, to (dative)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈta͜eu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "vahju",
+    "wordType": "Conjunction",
+    "definitions": [
+      "because, why (causal)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈvaçu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "vakju",
+    "wordType": "Conjunction",
+    "definitions": [
+      "therefore, so (causal-consecutive)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈvakju",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "zahu",
+    "wordType": "Conjunction",
+    "definitions": [
+      "(the more ...) the (more ...) (proportionalitive)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈzahu",
+    "examples": [
+      [
+        "marin ti zahu konzin ti",
+        "the more you read, the more you learn"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "zatru",
+    "wordType": "Conjunction",
+    "definitions": [
+      "so that (final, with intention)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈzatʀu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "žiku",
+    "wordType": "Conjunction",
+    "definitions": [
+      "when, at (point in time)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒiku",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "žitu",
+    "wordType": "Conjunction",
+    "definitions": [
+      "during, while (time period)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒitu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "hai",
+    "wordType": "Exclamation",
+    "definitions": [
+      "yes, it is (as response to negative), yea"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈhaʔi",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "hee",
+    "wordType": "Exclamation",
+    "definitions": [
+      "what? (didn't understand acoustically)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈheʔe",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "hjük",
+    "wordType": "Exclamation",
+    "definitions": [
+      "ouch, ow"
+    ],
+    "syllables": [],
+    "ipa": "ˈçʏk",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "jelei",
+    "wordType": "Exclamation",
+    "definitions": [
+      "yippie, yay"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈjelɜ͜ɪ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "leihoi",
+    "wordType": "Exclamation",
+    "definitions": [
+      "yes (as response to order), yes sir/maam"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈlɜ͜ɪhɔ͜ɪ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ňan",
+    "wordType": "Exclamation",
+    "definitions": [
+      "sorry, excuse me, apologies"
+    ],
+    "syllables": [],
+    "ipa": "ˈŋan",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ňoi",
+    "wordType": "Exclamation",
+    "definitions": [
+      "shut up"
+    ],
+    "syllables": [],
+    "ipa": "ˈŋɔ͜ɪ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "nui",
+    "wordType": "Exclamation",
+    "definitions": [
+      "what? (didn't understand semantically)"
+    ],
+    "syllables": [],
+    "ipa": "ˈnʊ͜i",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "pöü",
+    "wordType": "Exclamation",
+    "definitions": [
+      "oh dear"
+    ],
+    "syllables": [],
+    "ipa": "ˈpɶ͜ʏ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "rišo",
+    "wordType": "Exclamation",
+    "definitions": [
+      "goodbye"
+    ],
+    "syllables": [],
+    "ipa": "ˈʀiʃo",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "šraňk",
+    "wordType": "Exclamation",
+    "definitions": [
+      "fuck, shit"
+    ],
+    "syllables": [],
+    "ipa": "ˈʃʀaŋk",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "tae",
+    "wordType": "Exclamation",
+    "definitions": [
+      "hi (common response is \"ho\", see \"taeho\")"
+    ],
+    "syllables": [],
+    "ipa": "ˈta͜e",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "tofi",
+    "wordType": "Exclamation",
+    "definitions": [
+      "please"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈtofi",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "taeho",
+    "wordType": "Exclamation",
+    "definitions": [
+      "hello"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈta͜eho",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "tofira",
+    "wordType": "Exclamation",
+    "definitions": [
+      "please (very formal)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈtofiʀa",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "tuinvo",
+    "wordType": "Exclamation",
+    "definitions": [
+      "welcome"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈtuʔinvo",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "varu aja ek",
+    "wordType": "Exclamation",
+    "definitions": [
+      "have a nice day"
+    ],
+    "syllables": [
+      2,
+      6
+    ],
+    "ipa": "ˈvaʀu aja ek",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "vo",
+    "wordType": "Exclamation",
+    "definitions": [
+      "yo"
+    ],
+    "syllables": [],
+    "ipa": "ˈvo",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "žada",
+    "wordType": "Exclamation",
+    "definitions": [
+      "nice (expression of success)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒada",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "züzü",
+    "wordType": "Exclamation",
+    "definitions": [
+      "i see, okay, alright, got it"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈzyzy",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "žužu",
+    "wordType": "Exclamation",
+    "definitions": [
+      "et cetera, and so on"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒuʒu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "luhaň",
+    "wordType": "Pronoun",
+    "definitions": [
+      "nothing"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈluhaŋ",
+    "examples": [],
+    "flexations": [
+      "luhaň",
+      "",
+      "",
+      "luhamaň",
+      "",
+      "",
+      "luharň",
+      "",
+      "",
+      "luhašaň",
+      "",
+      "",
+      "luhaňši",
+      "",
+      ""
+    ]
+  },
+  {
+    "literal": "luhie",
+    "wordType": "Pronoun",
+    "definitions": [
+      "everything"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈluhiʔe",
+    "examples": [],
+    "flexations": [
+      "",
+      "luhie",
+      "",
+      "",
+      "luhiem",
+      "",
+      "",
+      "luhiern",
+      "",
+      "",
+      "luhieša",
+      "",
+      "",
+      "luhieši",
+      ""
+    ]
+  },
+  {
+    "literal": "mii",
+    "wordType": "Pronoun",
+    "definitions": [
+      "something"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈmiʔi",
+    "examples": [],
+    "flexations": [
+      "",
+      "mii",
+      "",
+      "",
+      "miim",
+      "",
+      "",
+      "miirn",
+      "",
+      "",
+      "miiša",
+      "",
+      "",
+      "miiši",
+      ""
+    ]
+  },
+  {
+    "literal": "šama",
+    "wordType": "Pronoun",
+    "definitions": [
+      "both"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʃama",
+    "examples": [],
+    "flexations": [
+      "šamaň",
+      "šama",
+      "",
+      "šamamaň",
+      "šamam",
+      "",
+      "šamarň",
+      "šamarn",
+      "",
+      "šamašaň",
+      "šamaša",
+      "",
+      "šamaňši",
+      "šamaši",
+      ""
+    ]
+  },
+  {
+    "literal": "vi",
+    "wordType": "Pronoun",
+    "definitions": [
+      "self"
+    ],
+    "syllables": [],
+    "ipa": "ˈvi",
+    "examples": [],
+    "flexations": [
+      "viň",
+      "vi",
+      "ven",
+      "vimaň",
+      "vim",
+      "vimen",
+      "virň",
+      "virn",
+      "viren",
+      "višaň",
+      "viša",
+      "višaen",
+      "viňši",
+      "viši",
+      "venši"
+    ]
+  },
+  {
+    "literal": "ü",
+    "wordType": "Exclamation",
+    "definitions": [
+      "spoken ; in lists/enumerations"
+    ],
+    "syllables": [],
+    "ipa": "ˈʏ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "besu",
+    "wordType": "Adverb",
+    "definitions": [
+      "even so, anyway"
+    ],
+    "syllables": [],
+    "ipa": "ˈbesu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "fösti",
+    "wordType": "Noun",
+    "definitions": [
+      "hip"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈfɶsti",
+    "examples": [],
+    "flexations": [
+      "föstiň",
+      "fösti",
+      "fösten",
+      "föstmaň",
+      "föstim",
+      "föstmen",
+      "föstirň",
+      "föstirn",
+      "föstren",
+      "föstšaň",
+      "föstša",
+      "föstšaen",
+      "föstiňši",
+      "föstši",
+      "föstenši"
+    ]
+  },
+  {
+    "literal": "foun",
+    "wordType": "Noun",
+    "definitions": [
+      "boat"
+    ],
+    "syllables": [],
+    "ipa": "ˈfo͜un",
+    "examples": [],
+    "flexations": [
+      "founaň",
+      "foun",
+      "founen",
+      "founmaň",
+      "founüm",
+      "founmen",
+      "founarň",
+      "founarn",
+      "founren",
+      "founšaň",
+      "founša",
+      "founšaen",
+      "founaňši",
+      "founši",
+      "founenši"
+    ]
+  },
+  {
+    "literal": "fritnubi",
+    "wordType": "Noun",
+    "definitions": [
+      "grindstone"
+    ],
+    "syllables": [
+      4,
+      6
+    ],
+    "ipa": "ˈfʀitnubi",
+    "examples": [],
+    "flexations": [
+      "fritnubiň",
+      "fritnubi",
+      "fritnuben",
+      "fritnubimaň",
+      "fritnubim",
+      "fritnubimen",
+      "fritnubirň",
+      "fritnubirn",
+      "fritnubiren",
+      "fritnubišaň",
+      "fritnubiša",
+      "fritnubišaen",
+      "fritnubiňši",
+      "fritnubiši",
+      "fritnubenši"
+    ]
+  },
+  {
+    "literal": "fua",
+    "wordType": "Adjective",
+    "definitions": [
+      "hard (difficult)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfua",
+    "examples": [],
+    "flexations": [
+      "fua",
+      "fuagua",
+      "fuahia",
+      "fuaňa"
+    ]
+  },
+  {
+    "literal": "fuebi",
+    "wordType": "Noun",
+    "definitions": [
+      "leaf"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈfwɜbi",
+    "examples": [],
+    "flexations": [
+      "fuebiň",
+      "fuebi",
+      "fueben",
+      "fuebimaň",
+      "fuebim",
+      "fuebimen",
+      "fuebirň",
+      "fuebirn",
+      "fuebiren",
+      "fuebišaň",
+      "fuebiša",
+      "fuebišaen",
+      "fuebiňši",
+      "fuebiši",
+      "fuebenši"
+    ]
+  },
+  {
+    "literal": "fufun",
+    "wordType": "Noun",
+    "definitions": [
+      "noon"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfufʊn",
+    "examples": [],
+    "flexations": [
+      "fufunaň",
+      "fufun",
+      "fufunen",
+      "fufunmaň",
+      "fufunüm",
+      "fufunmen",
+      "fufunarň",
+      "fufunarn",
+      "fufunren",
+      "fufunšaň",
+      "fufunša",
+      "fufunšaen",
+      "fufunaňši",
+      "fufunši",
+      "fufunenši"
+    ]
+  },
+  {
+    "literal": "fuie",
+    "wordType": "Noun",
+    "definitions": [
+      "fan",
+      "spread"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈfwiɜ",
+    "examples": [],
+    "flexations": [
+      "fuieň",
+      "fuie",
+      "fuieen",
+      "fuiemaň",
+      "fuiem",
+      "fuiemen",
+      "fuierň",
+      "fuiern",
+      "fuieren",
+      "fuiešaň",
+      "fuieša",
+      "fuiešaen",
+      "fuieňši",
+      "fuieši",
+      "fuieenši"
+    ]
+  },
+  {
+    "literal": "fuišdžako",
+    "wordType": "Noun",
+    "definitions": [
+      "erbium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      4,
+      7
+    ],
+    "ipa": "ˈfuʔɪʃˌdʒako",
+    "examples": [],
+    "flexations": [
+      "fuišdžakoň",
+      "fuišdžako",
+      "fuišdžakoen",
+      "fuišdžakomaň",
+      "fuišdžakom",
+      "fuišdžakomen",
+      "fuišdžakorň",
+      "fuišdžakorn",
+      "fuišdžakoren",
+      "fuišdžakošaň",
+      "fuišdžakoša",
+      "fuišdžakošaen",
+      "fuišdžakoňši",
+      "fuišdžakoši",
+      "fuišdžakoenši"
+    ]
+  },
+  {
+    "literal": "fuja ski",
+    "wordType": "Noun",
+    "definitions": [
+      "complex number"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfuja ˈski",
+    "examples": [],
+    "flexations": [
+      "fuja skiň",
+      "fuja ski",
+      "fuja sken",
+      "fuja skimaň",
+      "fuja skim",
+      "fuja skimen",
+      "fuja skirň",
+      "fuja skirn",
+      "fuja skiren",
+      "fuja skišaň",
+      "fuja skiša",
+      "fuja skišaen",
+      "fuja skiňši",
+      "fuja skiši",
+      "fuja skenši"
+    ]
+  },
+  {
+    "literal": "fülei",
+    "wordType": "Noun",
+    "definitions": [
+      "insect, bug"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfylɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "füleiň",
+      "fülei",
+      "füleen",
+      "fülemaň",
+      "füleim",
+      "fülemen",
+      "füleirň",
+      "füleirn",
+      "füleren",
+      "fülešaň",
+      "füleša",
+      "fülešaen",
+      "füleiňši",
+      "füleši",
+      "füleenši"
+    ]
+  },
+  {
+    "literal": "lum",
+    "wordType": "Affix",
+    "definitions": [
+      "bright, light"
+    ],
+    "syllables": [],
+    "ipa": "ˈlum",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "süm",
+    "wordType": "Affix",
+    "definitions": [
+      "dark"
+    ],
+    "syllables": [],
+    "ipa": "ˈsʏm",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ha",
+    "wordType": "Affix",
+    "definitions": [
+      "able, there (existent), possible"
+    ],
+    "syllables": [],
+    "ipa": "ˈha",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "lim",
+    "wordType": "Affix",
+    "definitions": [
+      "country, state, land"
+    ],
+    "syllables": [],
+    "ipa": "ˈlim",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "mae",
+    "wordType": "Affix",
+    "definitions": [
+      "some (of) (with singular)",
+      "some, many (with plural)"
+    ],
+    "syllables": [],
+    "ipa": "ˈma͜e",
+    "examples": [
+      [
+        "gobimae",
+        "some water"
+      ],
+      [
+        "skemae",
+        "some of a person"
+      ],
+      [
+        "skemenmae",
+        "some people"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "sau",
+    "wordType": "Affix",
+    "definitions": [
+      "a, any, some"
+    ],
+    "syllables": [],
+    "ipa": "ˈsa͜u",
+    "examples": [
+      [
+        "skesau",
+        "anyone; someone; some person"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "maegua",
+    "wordType": "Affix",
+    "definitions": [
+      "more (of)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈma͜egwa",
+    "examples": [
+      [
+        "gobimaegua",
+        "more water"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "zue",
+    "wordType": "Affix",
+    "definitions": [
+      "few, little (of)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈzuʔɜ",
+    "examples": [
+      [
+        "gobizue",
+        "(a) little water"
+      ],
+      [
+        "skemenzue",
+        "few people"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "zugua",
+    "wordType": "Affix",
+    "definitions": [
+      "less, fewer (of)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈzugwa",
+    "examples": [
+      [
+        "gobizugua",
+        "less water"
+      ],
+      [
+        "skemenzugua",
+        "fewer people"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "up",
+    "wordType": "Affix",
+    "definitions": [
+      "color"
+    ],
+    "syllables": [],
+    "ipa": "ˈʊp",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "unae",
+    "wordType": "Affix",
+    "definitions": [
+      "other, different"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈuna͜e",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "uloi",
+    "wordType": "Affix",
+    "definitions": [
+      "single, sole, only"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈulɔ͜ɪ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ski",
+    "wordType": "Affix",
+    "definitions": [
+      "resident, -ian"
+    ],
+    "syllables": [],
+    "ipa": "ˈski",
+    "examples": [
+      [
+        "Vola-Hamerdenski",
+        "Vola-Hamerdian"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "mi",
+    "wordType": "Affix",
+    "definitions": [
+      "all (of)",
+      "every"
+    ],
+    "syllables": [],
+    "ipa": "ˈmi",
+    "examples": [
+      [
+        "skemi",
+        "all of (a) person"
+      ],
+      [
+        "skemenmi",
+        "everyone"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "la",
+    "wordType": "Affix",
+    "definitions": [
+      "verb participle suffix"
+    ],
+    "syllables": [],
+    "ipa": "ˈla",
+    "examples": [
+      [
+        "oginla emo",
+        "helping hand"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "hau",
+    "wordType": "Adverb",
+    "definitions": [
+      ", okay? (annoyed modal particle)"
+    ],
+    "syllables": [],
+    "ipa": "ˈha͜u",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "inek",
+    "wordType": "Adverb",
+    "definitions": [
+      "today"
+    ],
+    "syllables": [],
+    "ipa": "ˈinɜk",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "jegal",
+    "wordType": "Adverb",
+    "definitions": [
+      "here"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈjegal",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "jehie",
+    "wordType": "Adverb",
+    "definitions": [
+      "everywhere"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈjɜhiɜ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "jehaň",
+    "wordType": "Adverb",
+    "definitions": [
+      "nowhere"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈjehaŋ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "jin",
+    "wordType": "Adverb",
+    "definitions": [
+      "now (progressive)"
+    ],
+    "syllables": [],
+    "ipa": "ˈjɪn",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "jugal",
+    "wordType": "Adverb",
+    "definitions": [
+      "there"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈjugal",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "kahie",
+    "wordType": "Adverb",
+    "definitions": [
+      "a lot, much"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈkahie",
+    "examples": [
+      [
+        "zaenin tim kahie",
+        "I like you a lot"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "kahigue",
+    "wordType": "Adverb",
+    "definitions": [
+      "more"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈkahigwɜ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "kau",
+    "wordType": "Adverb",
+    "definitions": [
+      "maybe"
+    ],
+    "syllables": [],
+    "ipa": "ˈka͜u",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "kihja",
+    "wordType": "Adverb",
+    "definitions": [
+      "too much, too (adj.)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈkɪça",
+    "examples": [
+      [
+        "kihja luka fu fea",
+        "too good to be true"
+      ]
+    ],
+    "flexations": []
+  },
+  {
+    "literal": "zajae",
+    "wordType": "Adverb",
+    "definitions": [
+      "enough"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈzaja͜e",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "krutse",
+    "wordType": "Adverb",
+    "definitions": [
+      "approximately, around, about"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈkʀʊtsɜ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "leu",
+    "wordType": "Adverb",
+    "definitions": [
+      "(as) you already know, (modal particle of shared information)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈlɜu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "loije",
+    "wordType": "Adverb",
+    "definitions": [
+      "only, just"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈlɔ͜ɪjɜ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "lüpal",
+    "wordType": "Adverb",
+    "definitions": [
+      "again"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈlypal",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "möu",
+    "wordType": "Adverb",
+    "definitions": [
+      "too, also, as well"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈmɶʔu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "pou",
+    "wordType": "Adverb",
+    "definitions": [
+      "wow (modal particle of surprise)"
+    ],
+    "syllables": [],
+    "ipa": "ˈpo͜u",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "ril",
+    "wordType": "Adverb",
+    "definitions": [
+      "low"
+    ],
+    "syllables": [],
+    "ipa": "ˈʀɪl",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "rul",
+    "wordType": "Adverb",
+    "definitions": [
+      "high"
+    ],
+    "syllables": [],
+    "ipa": "ˈʀul",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "üme",
+    "wordType": "Adverb",
+    "definitions": [
+      "finally, (at) last"
+    ],
+    "syllables": [],
+    "ipa": "ˈymɜ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "vavu",
+    "wordType": "Adverb",
+    "definitions": [
+      "medium, moderately, middle"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈvavu",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "žogua",
+    "wordType": "Adverb",
+    "definitions": [
+      "rather, more likely"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒogwa",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "zuhie",
+    "wordType": "Adverb",
+    "definitions": [
+      "a little"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈzuhiɜ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "zuhigue",
+    "wordType": "Adverb",
+    "definitions": [
+      "less"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈzuhigwɜ",
+    "examples": [],
+    "flexations": []
   }
 ]

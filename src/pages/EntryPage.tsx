@@ -1,7 +1,7 @@
 import { Component, For, Match, Show, Switch } from "solid-js";
 import Nothing from "./Nothing";
 import entries from "../assets/dict.json";
-import { DictionaryEntry, idFromEntry, IdxToLit, WordType } from "../lib/words";
+import { DictionaryEntry, idFromEntry, IdxToLit, toLumaha, WordType } from "../lib/words";
 import { getWTClass } from "./Lexicon";
 import Listen from "../components/Listen";
 import { Meta, Title } from "@solidjs/meta";
@@ -121,7 +121,7 @@ const EntryPage: Component<{id: string}> = ({ id }) => {
           <h2 class="text-base sm:text-xl text-neutral">{entry.literal}</h2>
           <p class="text-xs text-neutral-600 sm:text-base">{IdxToLit(entry.literal, entry.syllables)}</p>
           <p class="text-xs text-neutral-600 sm:text-base place-self-end sm:place-self-auto">/{entry.ipa}/ <Listen sound={`word/${entry.literal}`} /></p>
-          <p class="text-xs text-neutral-600 sm:text-base font-lumaha">{entry.literal}</p>
+          <p class="text-xs text-neutral-600 sm:text-base font-lumaha">{toLumaha(entry.literal)}</p>
           <p class="text-xs text-neutral-600 sm:text-base col-span-2 sm:grow text-right">{entry.wordType}</p>
         </div>
         <label class="label">Definitions</label>

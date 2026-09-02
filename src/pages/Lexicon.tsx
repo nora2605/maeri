@@ -1,5 +1,5 @@
 import { Component, createMemo, createSignal, For, Show } from "solid-js";
-import { DictionaryEntry, IdxToLit, WORD_TYPES, WordType, idFromEntry } from "../lib/words";
+import { DictionaryEntry, IdxToLit, WORD_TYPES, WordType, idFromEntry, toLumaha } from "../lib/words";
 import Listen from "../components/Listen";
 import entries from "../assets/dict.json";
 import { Meta, Title } from "@solidjs/meta";
@@ -24,7 +24,7 @@ const EntryCompact: Component<{ entry: DictionaryEntry, highlight: string }> = (
             <h2 class="text-base sm:text-xl text-neutral">{literal}</h2>
             <p class="text-xs text-neutral-600 sm:text-base">{IdxToLit(literal, syllables)}</p>
             <p class="text-xs text-neutral-600 sm:text-base place-self-end sm:place-self-auto">/{ipa}/ <Listen sound={`word/${literal}`} /></p>
-            <p class="text-xs text-neutral-600 sm:text-base font-lumaha">{literal}</p>
+            <p class="text-xs text-neutral-600 sm:text-base font-lumaha">{toLumaha(literal)}</p>
             <p class="text-xs text-neutral-600 sm:text-base col-span-2 sm:grow text-right">{wordType}</p>
           </div>
           <Show when={foundCase()}>

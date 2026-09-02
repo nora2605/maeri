@@ -187,3 +187,7 @@ function generateRaises(literal: string) {
         literal + "ňa"
     ];
 }
+
+export function toLumaha(literal: string) {
+    return literal.replace(/hj/g, "ç").replace(/dž/g, "x").replace(/tš/g, "č");
+}

@@ -13207,5 +13207,2431 @@
     "ipa": "ˈzuhigwɜ",
     "examples": [],
     "flexations": []
+  },
+  {
+    "literal": "fümi",
+    "wordType": "Noun",
+    "definitions": [
+      "head"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfymi",
+    "examples": [],
+    "flexations": [
+      "fümiň",
+      "fümi",
+      "fümen",
+      "fümimaň",
+      "fümim",
+      "fümimen",
+      "fümirň",
+      "fümirn",
+      "fümren",
+      "fümšaň",
+      "fümša",
+      "fümšaen",
+      "fümiňši",
+      "fümši",
+      "fümenši"
+    ]
+  },
+  {
+    "literal": "fumin",
+    "wordType": "Verb",
+    "definitions": [
+      "feel (tactile)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfumɪn",
+    "examples": [],
+    "flexations": [
+      "fumirei",
+      "fumimurei",
+      "fumiru",
+      "fumimuru",
+      "fumoiru",
+      "fumirae",
+      "fumimurae",
+      "fumin",
+      "fumimurin",
+      "fumoi",
+      "fumitei",
+      "fumimurtei",
+      "fumitum",
+      "fumimurtum",
+      "fumoitu",
+      "fumitae",
+      "fumimurtae"
+    ]
+  },
+  {
+    "literal": "fumoa",
+    "wordType": "Adjective",
+    "definitions": [
+      "soft"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈfumoa",
+    "examples": [],
+    "flexations": [
+      "fumoa",
+      "fumoagua",
+      "fumoahia",
+      "fumoaňa"
+    ]
+  },
+  {
+    "literal": "fümožu",
+    "wordType": "Noun",
+    "definitions": [
+      "skull"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈfymoʒu",
+    "examples": [],
+    "flexations": [
+      "fümožuň",
+      "fümožu",
+      "fümožuen",
+      "fümožumaň",
+      "fümožum",
+      "fümožumen",
+      "fümožurň",
+      "fümožurn",
+      "fümožuren",
+      "fümožušaň",
+      "fümožuša",
+      "fümožušaen",
+      "fümožuňši",
+      "fümožuši",
+      "fümožuenši"
+    ]
+  },
+  {
+    "literal": "furhek",
+    "wordType": "Noun",
+    "definitions": [
+      "month"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈfuʀhek",
+    "examples": [],
+    "flexations": [
+      "furhekaň",
+      "furhek",
+      "furheken",
+      "furhekmaň",
+      "furheküm",
+      "furhekmen",
+      "furhekarň",
+      "furhekarn",
+      "furhekren",
+      "furhekšaň",
+      "furhekša",
+      "furhekšaen",
+      "furhekaňši",
+      "furhekši",
+      "furhekenši"
+    ]
+  },
+  {
+    "literal": "furi",
+    "wordType": "Noun",
+    "definitions": [
+      "daughter, kid, child"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈfuʀi",
+    "examples": [],
+    "flexations": [
+      "furiň",
+      "furi",
+      "furen",
+      "furmaň",
+      "furim",
+      "furmen",
+      "furirň",
+      "furirn",
+      "furiren",
+      "furšaň",
+      "furša",
+      "furšaen",
+      "furiňši",
+      "furši",
+      "furenši"
+    ]
+  },
+  {
+    "literal": "furio",
+    "wordType": "Noun",
+    "definitions": [
+      "son"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈfuʀio",
+    "examples": [],
+    "flexations": [
+      "furioň",
+      "furio",
+      "furioen",
+      "furiomaň",
+      "furiom",
+      "furiomen",
+      "furiorň",
+      "furiorn",
+      "furioren",
+      "furiošaň",
+      "furioša",
+      "furiošaen",
+      "furioňši",
+      "furioši",
+      "furioenši"
+    ]
+  },
+  {
+    "literal": "gabup",
+    "wordType": "Noun",
+    "definitions": [
+      "blue"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgabʊp",
+    "examples": [],
+    "flexations": [
+      "gabupaň",
+      "gabup",
+      "gabupen",
+      "gabupmaň",
+      "gabupüm",
+      "gabupmen",
+      "gabuparň",
+      "gabuparn",
+      "gabupren",
+      "gabupšaň",
+      "gabupša",
+      "gabupšaen",
+      "gabupaňši",
+      "gabupši",
+      "gabupenši"
+    ]
+  },
+  {
+    "literal": "gadupei",
+    "wordType": "Noun",
+    "definitions": [
+      "cod"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈgadupɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "gadupeiň",
+      "gadupei",
+      "gadupeen",
+      "gadupeimaň",
+      "gadupeim",
+      "gadupeimen",
+      "gadupeirň",
+      "gadupeirn",
+      "gadupeiren",
+      "gadupeišaň",
+      "gadupeiša",
+      "gadupeišaen",
+      "gadupeiňši",
+      "gadupeiši",
+      "gadupeenši"
+    ]
+  },
+  {
+    "literal": "gaerup",
+    "wordType": "Noun",
+    "definitions": [
+      "purple, violet"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈga͜eʀʊp",
+    "examples": [],
+    "flexations": [
+      "gaerupaň",
+      "gaerup",
+      "gaerupen",
+      "gaerupmaň",
+      "gaerupüm",
+      "gaerupmen",
+      "gaeruparň",
+      "gaeruparn",
+      "gaerupren",
+      "gaerupšaň",
+      "gaerupša",
+      "gaerupšaen",
+      "gaerupaňši",
+      "gaerupši",
+      "gaerupenši"
+    ]
+  },
+  {
+    "literal": "gaetknarotsupi",
+    "wordType": "Noun",
+    "definitions": [
+      "TNT, trinitrotoluole"
+    ],
+    "syllables": [
+      4,
+      7,
+      10,
+      12
+    ],
+    "ipa": "ˈga͜etknaʀɔtsupi",
+    "examples": [],
+    "flexations": [
+      "gaetknarotsupiň",
+      "gaetknarotsupi",
+      "gaetknarotsupen",
+      "gaetknarotsupmaň",
+      "gaetknarotsupim",
+      "gaetknarotsupmen",
+      "gaetknarotsupirň",
+      "gaetknarotsupirn",
+      "gaetknarotsupren",
+      "gaetknarotsupšaň",
+      "gaetknarotsupša",
+      "gaetknarotsupšaen",
+      "gaetknarotsupiňši",
+      "gaetknarotsupši",
+      "gaetknarotsupenši"
+    ]
+  },
+  {
+    "literal": "gajmütsi",
+    "wordType": "Noun",
+    "definitions": [
+      "trident"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈgajmʏtsi",
+    "examples": [],
+    "flexations": [
+      "gajmütsiň",
+      "gajmütsi",
+      "gajmütsen",
+      "gajmütsmaň",
+      "gajmütsim",
+      "gajmütsmen",
+      "gajmütsirň",
+      "gajmütsirn",
+      "gajmütsren",
+      "gajmütsšaň",
+      "gajmütsša",
+      "gajmütsšaen",
+      "gajmütsiňši",
+      "gajmütsši",
+      "gajmütsenši"
+    ]
+  },
+  {
+    "literal": "gajžakti",
+    "wordType": "Noun",
+    "definitions": [
+      "triangle"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈgajʒakti",
+    "examples": [],
+    "flexations": [
+      "gajžaktiň",
+      "gajžakti",
+      "gajžakten",
+      "gajžaktmaň",
+      "gajžaktim",
+      "gajžaktmen",
+      "gajžaktirň",
+      "gajžaktirn",
+      "gajžaktren",
+      "gajžaktšaň",
+      "gajžaktša",
+      "gajžaktšaen",
+      "gajžaktiňši",
+      "gajžaktši",
+      "gajžaktenši"
+    ]
+  },
+  {
+    "literal": "ganjura",
+    "wordType": "Adjective",
+    "definitions": [
+      "cool (temperature)"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈganjuʀa",
+    "examples": [],
+    "flexations": [
+      "ganjura",
+      "ganjuragua",
+      "ganjurahia",
+      "ganjuraňa"
+    ]
+  },
+  {
+    "literal": "ganma",
+    "wordType": "Adjective",
+    "definitions": [
+      "cold"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈganma",
+    "examples": [],
+    "flexations": [
+      "ganma",
+      "ganmagua",
+      "ganmahia",
+      "ganmaňa"
+    ]
+  },
+  {
+    "literal": "ganu",
+    "wordType": "Noun",
+    "definitions": [
+      "snow",
+      "frost"
+    ],
+    "syllables": [],
+    "ipa": "ˈganu",
+    "examples": [],
+    "flexations": [
+      "ganuň",
+      "ganu",
+      "ganuen",
+      "ganumaň",
+      "ganum",
+      "ganumen",
+      "ganurň",
+      "ganurn",
+      "ganuren",
+      "ganušaň",
+      "ganuša",
+      "ganušaen",
+      "ganuňši",
+      "ganuši",
+      "ganuenši"
+    ]
+  },
+  {
+    "literal": "gata",
+    "wordType": "Adjective",
+    "definitions": [
+      "related"
+    ],
+    "syllables": [],
+    "ipa": "ˈgata",
+    "examples": [],
+    "flexations": [
+      "gata",
+      "gatagua",
+      "gatahia",
+      "gataňa"
+    ]
+  },
+  {
+    "literal": "gatei",
+    "wordType": "Noun",
+    "definitions": [
+      "relationship"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgatɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "gateiň",
+      "gatei",
+      "gateen",
+      "gatemaň",
+      "gateim",
+      "gatemen",
+      "gateirň",
+      "gateirn",
+      "gateren",
+      "gatešaň",
+      "gateša",
+      "gatešaen",
+      "gateiňši",
+      "gateši",
+      "gateenši"
+    ]
+  },
+  {
+    "literal": "gatmo",
+    "wordType": "Noun",
+    "definitions": [
+      "rib cage"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgatmo",
+    "examples": [],
+    "flexations": [
+      "gatmoň",
+      "gatmo",
+      "gatmoen",
+      "gatmomaň",
+      "gatmom",
+      "gatmomen",
+      "gatmorň",
+      "gatmorn",
+      "gatmoren",
+      "gatmošaň",
+      "gatmoša",
+      "gatmošaen",
+      "gatmoňši",
+      "gatmoši",
+      "gatmoenši"
+    ]
+  },
+  {
+    "literal": "gatuervi",
+    "wordType": "Noun",
+    "definitions": [
+      "polar bear"
+    ],
+    "syllables": [
+      2,
+      6
+    ],
+    "ipa": "ˈgatweʀvi",
+    "examples": [],
+    "flexations": [
+      "gatuerviň",
+      "gatuervi",
+      "gatuerven",
+      "gatuervimaň",
+      "gatuervim",
+      "gatuervimen",
+      "gatuervirň",
+      "gatuervirn",
+      "gatuerviren",
+      "gatuervišaň",
+      "gatuerviša",
+      "gatuervišaen",
+      "gatuerviňši",
+      "gatuerviši",
+      "gatuervenši"
+    ]
+  },
+  {
+    "literal": "gaunsko",
+    "wordType": "Noun",
+    "definitions": [
+      "niobium (chemical element)"
+    ],
+    "syllables": [
+      5
+    ],
+    "ipa": "ˈga͜unsko",
+    "examples": [],
+    "flexations": [
+      "gaunskoň",
+      "gaunsko",
+      "gaunskoen",
+      "gaunskomaň",
+      "gaunskom",
+      "gaunskomen",
+      "gaunskorň",
+      "gaunskorn",
+      "gaunskoren",
+      "gaunskošaň",
+      "gaunskoša",
+      "gaunskošaen",
+      "gaunskoňši",
+      "gaunskoši",
+      "gaunskoenši"
+    ]
+  },
+  {
+    "literal": "gavun",
+    "wordType": "Noun",
+    "definitions": [
+      "watermelon"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgavʊn",
+    "examples": [],
+    "flexations": [
+      "gavunaň",
+      "gavun",
+      "gavunen",
+      "gavunmaň",
+      "gavunüm",
+      "gavunmen",
+      "gavunarň",
+      "gavunarn",
+      "gavunren",
+      "gavunšaň",
+      "gavunša",
+      "gavunšaen",
+      "gavunaňši",
+      "gavunši",
+      "gavunenši"
+    ]
+  },
+  {
+    "literal": "gehjil",
+    "wordType": "Noun",
+    "definitions": [
+      "bundle, sack"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgɜçɪl",
+    "examples": [],
+    "flexations": [
+      "gehjilaň",
+      "gehjil",
+      "gehjilen",
+      "gehjilmaň",
+      "gehjilüm",
+      "gehjilmen",
+      "gehjilarň",
+      "gehjilarn",
+      "gehjilren",
+      "gehjilšaň",
+      "gehjilša",
+      "gehjilšaen",
+      "gehjilaňši",
+      "gehjilši",
+      "gehjilenši"
+    ]
+  },
+  {
+    "literal": "geliebi",
+    "wordType": "Noun",
+    "definitions": [
+      "sickness, disease, illness (non-infectious)"
+    ],
+    "syllables": [
+      2,
+      4,
+      5
+    ],
+    "ipa": "ˈgɜliɜbi",
+    "examples": [],
+    "flexations": [
+      "geliebiň",
+      "geliebi",
+      "gelieben",
+      "geliebimaň",
+      "geliebim",
+      "geliebimen",
+      "geliebirň",
+      "geliebirn",
+      "geliebiren",
+      "geliebišaň",
+      "geliebiša",
+      "geliebišaen",
+      "geliebiňši",
+      "geliebiši",
+      "geliebenši"
+    ]
+  },
+  {
+    "literal": "gelo",
+    "wordType": "Noun",
+    "definitions": [
+      "skin"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgelo",
+    "examples": [],
+    "flexations": [
+      "geloň",
+      "gelo",
+      "geloen",
+      "gelomaň",
+      "gelom",
+      "gelomen",
+      "gelorň",
+      "gelorn",
+      "geloren",
+      "gelošaň",
+      "geloša",
+      "gelošaen",
+      "geloňši",
+      "geloši",
+      "geloenši"
+    ]
+  },
+  {
+    "literal": "gemni",
+    "wordType": "Noun",
+    "definitions": [
+      "river"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgɜmni",
+    "examples": [],
+    "flexations": [
+      "gemniň",
+      "gemni",
+      "gemnen",
+      "gemnimaň",
+      "gemnim",
+      "gemnimen",
+      "gemnirň",
+      "gemnirn",
+      "gemniren",
+      "gemnišaň",
+      "gemniša",
+      "gemnišaen",
+      "gemniňši",
+      "gemniši",
+      "gemnenši"
+    ]
+  },
+  {
+    "literal": "gemšeszo",
+    "wordType": "Noun",
+    "definitions": [
+      "river mouth"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈgɜmʃɜszo",
+    "examples": [],
+    "flexations": [
+      "gemšeszoň",
+      "gemšeszo",
+      "gemšeszoen",
+      "gemšeszomaň",
+      "gemšeszom",
+      "gemšeszomen",
+      "gemšeszorň",
+      "gemšeszorn",
+      "gemšeszoren",
+      "gemšeszošaň",
+      "gemšeszoša",
+      "gemšeszošaen",
+      "gemšeszoňši",
+      "gemšeszoši",
+      "gemšeszoenši"
+    ]
+  },
+  {
+    "literal": "gepji",
+    "wordType": "Noun",
+    "definitions": [
+      "garbage, trash, debris, litter"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgɜpji",
+    "examples": [],
+    "flexations": [
+      "gepjiň",
+      "gepji",
+      "gepjen",
+      "gepjimaň",
+      "gepjim",
+      "gepjimen",
+      "gepjirň",
+      "gepjirn",
+      "gepjiren",
+      "gepjišaň",
+      "gepjiša",
+      "gepjišaen",
+      "gepjiňši",
+      "gepjiši",
+      "gepjenši"
+    ]
+  },
+  {
+    "literal": "gepmi",
+    "wordType": "Noun",
+    "definitions": [
+      "soup"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgɜpmi",
+    "examples": [],
+    "flexations": [
+      "gepmiň",
+      "gepmi",
+      "gepmen",
+      "gepmimaň",
+      "gepmim",
+      "gepmimen",
+      "gepmirň",
+      "gepmirn",
+      "gepmiren",
+      "gepmišaň",
+      "gepmiša",
+      "gepmišaen",
+      "gepmiňši",
+      "gepmiši",
+      "gepmenši"
+    ]
+  },
+  {
+    "literal": "getrentetensko",
+    "wordType": "Noun",
+    "definitions": [
+      "beryllium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      6,
+      8,
+      12
+    ],
+    "ipa": "ˈgɜtʀɜnˌtɜtɜnsko",
+    "examples": [],
+    "flexations": [
+      "getrentetenskoň",
+      "getrentetensko",
+      "getrentetenskoen",
+      "getrentetenskomaň",
+      "getrentetenskom",
+      "getrentetenskomen",
+      "getrentetenskorň",
+      "getrentetenskorn",
+      "getrentetenskoren",
+      "getrentetenskošaň",
+      "getrentetenskoša",
+      "getrentetenskošaen",
+      "getrentetenskoňši",
+      "getrentetenskoši",
+      "getrentetenskoenši"
+    ]
+  },
+  {
+    "literal": "gioli",
+    "wordType": "Noun",
+    "definitions": [
+      "resin, rosin"
+    ],
+    "syllables": [
+      2,
+      3
+    ],
+    "ipa": "ˈgioli",
+    "examples": [],
+    "flexations": [
+      "gioliň",
+      "gioli",
+      "giolen",
+      "giolmaň",
+      "giolim",
+      "giolmen",
+      "giolirň",
+      "giolirn",
+      "giolren",
+      "giolšaň",
+      "giolša",
+      "giolšaen",
+      "gioliňši",
+      "giolši",
+      "giolenši"
+    ]
+  },
+  {
+    "literal": "gjain",
+    "wordType": "Verb",
+    "definitions": [
+      "attend, participate"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgjaɪn",
+    "examples": [],
+    "flexations": [
+      "gjairei",
+      "gjaimurei",
+      "gjairu",
+      "gjaimuru",
+      "gjaoiru",
+      "gjairae",
+      "gjaimurae",
+      "gjain",
+      "gjaimurin",
+      "gjaoi",
+      "gjaitei",
+      "gjaimurtei",
+      "gjaitum",
+      "gjaimurtum",
+      "gjaoitu",
+      "gjaitae",
+      "gjaimurtae"
+    ]
+  },
+  {
+    "literal": "gjanti",
+    "wordType": "Noun",
+    "definitions": [
+      "ocean"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈgjanti",
+    "examples": [],
+    "flexations": [
+      "gjantiň",
+      "gjanti",
+      "gjanten",
+      "gjantmaň",
+      "gjantim",
+      "gjantmen",
+      "gjantirň",
+      "gjantirn",
+      "gjantren",
+      "gjantšaň",
+      "gjantša",
+      "gjantšaen",
+      "gjantiňši",
+      "gjantši",
+      "gjantenši"
+    ]
+  },
+  {
+    "literal": "gjeküi",
+    "wordType": "Noun",
+    "definitions": [
+      "anchor"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgjɜkʏ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "gjeküiň",
+      "gjeküi",
+      "gjeküen",
+      "gjekümaň",
+      "gjeküim",
+      "gjekümen",
+      "gjeküirň",
+      "gjeküirn",
+      "gjeküren",
+      "gjeküšaň",
+      "gjeküša",
+      "gjeküšaen",
+      "gjeküiňši",
+      "gjeküši",
+      "gjeküenši"
+    ]
+  },
+  {
+    "literal": "gjemi",
+    "wordType": "Noun",
+    "definitions": [
+      "(hyper)link",
+      "street sign"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgjɜmi",
+    "examples": [],
+    "flexations": [
+      "gjemiň",
+      "gjemi",
+      "gjemen",
+      "gjemimaň",
+      "gjemim",
+      "gjemimen",
+      "gjemirň",
+      "gjemirn",
+      "gjemren",
+      "gjemšaň",
+      "gjemša",
+      "gjemšaen",
+      "gjemiňši",
+      "gjemši",
+      "gjemenši"
+    ]
+  },
+  {
+    "literal": "gjemilof",
+    "wordType": "Noun",
+    "definitions": [
+      "waypoint"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈgjɜmilɔf",
+    "examples": [],
+    "flexations": [
+      "gjemilofaň",
+      "gjemilof",
+      "gjemilofen",
+      "gjemilofmaň",
+      "gjemilofüm",
+      "gjemilofmen",
+      "gjemilofarň",
+      "gjemilofarn",
+      "gjemilofren",
+      "gjemilofšaň",
+      "gjemilofša",
+      "gjemilofšaen",
+      "gjemilofaňši",
+      "gjemilofši",
+      "gjemilofenši"
+    ]
+  },
+  {
+    "literal": "gješin",
+    "wordType": "Verb",
+    "definitions": [
+      "lead, guide"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgjɜʃɪn",
+    "examples": [],
+    "flexations": [
+      "gješirei",
+      "gješimurei",
+      "gješiru",
+      "gješimuru",
+      "gješoiru",
+      "gješirae",
+      "gješimurae",
+      "gješin",
+      "gješimurin",
+      "gješoi",
+      "gješitei",
+      "gješimurtei",
+      "gješitum",
+      "gješimurtum",
+      "gješoitu",
+      "gješitae",
+      "gješimurtae"
+    ]
+  },
+  {
+    "literal": "gjibin",
+    "wordType": "Verb",
+    "definitions": [
+      "wipe"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgjibɪn",
+    "examples": [],
+    "flexations": [
+      "gjibirei",
+      "gjibimurei",
+      "gjibiru",
+      "gjibimuru",
+      "gjiboiru",
+      "gjibirae",
+      "gjibimurae",
+      "gjibin",
+      "gjibimurin",
+      "gjiboi",
+      "gjibitei",
+      "gjibimurtei",
+      "gjibitum",
+      "gjibimurtum",
+      "gjiboitu",
+      "gjibitae",
+      "gjibimurtae"
+    ]
+  },
+  {
+    "literal": "gjoi",
+    "wordType": "Noun",
+    "definitions": [
+      "way, path"
+    ],
+    "syllables": [],
+    "ipa": "ˈgjɔ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "gjoiň",
+      "gjoi",
+      "gjoen",
+      "gjoimaň",
+      "gjoim",
+      "gjoimen",
+      "gjoirň",
+      "gjoirn",
+      "gjoiren",
+      "gjoišaň",
+      "gjoiša",
+      "gjoišaen",
+      "gjoiňši",
+      "gjoiši",
+      "gjoenši"
+    ]
+  },
+  {
+    "literal": "gjop",
+    "wordType": "Noun",
+    "definitions": [
+      "cum, semen (colloquial)"
+    ],
+    "syllables": [],
+    "ipa": "ˈgjɔp",
+    "examples": [],
+    "flexations": [
+      "gjopaň",
+      "gjop",
+      "gjopen",
+      "gjopmaň",
+      "gjopüm",
+      "gjopmen",
+      "gjoparň",
+      "gjoparn",
+      "gjopren",
+      "gjopšaň",
+      "gjopša",
+      "gjopšaen",
+      "gjopaňši",
+      "gjopši",
+      "gjopenši"
+    ]
+  },
+  {
+    "literal": "gjopin",
+    "wordType": "Verb",
+    "definitions": [
+      "cum, ejaculate (colloquial)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgjɔpɪn",
+    "examples": [],
+    "flexations": [
+      "gjopirei",
+      "gjopimurei",
+      "gjopiru",
+      "gjopimuru",
+      "gjopoiru",
+      "gjopirae",
+      "gjopimurae",
+      "gjopin",
+      "gjopimurin",
+      "gjopoi",
+      "gjopitei",
+      "gjopimurtei",
+      "gjopitum",
+      "gjopimurtum",
+      "gjopoitu",
+      "gjopitae",
+      "gjopimurtae"
+    ]
+  },
+  {
+    "literal": "gjubi",
+    "wordType": "Noun",
+    "definitions": [
+      "road"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgjubi",
+    "examples": [],
+    "flexations": [
+      "gjubiň",
+      "gjubi",
+      "gjuben",
+      "gjubimaň",
+      "gjubim",
+      "gjubimen",
+      "gjubirň",
+      "gjubirn",
+      "gjubiren",
+      "gjubišaň",
+      "gjubiša",
+      "gjubišaen",
+      "gjubiňši",
+      "gjubiši",
+      "gjubenši"
+    ]
+  },
+  {
+    "literal": "gjujup",
+    "wordType": "Noun",
+    "definitions": [
+      "ultraviolet"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgjujʊp",
+    "examples": [],
+    "flexations": [
+      "gjujupaň",
+      "gjujup",
+      "gjujupen",
+      "gjujupmaň",
+      "gjujupüm",
+      "gjujupmen",
+      "gjujuparň",
+      "gjujuparn",
+      "gjujupren",
+      "gjujupšaň",
+      "gjujupša",
+      "gjujupšaen",
+      "gjujupaňši",
+      "gjujupši",
+      "gjujupenši"
+    ]
+  },
+  {
+    "literal": "gjuňja",
+    "wordType": "Adjective",
+    "definitions": [
+      "blocked, obstructed"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈgjʊŋja",
+    "examples": [],
+    "flexations": [
+      "gjuňja",
+      "gjuňjagua",
+      "gjuňjahia",
+      "gjuňjaňa"
+    ]
+  },
+  {
+    "literal": "gjuňjin",
+    "wordType": "Verb",
+    "definitions": [
+      "block, obstruct"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈgjʊŋjɪn",
+    "examples": [],
+    "flexations": [
+      "gjuňjirei",
+      "gjuňjimurei",
+      "gjuňjiru",
+      "gjuňjimuru",
+      "gjuňjoiru",
+      "gjuňjirae",
+      "gjuňjimurae",
+      "gjuňjin",
+      "gjuňjimurin",
+      "gjuňjoi",
+      "gjuňjitei",
+      "gjuňjimurtei",
+      "gjuňjitum",
+      "gjuňjimurtum",
+      "gjuňjoitu",
+      "gjuňjitae",
+      "gjuňjimurtae"
+    ]
+  },
+  {
+    "literal": "glaidar",
+    "wordType": "Noun",
+    "definitions": [
+      "reputation"
+    ],
+    "syllables": [
+      3,
+      4
+    ],
+    "ipa": "ˈglaʔidaʀ",
+    "examples": [],
+    "flexations": [
+      "glaidaraň",
+      "glaidar",
+      "glaidaren",
+      "glaidarmaň",
+      "glaidarüm",
+      "glaidarmen",
+      "glaidararň",
+      "glaidararn",
+      "glaidararen",
+      "glaidaršaň",
+      "glaidarša",
+      "glaidaršaen",
+      "glaidaraňši",
+      "glaidarši",
+      "glaidarenši"
+    ]
+  },
+  {
+    "literal": "glaidin",
+    "wordType": "Verb",
+    "definitions": [
+      "make a name (for oneself), make a (good) reputation"
+    ],
+    "syllables": [
+      3,
+      4
+    ],
+    "ipa": "ˈglaʔidɪn",
+    "examples": [],
+    "flexations": [
+      "glaidirei",
+      "glaidimurei",
+      "glaidiru",
+      "glaidimuru",
+      "glaidoiru",
+      "glaidirae",
+      "glaidimurae",
+      "glaidin",
+      "glaidimurin",
+      "glaidoi",
+      "glaiditei",
+      "glaidimurtei",
+      "glaiditum",
+      "glaidimurtum",
+      "glaidoitu",
+      "glaiditae",
+      "glaidimurtae"
+    ]
+  },
+  {
+    "literal": "gletintško",
+    "wordType": "Noun",
+    "definitions": [
+      "meitnerium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      8
+    ],
+    "ipa": "ˈglɜtɪntʃko",
+    "examples": [],
+    "flexations": [
+      "gletintškoň",
+      "gletintško",
+      "gletintškoen",
+      "gletintškomaň",
+      "gletintškom",
+      "gletintškomen",
+      "gletintškorň",
+      "gletintškorn",
+      "gletintškoren",
+      "gletintškošaň",
+      "gletintškoša",
+      "gletintškošaen",
+      "gletintškoňši",
+      "gletintškoši",
+      "gletintškoenši"
+    ]
+  },
+  {
+    "literal": "glins",
+    "wordType": "Noun",
+    "definitions": [
+      "rubber"
+    ],
+    "syllables": [],
+    "ipa": "ˈglɪns",
+    "examples": [],
+    "flexations": [
+      "glinsaň",
+      "glins",
+      "glinsen",
+      "glinsmaň",
+      "glinsüm",
+      "glinsmen",
+      "glinsarň",
+      "glinsarn",
+      "glinsren",
+      "glinsšaň",
+      "glinsša",
+      "glinsšaen",
+      "glinsaňši",
+      "glinsši",
+      "glinsenši"
+    ]
+  },
+  {
+    "literal": "glüta",
+    "wordType": "Adjective",
+    "definitions": [
+      "smooth"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈglyta",
+    "examples": [],
+    "flexations": [
+      "glüta",
+      "glütagua",
+      "glütahia",
+      "glütaňa"
+    ]
+  },
+  {
+    "literal": "gnin",
+    "wordType": "Verb",
+    "definitions": [
+      "rub"
+    ],
+    "syllables": [],
+    "ipa": "ˈgnɪn",
+    "examples": [],
+    "flexations": [
+      "gnirei",
+      "gnimurei",
+      "gniru",
+      "gnimuru",
+      "gnoiru",
+      "gnirae",
+      "gnimurae",
+      "gnin",
+      "gnimurin",
+      "gnoi",
+      "gnitei",
+      "gnimurtei",
+      "gnitum",
+      "gnimurtum",
+      "gnoitu",
+      "gnitae",
+      "gnimurtae"
+    ]
+  },
+  {
+    "literal": "gnupi",
+    "wordType": "Noun",
+    "definitions": [
+      "bud (plant)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgnupi",
+    "examples": [],
+    "flexations": [
+      "gnupiň",
+      "gnupi",
+      "gnupen",
+      "gnupmaň",
+      "gnupim",
+      "gnupmen",
+      "gnupirň",
+      "gnupirn",
+      "gnupren",
+      "gnupšaň",
+      "gnupša",
+      "gnupšaen",
+      "gnupiňši",
+      "gnupši",
+      "gnupenši"
+    ]
+  },
+  {
+    "literal": "goba",
+    "wordType": "Adjective",
+    "definitions": [
+      "wet"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgoba",
+    "examples": [],
+    "flexations": [
+      "goba",
+      "gobagua",
+      "gobahia",
+      "gobaňa"
+    ]
+  },
+  {
+    "literal": "gobeme",
+    "wordType": "Noun",
+    "definitions": [
+      "goat milk"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈgobeme",
+    "examples": [],
+    "flexations": [
+      "gobemeň",
+      "gobeme",
+      "gobemeen",
+      "gobememaň",
+      "gobemem",
+      "gobememen",
+      "gobemerň",
+      "gobemern",
+      "gobemeren",
+      "gobemešaň",
+      "gobemeša",
+      "gobemešaen",
+      "gobemeňši",
+      "gobemeši",
+      "gobemeenši"
+    ]
+  },
+  {
+    "literal": "gobi",
+    "wordType": "Noun",
+    "definitions": [
+      "water"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgobi",
+    "examples": [],
+    "flexations": [
+      "gobiň",
+      "gobi",
+      "goben",
+      "gobimaň",
+      "gobim",
+      "gobimen",
+      "gobirň",
+      "gobirn",
+      "gobiren",
+      "gobišaň",
+      "gobiša",
+      "gobišaen",
+      "gobiňši",
+      "gobiši",
+      "gobenši"
+    ]
+  },
+  {
+    "literal": "gobjup",
+    "wordType": "Noun",
+    "definitions": [
+      "turquoise, azure"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgobjʊp",
+    "examples": [],
+    "flexations": [
+      "gobjupaň",
+      "gobjup",
+      "gobjupen",
+      "gobjupmaň",
+      "gobjupüm",
+      "gobjupmen",
+      "gobjuparň",
+      "gobjuparn",
+      "gobjupren",
+      "gobjupšaň",
+      "gobjupša",
+      "gobjupšaen",
+      "gobjupaňši",
+      "gobjupši",
+      "gobjupenši"
+    ]
+  },
+  {
+    "literal": "gobjupei",
+    "wordType": "Noun",
+    "definitions": [
+      "whale"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈgobjʊpɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "gobjupeiň",
+      "gobjupei",
+      "gobjupeen",
+      "gobjupeimaň",
+      "gobjupeim",
+      "gobjupeimen",
+      "gobjupeirň",
+      "gobjupeirn",
+      "gobjupeiren",
+      "gobjupeišaň",
+      "gobjupeiša",
+      "gobjupeišaen",
+      "gobjupeiňši",
+      "gobjupeiši",
+      "gobjupeenši"
+    ]
+  },
+  {
+    "literal": "goboko",
+    "wordType": "Noun",
+    "definitions": [
+      "hydrogen (chemical element)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈgoboko",
+    "examples": [],
+    "flexations": [
+      "gobokoň",
+      "goboko",
+      "gobokoen",
+      "gobokomaň",
+      "gobokom",
+      "gobokomen",
+      "gobokorň",
+      "gobokorn",
+      "gobokoren",
+      "gobokošaň",
+      "gobokoša",
+      "gobokošaen",
+      "gobokoňši",
+      "gobokoši",
+      "gobokoenši"
+    ]
+  },
+  {
+    "literal": "goptiko",
+    "wordType": "Noun",
+    "definitions": [
+      "mercury (chemical element)"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈgɔptiko",
+    "examples": [],
+    "flexations": [
+      "goptikoň",
+      "goptiko",
+      "goptikoen",
+      "goptikomaň",
+      "goptikom",
+      "goptikomen",
+      "goptikorň",
+      "goptikorn",
+      "goptikoren",
+      "goptikošaň",
+      "goptikoša",
+      "goptikošaen",
+      "goptikoňši",
+      "goptikoši",
+      "goptikoenši"
+    ]
+  },
+  {
+    "literal": "gobumu",
+    "wordType": "Noun",
+    "definitions": [
+      "cow milk"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈgobumu",
+    "examples": [],
+    "flexations": [
+      "gobumuň",
+      "gobumu",
+      "gobumuen",
+      "gobumumaň",
+      "gobumum",
+      "gobumumen",
+      "gobumurň",
+      "gobumurn",
+      "gobumuren",
+      "gobumušaň",
+      "gobumuša",
+      "gobumušaen",
+      "gobumuňši",
+      "gobumuši",
+      "gobumuenši"
+    ]
+  },
+  {
+    "literal": "göget",
+    "wordType": "Noun",
+    "definitions": [
+      "bucket"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgøgɜt",
+    "examples": [],
+    "flexations": [
+      "gögetaň",
+      "göget",
+      "gögeten",
+      "gögetmaň",
+      "gögetüm",
+      "gögetmen",
+      "gögetarň",
+      "gögetarn",
+      "gögetren",
+      "gögetšaň",
+      "gögetša",
+      "gögetšaen",
+      "gögetaňši",
+      "gögetši",
+      "gögetenši"
+    ]
+  },
+  {
+    "literal": "gogjin",
+    "wordType": "Verb",
+    "definitions": [
+      "swim"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgogjɪn",
+    "examples": [],
+    "flexations": [
+      "gogjirei",
+      "gogjimurei",
+      "gogjiru",
+      "gogjimuru",
+      "gogjoiru",
+      "gogjirae",
+      "gogjimurae",
+      "gogjin",
+      "gogjimurin",
+      "gogjoi",
+      "gogjitei",
+      "gogjimurtei",
+      "gogjitum",
+      "gogjimurtum",
+      "gogjoitu",
+      "gogjitae",
+      "gogjimurtae"
+    ]
+  },
+  {
+    "literal": "gojožo",
+    "wordType": "Noun",
+    "definitions": [
+      "gun, rifle"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈgojoʒo",
+    "examples": [],
+    "flexations": [
+      "gojožoň",
+      "gojožo",
+      "gojožoen",
+      "gojožomaň",
+      "gojožom",
+      "gojožomen",
+      "gojožorň",
+      "gojožorn",
+      "gojožoren",
+      "gojožošaň",
+      "gojožoša",
+      "gojožošaen",
+      "gojožoňši",
+      "gojožoši",
+      "gojožoenši"
+    ]
+  },
+  {
+    "literal": "gomavonsa",
+    "wordType": "Adjective",
+    "definitions": [
+      "genderfluid"
+    ],
+    "syllables": [
+      2,
+      4,
+      7
+    ],
+    "ipa": "ˈgomavonsa",
+    "examples": [],
+    "flexations": [
+      "gomavonsa",
+      "gomavonsagua",
+      "gomavonsahia",
+      "gomavonsaňa"
+    ]
+  },
+  {
+    "literal": "gömbök",
+    "wordType": "Noun",
+    "definitions": [
+      "cauldron, kettle"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgɶmbɶk",
+    "examples": [],
+    "flexations": [
+      "gömbökaň",
+      "gömbök",
+      "gömböken",
+      "gömbökmaň",
+      "gömböküm",
+      "gömbökmen",
+      "gömbökarň",
+      "gömbökarn",
+      "gömbökren",
+      "gömbökšaň",
+      "gömbökša",
+      "gömbökšaen",
+      "gömbökaňši",
+      "gömbökši",
+      "gömbökenši"
+    ]
+  },
+  {
+    "literal": "gomgom",
+    "wordType": "Noun",
+    "definitions": [
+      "liquid"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgɔmgɔm",
+    "examples": [],
+    "flexations": [
+      "gomgomaň",
+      "gomgom",
+      "gomgomen",
+      "gomgomümaň",
+      "gomgomüm",
+      "gomgomümen",
+      "gomgomarň",
+      "gomgomarn",
+      "gomgomren",
+      "gomgomšaň",
+      "gomgomša",
+      "gomgomšaen",
+      "gomgomaňši",
+      "gomgomši",
+      "gomgomenši"
+    ]
+  },
+  {
+    "literal": "gomi",
+    "wordType": "Noun",
+    "definitions": [
+      "drink"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgomi",
+    "examples": [],
+    "flexations": [
+      "gomiň",
+      "gomi",
+      "gomen",
+      "gomimaň",
+      "gomim",
+      "gomimen",
+      "gomirň",
+      "gomirn",
+      "gomren",
+      "gomšaň",
+      "gomša",
+      "gomšaen",
+      "gomiňši",
+      "gomši",
+      "gomenši"
+    ]
+  },
+  {
+    "literal": "gomo",
+    "wordType": "Noun",
+    "definitions": [
+      "fluid"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgomo",
+    "examples": [],
+    "flexations": [
+      "gomoň",
+      "gomo",
+      "gomoen",
+      "gomomaň",
+      "gomom",
+      "gomomen",
+      "gomorň",
+      "gomorn",
+      "gomoren",
+      "gomošaň",
+      "gomoša",
+      "gomošaen",
+      "gomoňši",
+      "gomoši",
+      "gomoenši"
+    ]
+  },
+  {
+    "literal": "gomin",
+    "wordType": "Verb",
+    "definitions": [
+      "drink"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgomɪn",
+    "examples": [],
+    "flexations": [
+      "gomirei",
+      "gomimurei",
+      "gomiru",
+      "gomimuru",
+      "gomoiru",
+      "gomirae",
+      "gomimurae",
+      "gomin",
+      "gomimurin",
+      "gomoi",
+      "gomitei",
+      "gomimurtei",
+      "gomitum",
+      "gomimurtum",
+      "gomoitu",
+      "gomitae",
+      "gomimurtae"
+    ]
+  },
+  {
+    "literal": "gomna",
+    "wordType": "Adjective",
+    "definitions": [
+      "molten, melted"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgɔmna",
+    "examples": [],
+    "flexations": [
+      "gomna",
+      "gomnagua",
+      "gomnahia",
+      "gomnaňa"
+    ]
+  },
+  {
+    "literal": "goňop",
+    "wordType": "Noun",
+    "definitions": [
+      "substance",
+      "liquid material"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgɔŋɔp",
+    "examples": [],
+    "flexations": [
+      "goňopaň",
+      "goňop",
+      "goňopen",
+      "goňopmaň",
+      "goňopüm",
+      "goňopmen",
+      "goňoparň",
+      "goňoparn",
+      "goňopren",
+      "goňopšaň",
+      "goňopša",
+      "goňopšaen",
+      "goňopaňši",
+      "goňopši",
+      "goňopenši"
+    ]
+  },
+  {
+    "literal": "goptbi",
+    "wordType": "Noun",
+    "definitions": [
+      "clay"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈgɔptbi",
+    "examples": [],
+    "flexations": [
+      "goptbiň",
+      "goptbi",
+      "goptben",
+      "goptbimaň",
+      "goptbim",
+      "goptbimen",
+      "goptbirň",
+      "goptbirn",
+      "goptbiren",
+      "goptbišaň",
+      "goptbiša",
+      "goptbišaen",
+      "goptbiňši",
+      "goptbiši",
+      "goptbenši"
+    ]
+  },
+  {
+    "literal": "gorbjup",
+    "wordType": "Noun",
+    "definitions": [
+      "cyan"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgɔʀbjʊp",
+    "examples": [],
+    "flexations": [
+      "gorbjupaň",
+      "gorbjup",
+      "gorbjupen",
+      "gorbjupmaň",
+      "gorbjupüm",
+      "gorbjupmen",
+      "gorbjuparň",
+      "gorbjuparn",
+      "gorbjupren",
+      "gorbjupšaň",
+      "gorbjupša",
+      "gorbjupšaen",
+      "gorbjupaňši",
+      "gorbjupši",
+      "gorbjupenši"
+    ]
+  },
+  {
+    "literal": "goumboko",
+    "wordType": "Noun",
+    "definitions": [
+      "sodium (chemical element)"
+    ],
+    "syllables": [
+      4,
+      6
+    ],
+    "ipa": "ˈgo͜umboko",
+    "examples": [],
+    "flexations": [
+      "goumbokoň",
+      "goumboko",
+      "goumbokoen",
+      "goumbokomaň",
+      "goumbokom",
+      "goumbokomen",
+      "goumbokorň",
+      "goumbokorn",
+      "goumbokoren",
+      "goumbokošaň",
+      "goumbokoša",
+      "goumbokošaen",
+      "goumbokoňši",
+      "goumbokoši",
+      "goumbokoenši"
+    ]
+  },
+  {
+    "literal": "gourin",
+    "wordType": "Verb",
+    "definitions": [
+      "brew"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgo͜uʀɪn",
+    "examples": [],
+    "flexations": [
+      "gourirei",
+      "gourimurei",
+      "gouriru",
+      "gourimuru",
+      "gouroiru",
+      "gourirae",
+      "gourimurae",
+      "gourin",
+      "gourimurin",
+      "gouroi",
+      "gouritei",
+      "gourimurtei",
+      "gouritum",
+      "gourimurtum",
+      "gouroitu",
+      "gouritae",
+      "gourimurtae"
+    ]
+  },
+  {
+    "literal": "groisko",
+    "wordType": "Noun",
+    "definitions": [
+      "thulium (chemical element)"
+    ],
+    "syllables": [
+      5
+    ],
+    "ipa": "ˈgʀɔ͜ɪsko",
+    "examples": [],
+    "flexations": [
+      "groiskoň",
+      "groisko",
+      "groiskoen",
+      "groiskomaň",
+      "groiskom",
+      "groiskomen",
+      "groiskorň",
+      "groiskorn",
+      "groiskoren",
+      "groiskošaň",
+      "groiskoša",
+      "groiskošaen",
+      "groiskoňši",
+      "groiskoši",
+      "groiskoenši"
+    ]
+  },
+  {
+    "literal": "grusvi",
+    "wordType": "Noun",
+    "definitions": [
+      "lizard"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈgʀusvi",
+    "examples": [],
+    "flexations": [
+      "grusviň",
+      "grusvi",
+      "grusven",
+      "grusvimaň",
+      "grusvim",
+      "grusvimen",
+      "grusvirň",
+      "grusvirn",
+      "grusviren",
+      "grusvišaň",
+      "grusviša",
+      "grusvišaen",
+      "grusviňši",
+      "grusviši",
+      "grusvenši"
+    ]
+  },
+  {
+    "literal": "güan",
+    "wordType": "Noun",
+    "definitions": [
+      "tide"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgyan",
+    "examples": [],
+    "flexations": [
+      "güanaň",
+      "güan",
+      "güanen",
+      "güanmaň",
+      "güanüm",
+      "güanmen",
+      "güanarň",
+      "güanarn",
+      "güanren",
+      "güanšaň",
+      "güanša",
+      "güanšaen",
+      "güanaňši",
+      "güanši",
+      "güanenši"
+    ]
+  },
+  {
+    "literal": "guegi",
+    "wordType": "Noun",
+    "definitions": [
+      "advancement, achievement"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgwɜgi",
+    "examples": [],
+    "flexations": [
+      "guegiň",
+      "guegi",
+      "guegen",
+      "guegimaň",
+      "guegim",
+      "guegimen",
+      "guegirň",
+      "guegirn",
+      "guegiren",
+      "guegišaň",
+      "guegiša",
+      "guegišaen",
+      "guegiňši",
+      "guegiši",
+      "guegenši"
+    ]
+  },
+  {
+    "literal": "guehin",
+    "wordType": "Verb",
+    "definitions": [
+      "climb",
+      "advance, progress"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgwɜhɪn",
+    "examples": [],
+    "flexations": [
+      "guehirei",
+      "guehimurei",
+      "guehiru",
+      "guehimuru",
+      "guehoiru",
+      "guehirae",
+      "guehimurae",
+      "guehin",
+      "guehimurin",
+      "guehoi",
+      "guehitei",
+      "guehimurtei",
+      "guehitum",
+      "guehimurtum",
+      "guehoitu",
+      "guehitae",
+      "guehimurtae"
+    ]
+  },
+  {
+    "literal": "gujin",
+    "wordType": "Verb",
+    "definitions": [
+      "cover (up)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgujɪn",
+    "examples": [],
+    "flexations": [
+      "gujirei",
+      "gujimurei",
+      "gujiru",
+      "gujimuru",
+      "gujoiru",
+      "gujirae",
+      "gujimurae",
+      "gujin",
+      "gujimurin",
+      "gujoi",
+      "gujitei",
+      "gujimurtei",
+      "gujitum",
+      "gujimurtum",
+      "gujoitu",
+      "gujitae",
+      "gujimurtae"
+    ]
+  },
+  {
+    "literal": "guma",
+    "wordType": "Adjective",
+    "definitions": [
+      "humid"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈguma",
+    "examples": [],
+    "flexations": [
+      "guma",
+      "gumagua",
+      "gumahia",
+      "gumaňa"
+    ]
+  },
+  {
+    "literal": "gümnii",
+    "wordType": "Noun",
+    "definitions": [
+      "ingot, bar"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈgʏmniʔi",
+    "examples": [],
+    "flexations": [
+      "gümniiň",
+      "gümnii",
+      "gümnien",
+      "gümnimaň",
+      "gümniim",
+      "gümnimen",
+      "gümniirň",
+      "gümniirn",
+      "gümniren",
+      "gümnišaň",
+      "gümniša",
+      "gümnišaen",
+      "gümniiňši",
+      "gümniši",
+      "gümnienši"
+    ]
+  },
+  {
+    "literal": "günha",
+    "wordType": "Adjective",
+    "definitions": [
+      "mobile"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgʏnha",
+    "examples": [],
+    "flexations": [
+      "günha",
+      "günhagua",
+      "günhahia",
+      "günhaňa"
+    ]
+  },
+  {
+    "literal": "günin",
+    "wordType": "Verb",
+    "definitions": [
+      "move"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈgʏnɪn",
+    "examples": [],
+    "flexations": [
+      "günirei",
+      "günimurei",
+      "güniru",
+      "günimuru",
+      "günoiru",
+      "günirae",
+      "günimurae",
+      "günin",
+      "günimurin",
+      "günoi",
+      "günitei",
+      "günimurtei",
+      "günitum",
+      "günimurtum",
+      "günoitu",
+      "günitae",
+      "günimurtae"
+    ]
+  },
+  {
+    "literal": "günörvi",
+    "wordType": "Noun",
+    "definitions": [
+      "lantern"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈgynɶʀvi",
+    "examples": [],
+    "flexations": [
+      "günörviň",
+      "günörvi",
+      "günörven",
+      "günörvimaň",
+      "günörvim",
+      "günörvimen",
+      "günörvirň",
+      "günörvirn",
+      "günörviren",
+      "günörvišaň",
+      "günörviša",
+      "günörvišaen",
+      "günörviňši",
+      "günörviši",
+      "günörvenši"
+    ]
   }
 ]

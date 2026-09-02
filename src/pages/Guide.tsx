@@ -166,6 +166,12 @@ const Guide: Component = (props) => {
             <p>
               If you have difficulty pronouncing a uvular trill (/ʀ/), you can substitute it for an alveolar flap (/ɾ/) or alveolar trill (/r/), or even a velar fricative (/x/).
             </p>
+            <p>
+              Phonotactically, voiced consonants in coda position are very rare. If declensions seem irregular, this is probably the reason.
+            </p>
+            <p>
+              If, when using an affix, 2 of the same consonant are next to each other, an /ɪ/ or /ə/ can be inserted for clarity (though it depends on the consonant, not always necessary).
+            </p>
           </CollapseH3>
           <CollapseH3 title="Basic Syntax">
             <p>

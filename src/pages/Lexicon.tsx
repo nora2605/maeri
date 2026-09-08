@@ -1,4 +1,4 @@
-import { Component, createMemo, createSignal, For, Show } from "solid-js";
+import { Component, createMemo, createSignal, For, Show, createEffect } from "solid-js";
 import { DictionaryEntry, IdxToLit, WORD_TYPES, WordType, idFromEntry, toLumaha } from "../lib/words";
 import Listen from "../components/Listen";
 import entries from "../assets/dict.json";
@@ -42,7 +42,9 @@ const EntryCompact: Component<{ entry: DictionaryEntry, highlight: string }> = (
 
 const Lexicon: Component = () => {
   let [query, setQuery] = createSignal("");
+  let [effectiveQuery, setEffectiveQuery] = createSignal("");
   let [wordTypeFilter, setWordTypeFilter] = createSignal("All" as ("All" | WordType));
+  let currentTimeout: NodeJS.Timeout | undefined = undefined;
 
   function any<T>(iter: T[], pred: (_:T)=>boolean) {
     let a = false;
@@ -66,17 +68,27 @@ const Lexicon: Component = () => {
     return c;
   }
 
+  createEffect(() => {
+    return query();
+  }, q => {
+    if (currentTimeout)
+      clearTimeout(currentTimeout);
+    currentTimeout = setTimeout(() => setEffectiveQuery(q), 150);
+  });
+
   let filtered = createMemo(() => {
     let o = entries.toSorted((a, b) => a.literal.localeCompare(b.literal)) as DictionaryEntry[];
+    let q = effectiveQuery();
+    let wtf = wordTypeFilter();
     return orderedSetUnion([
-      o.filter((e) => e.literal.startsWith(query())),
-      o.filter((e) => e.literal.includes(query())),
-      o.filter((e) => any(e.definitions, d => d.startsWith(query()))),
-      o.filter((e) => any(e.definitions, d => d.includes(query()))),
-      o.filter((e) => any(e.flexations, f => f.startsWith(query()))),
-      o.filter((e) => any(e.flexations, f => f.includes(query())))
+      o.filter((e) => e.literal.startsWith(q)),
+      o.filter((e) => e.literal.includes(q)),
+      o.filter((e) => any(e.definitions, d => d.startsWith(q))),
+      o.filter((e) => any(e.definitions, d => d.includes(q))),
+      o.filter((e) => any(e.flexations, f => f.startsWith(q))),
+      o.filter((e) => any(e.flexations, f => f.includes(q)))
     ], (a,b)=>idFromEntry(a)===idFromEntry(b)).filter((e) => 
-      wordTypeFilter() === "All" || e.wordType === wordTypeFilter()
+      wtf === "All" || e.wordType === wtf
     );
   });
 

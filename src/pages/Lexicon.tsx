@@ -78,7 +78,12 @@ const Lexicon: Component = () => {
 
   let filtered = createMemo(() => {
     let o = entries.toSorted((a, b) => a.literal.localeCompare(b.literal)) as DictionaryEntry[];
-    let q = effectiveQuery();
+    let q = effectiveQuery().toLowerCase()
+      .replace(/zh/g, "ž")
+      .replace(/sch/g, "š")
+      .replace(/nq/g, "ň")
+      .replace(/oy/g, "ö")
+      .replace(/uy/g, "ü");
     let wtf = wordTypeFilter();
     return orderedSetUnion([
       o.filter((e) => e.literal.startsWith(q)),
@@ -115,6 +120,9 @@ const Lexicon: Component = () => {
           <For each={WORD_TYPES}>{(e) => <option>{e}</option>}</For>
         </select>
       </div>
+      <Show when={effectiveQuery() !== ""}>
+        <span class="text-neutral-600 text-sm">Results: {filtered().length}</span>
+      </Show>
       <div class="sm:flex sm:flex-wrap *:m-1">
         <For each={filtered()}>{e => <EntryCompact entry={e as DictionaryEntry} highlight={query()} />}</For>
       </div>

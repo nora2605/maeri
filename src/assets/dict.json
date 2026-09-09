@@ -164,35 +164,6 @@
     ]
   },
   {
-    "literal": "aeko",
-    "wordType": "Noun",
-    "definitions": [
-      "oxygen"
-    ],
-    "syllables": [
-      2
-    ],
-    "ipa": "ˈa͜eko",
-    "examples": [],
-    "flexations": [
-      "aekoň",
-      "aeko",
-      "aekoen",
-      "aekomaň",
-      "aekom",
-      "aekomen",
-      "aekorň",
-      "aekorn",
-      "aekoren",
-      "aekošaň",
-      "aekoša",
-      "aekošaen",
-      "aekoňši",
-      "aekoši",
-      "aekoenši"
-    ]
-  },
-  {
     "literal": "pröko",
     "wordType": "Noun",
     "definitions": [
@@ -5604,36 +5575,6 @@
       "buektoitu",
       "buektitae",
       "buektimurtae"
-    ]
-  },
-  {
-    "literal": "bufgoko",
-    "wordType": "Noun",
-    "definitions": [
-      "magnesium (chemical element)"
-    ],
-    "syllables": [
-      3,
-      5
-    ],
-    "ipa": "ˈbufgoko",
-    "examples": [],
-    "flexations": [
-      "bufgokoň",
-      "bufgoko",
-      "bufgokoen",
-      "bufgokomaň",
-      "bufgokom",
-      "bufgokomen",
-      "bufgokorň",
-      "bufgokorn",
-      "bufgokoren",
-      "bufgokošaň",
-      "bufgokoša",
-      "bufgokošaen",
-      "bufgokoňši",
-      "bufgokoši",
-      "bufgokoenši"
     ]
   },
   {
@@ -18482,36 +18423,6 @@
     ]
   },
   {
-    "literal": "ijutsko",
-    "wordType": "Noun",
-    "definitions": [
-      "molybdenum"
-    ],
-    "syllables": [
-      1,
-      5
-    ],
-    "ipa": "ˈijʊtsko",
-    "examples": [],
-    "flexations": [
-      "ijutskoň",
-      "ijutsko",
-      "ijutskoen",
-      "ijutskomaň",
-      "ijutskom",
-      "ijutskomen",
-      "ijutskorň",
-      "ijutskorn",
-      "ijutskoren",
-      "ijutskošaň",
-      "ijutskoša",
-      "ijutskošaen",
-      "ijutskoňši",
-      "ijutskoši",
-      "ijutskoenši"
-    ]
-  },
-  {
     "literal": "malti",
     "wordType": "Noun",
     "definitions": [
@@ -28516,6 +28427,4667 @@
       "zunenmaejagua",
       "zunenmaejahia",
       "zunenmaejaňa"
+    ]
+  },
+  {
+    "literal": "vilkoron",
+    "wordType": "Noun",
+    "definitions": [
+      "(piece of) armor"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈvɪlkoʀɔn",
+    "examples": [],
+    "flexations": [
+      "vilkoronaň",
+      "vilkoron",
+      "vilkoronen",
+      "vilkoronmaň",
+      "vilkoronüm",
+      "vilkoronmen",
+      "vilkoronarň",
+      "vilkoronarn",
+      "vilkoronren",
+      "vilkoronšaň",
+      "vilkoronša",
+      "vilkoronšaen",
+      "vilkoronaňši",
+      "vilkoronši",
+      "vilkoronenši"
+    ]
+  },
+  {
+    "literal": "ranaevi",
+    "wordType": "Noun",
+    "definitions": [
+      "absorbtion"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈʀana͜evi",
+    "examples": [],
+    "flexations": [
+      "ranaeviň",
+      "ranaevi",
+      "ranaeven",
+      "ranaevimaň",
+      "ranaevim",
+      "ranaevimen",
+      "ranaevirň",
+      "ranaevirn",
+      "ranaeviren",
+      "ranaevišaň",
+      "ranaeviša",
+      "ranaevišaen",
+      "ranaeviňši",
+      "ranaeviši",
+      "ranaevenši"
+    ]
+  },
+  {
+    "literal": "vehišuhae",
+    "wordType": "Noun",
+    "definitions": [
+      "accessibility"
+    ],
+    "syllables": [
+      2,
+      4,
+      6
+    ],
+    "ipa": "ˈvehiʃuha͜e",
+    "examples": [],
+    "flexations": [
+      "vehišuhaeň",
+      "vehišuhae",
+      "vehišuhaeen",
+      "vehišuhaemaň",
+      "vehišuhaem",
+      "vehišuhaemen",
+      "vehišuhaerň",
+      "vehišuhaern",
+      "vehišuhaeren",
+      "vehišuhaešaň",
+      "vehišuhaeša",
+      "vehišuhaešaen",
+      "vehišuhaeňši",
+      "vehišuhaeši",
+      "vehišuhaeenši"
+    ]
+  },
+  {
+    "literal": "plöhosi",
+    "wordType": "Noun",
+    "definitions": [
+      "account, profile (internet)"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈpløhɔsi",
+    "examples": [],
+    "flexations": [
+      "plöhosiň",
+      "plöhosi",
+      "plöhosen",
+      "plöhosmaň",
+      "plöhosim",
+      "plöhosmen",
+      "plöhosirň",
+      "plöhosirn",
+      "plöhosren",
+      "plöhosšaň",
+      "plöhosša",
+      "plöhosšaen",
+      "plöhosiňši",
+      "plöhosši",
+      "plöhosenši"
+    ]
+  },
+  {
+    "literal": "kotentaif",
+    "wordType": "Noun",
+    "definitions": [
+      "accusative"
+    ],
+    "syllables": [
+      2,
+      5,
+      7
+    ],
+    "ipa": "ˈkotɜntaʔif",
+    "examples": [],
+    "flexations": [
+      "kotentaifaň",
+      "kotentaif",
+      "kotentaifen",
+      "kotentaifmaň",
+      "kotentaifüm",
+      "kotentaifmen",
+      "kotentaifarň",
+      "kotentaifarn",
+      "kotentaifren",
+      "kotentaifšaň",
+      "kotentaifša",
+      "kotentaifšaen",
+      "kotentaifaňši",
+      "kotentaifši",
+      "kotentaifenši"
+    ]
+  },
+  {
+    "literal": "kukutko",
+    "wordType": "Noun",
+    "definitions": [
+      "actinium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈkukʊtko",
+    "examples": [],
+    "flexations": [
+      "kukutkoň",
+      "kukutko",
+      "kukutkoen",
+      "kukutkomaň",
+      "kukutkom",
+      "kukutkomen",
+      "kukutkorň",
+      "kukutkorn",
+      "kukutkoren",
+      "kukutkošaň",
+      "kukutkoša",
+      "kukutkošaen",
+      "kukutkoňši",
+      "kukutkoši",
+      "kukutkoenši"
+    ]
+  },
+  {
+    "literal": "pispi",
+    "wordType": "Noun",
+    "definitions": [
+      "action"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈpɪspi",
+    "examples": [],
+    "flexations": [
+      "pispiň",
+      "pispi",
+      "pispen",
+      "pispmaň",
+      "pispim",
+      "pispmen",
+      "pispirň",
+      "pispirn",
+      "pispren",
+      "pispšaň",
+      "pispša",
+      "pispšaen",
+      "pispiňši",
+      "pispši",
+      "pispenši"
+    ]
+  },
+  {
+    "literal": "kahji",
+    "wordType": "Noun",
+    "definitions": [
+      "address"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈkaçi",
+    "examples": [],
+    "flexations": [
+      "kahjiň",
+      "kahji",
+      "kahjen",
+      "kahjmaň",
+      "kahjim",
+      "kahjmen",
+      "kahjirň",
+      "kahjirn",
+      "kahjren",
+      "kahjšaň",
+      "kahjša",
+      "kahjšaen",
+      "kahjiňši",
+      "kahjši",
+      "kahjenši"
+    ]
+  },
+  {
+    "literal": "uaniljae",
+    "wordType": "Noun",
+    "definitions": [
+      "adjective"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈwanɪlja͜e",
+    "examples": [],
+    "flexations": [
+      "uaniljaeň",
+      "uaniljae",
+      "uaniljaeen",
+      "uaniljaemaň",
+      "uaniljaem",
+      "uaniljaemen",
+      "uaniljaerň",
+      "uaniljaern",
+      "uaniljaeren",
+      "uaniljaešaň",
+      "uaniljaeša",
+      "uaniljaešaen",
+      "uaniljaeňši",
+      "uaniljaeši",
+      "uaniljaeenši"
+    ]
+  },
+  {
+    "literal": "uaspiljae",
+    "wordType": "Noun",
+    "definitions": [
+      "adverb"
+    ],
+    "syllables": [
+      2,
+      6
+    ],
+    "ipa": "ˈwaspɪlja͜e",
+    "examples": [],
+    "flexations": [
+      "uaspiljaeň",
+      "uaspiljae",
+      "uaspiljaeen",
+      "uaspiljaemaň",
+      "uaspiljaem",
+      "uaspiljaemen",
+      "uaspiljaerň",
+      "uaspiljaern",
+      "uaspiljaeren",
+      "uaspiljaešaň",
+      "uaspiljaeša",
+      "uaspiljaešaen",
+      "uaspiljaeňši",
+      "uaspiljaeši",
+      "uaspiljaeenši"
+    ]
+  },
+  {
+    "literal": "lati",
+    "wordType": "Noun",
+    "definitions": [
+      "age"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈlati",
+    "examples": [],
+    "flexations": [
+      "latiň",
+      "lati",
+      "laten",
+      "latmaň",
+      "latim",
+      "latmen",
+      "latirň",
+      "latirn",
+      "latren",
+      "latšaň",
+      "latša",
+      "latšaen",
+      "latiňši",
+      "latši",
+      "latenši"
+    ]
+  },
+  {
+    "literal": "jatli",
+    "wordType": "Noun",
+    "definitions": [
+      "alcohol"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈjatli",
+    "examples": [],
+    "flexations": [
+      "jatliň",
+      "jatli",
+      "jatlen",
+      "jatlimaň",
+      "jatlim",
+      "jatlimen",
+      "jatlirň",
+      "jatlirn",
+      "jatliren",
+      "jatlišaň",
+      "jatliša",
+      "jatlišaen",
+      "jatliňši",
+      "jatliši",
+      "jatlenši"
+    ]
+  },
+  {
+    "literal": "liriko",
+    "wordType": "Noun",
+    "definitions": [
+      "aluminium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈliʀiko",
+    "examples": [],
+    "flexations": [
+      "lirikoň",
+      "liriko",
+      "lirikoen",
+      "lirikomaň",
+      "lirikom",
+      "lirikomen",
+      "lirikorň",
+      "lirikorn",
+      "lirikoren",
+      "lirikošaň",
+      "lirikoša",
+      "lirikošaen",
+      "lirikoňši",
+      "lirikoši",
+      "lirikoenši"
+    ]
+  },
+  {
+    "literal": "perkör",
+    "wordType": "Noun",
+    "definitions": [
+      "anatomy"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈpɜʀkɶʀ",
+    "examples": [],
+    "flexations": [
+      "perköraň",
+      "perkör",
+      "perkören",
+      "perkörmaň",
+      "perkörüm",
+      "perkörmen",
+      "perkörarň",
+      "perkörarn",
+      "perköraren",
+      "perköršaň",
+      "perkörša",
+      "perköršaen",
+      "perköraňši",
+      "perkörši",
+      "perkörenši"
+    ]
+  },
+  {
+    "literal": "vari",
+    "wordType": "Noun",
+    "definitions": [
+      "animal (wild)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈvaʀi",
+    "examples": [],
+    "flexations": [
+      "variň",
+      "vari",
+      "varen",
+      "varimaň",
+      "varim",
+      "varimen",
+      "varirň",
+      "varirn",
+      "variren",
+      "varišaň",
+      "variša",
+      "varšaen",
+      "variňši",
+      "variši",
+      "varenši"
+    ]
+  },
+  {
+    "literal": "ptumpo",
+    "wordType": "Noun",
+    "definitions": [
+      "anvil"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈptʊmpo",
+    "examples": [],
+    "flexations": [
+      "ptumpoň",
+      "ptumpo",
+      "ptumpoen",
+      "ptumpomaň",
+      "ptumpom",
+      "ptumpomen",
+      "ptumporň",
+      "ptumporn",
+      "ptumporen",
+      "ptumpošaň",
+      "ptumpoša",
+      "ptumpošaen",
+      "ptumpoňši",
+      "ptumpoši",
+      "ptumpoenši"
+    ]
+  },
+  {
+    "literal": "krutsini",
+    "wordType": "Noun",
+    "definitions": [
+      "approach"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈkʀʊtsɪni",
+    "examples": [],
+    "flexations": [
+      "krutsiniň",
+      "krutsini",
+      "krutsinen",
+      "krutsinmaň",
+      "krutsinim",
+      "krutsinmen",
+      "krutsinirň",
+      "krutsinirn",
+      "krutsinren",
+      "krutsinšaň",
+      "krutsinša",
+      "krutsinšaen",
+      "krutsiniňši",
+      "krutsinši",
+      "krutsinenši"
+    ]
+  },
+  {
+    "literal": "rjasae",
+    "wordType": "Noun",
+    "definitions": [
+      "areola"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʀjasa͜e",
+    "examples": [],
+    "flexations": [
+      "rjasaeň",
+      "rjasae",
+      "rjasaeen",
+      "rjasaemaň",
+      "rjasaem",
+      "rjasaemen",
+      "rjasaerň",
+      "rjasaern",
+      "rjasaeren",
+      "rjasaešaň",
+      "rjasaeša",
+      "rjasaešaen",
+      "rjasaeňši",
+      "rjasaeši",
+      "rjasaeenši"
+    ]
+  },
+  {
+    "literal": "stuiko",
+    "wordType": "Noun",
+    "definitions": [
+      "arrow (archery)"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈstwiko",
+    "examples": [],
+    "flexations": [
+      "stuikoň",
+      "stuiko",
+      "stuikoen",
+      "stuikomaň",
+      "stuikom",
+      "stuikomen",
+      "stuikorň",
+      "stuikorn",
+      "stuikoren",
+      "stuikošaň",
+      "stuikoša",
+      "stuikošaen",
+      "stuikoňši",
+      "stuikoši",
+      "stuikoenši"
+    ]
+  },
+  {
+    "literal": "rolpe",
+    "wordType": "Noun",
+    "definitions": [
+      "arrow (graphic)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʀɔlpɜ",
+    "examples": [],
+    "flexations": [
+      "rolpeň",
+      "rolpe",
+      "rolpeen",
+      "rolpemaň",
+      "rolpem",
+      "rolpemen",
+      "rolperň",
+      "rolpern",
+      "rolperen",
+      "rolpešaň",
+      "rolpeša",
+      "rolpešaen",
+      "rolpeňši",
+      "rolpeši",
+      "rolpeenši"
+    ]
+  },
+  {
+    "literal": "leo",
+    "wordType": "Noun",
+    "definitions": [
+      "art"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈleo",
+    "examples": [],
+    "flexations": [
+      "leoň",
+      "leo",
+      "leoen",
+      "leomaň",
+      "leom",
+      "leomen",
+      "leorň",
+      "leorn",
+      "leoren",
+      "leošaň",
+      "leoša",
+      "leošaen",
+      "leoňši",
+      "leoši",
+      "leoenši"
+    ]
+  },
+  {
+    "literal": "rjubi",
+    "wordType": "Noun",
+    "definitions": [
+      "art, sketch"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʀjubi",
+    "examples": [],
+    "flexations": [
+      "rjubiň",
+      "rjubi",
+      "rjuben",
+      "rjubimaň",
+      "rjubim",
+      "rjubimen",
+      "rjubirň",
+      "rjubirn",
+      "rjubiren",
+      "rjubišaň",
+      "rjubiša",
+      "rjubišaen",
+      "rjubiňši",
+      "rjubiši",
+      "rjubenši"
+    ]
+  },
+  {
+    "literal": "lalau",
+    "wordType": "Noun",
+    "definitions": [
+      "artery"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈlala͜u",
+    "examples": [],
+    "flexations": [
+      "lalauň",
+      "lalau",
+      "lalauen",
+      "lalaumaň",
+      "lalaum",
+      "lalaumen",
+      "lalaurň",
+      "lalaurn",
+      "lalauren",
+      "lalaušaň",
+      "lalauša",
+      "lalaušaen",
+      "lalauňši",
+      "lalauši",
+      "lalauenši"
+    ]
+  },
+  {
+    "literal": "maens",
+    "wordType": "Noun",
+    "definitions": [
+      "ash"
+    ],
+    "syllables": [],
+    "ipa": "ˈma͜ens",
+    "examples": [],
+    "flexations": [
+      "maensaň",
+      "maens",
+      "maensen",
+      "maensmaň",
+      "maensüm",
+      "maensmen",
+      "maensarň",
+      "maensarn",
+      "maensren",
+      "maensšaň",
+      "maensša",
+      "maensšaen",
+      "maensaňši",
+      "maensši",
+      "maensenši"
+    ]
+  },
+  {
+    "literal": "majero",
+    "wordType": "Noun",
+    "definitions": [
+      "atlas"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈmajeʀo",
+    "examples": [],
+    "flexations": [
+      "majeroň",
+      "majero",
+      "majeroen",
+      "majeromaň",
+      "majerom",
+      "majeromen",
+      "majerorň",
+      "majerorn",
+      "majeroren",
+      "majerošaň",
+      "majeroša",
+      "majerošaen",
+      "majeroňši",
+      "majeroši",
+      "majeroenši"
+    ]
+  },
+  {
+    "literal": "tamas",
+    "wordType": "Noun",
+    "definitions": [
+      "aura"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈtamas",
+    "examples": [],
+    "flexations": [
+      "tamasaň",
+      "tamas",
+      "tamasen",
+      "tamasmaň",
+      "tamasüm",
+      "tamasmen",
+      "tamasarň",
+      "tamasarn",
+      "tamasren",
+      "tamasšaň",
+      "tamasša",
+      "tamasšaen",
+      "tamasaňši",
+      "tamasši",
+      "tamasenši"
+    ]
+  },
+  {
+    "literal": "knupo",
+    "wordType": "Noun",
+    "definitions": [
+      "axe"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈknupo",
+    "examples": [],
+    "flexations": [
+      "knupoň",
+      "knupo",
+      "knupoen",
+      "knupomaň",
+      "knupom",
+      "knupomen",
+      "knuporň",
+      "knuporn",
+      "knuporen",
+      "knupošaň",
+      "knupoša",
+      "knupošaen",
+      "knupoňši",
+      "knupoši",
+      "knupoenši"
+    ]
+  },
+  {
+    "literal": "uldei",
+    "wordType": "Noun",
+    "definitions": [
+      "back (anatomical)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʊldɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "uldeiň",
+      "uldei",
+      "uldeen",
+      "uldemaň",
+      "uldeim",
+      "uldemen",
+      "uldeirň",
+      "uldeirn",
+      "ulderen",
+      "uldešaň",
+      "uldeša",
+      "uldešaen",
+      "uldeiňši",
+      "uldeši",
+      "uldeenši"
+    ]
+  },
+  {
+    "literal": "uraene",
+    "wordType": "Noun",
+    "definitions": [
+      "bacterium"
+    ],
+    "syllables": [
+      1,
+      4
+    ],
+    "ipa": "ˈuʀa͜enɜ",
+    "examples": [],
+    "flexations": [
+      "uraeneň",
+      "uraene",
+      "uraeneen",
+      "uraenemaň",
+      "uraenem",
+      "uraenemen",
+      "uraenerň",
+      "uraenern",
+      "uraeneren",
+      "uraenešaň",
+      "uraeneša",
+      "uraenešaen",
+      "uraeneňši",
+      "uraeneši",
+      "uraeneenši"
+    ]
+  },
+  {
+    "literal": "mijai",
+    "wordType": "Noun",
+    "definitions": [
+      "bandage"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈmijaʔi",
+    "examples": [],
+    "flexations": [
+      "mijaiň",
+      "mijai",
+      "mijaen",
+      "mijamaň",
+      "mijaim",
+      "mijamen",
+      "mijairň",
+      "mijairn",
+      "mijaren",
+      "mijašaň",
+      "mijaša",
+      "mijašaen",
+      "mijaiňši",
+      "mijaši",
+      "mijaenši"
+    ]
+  },
+  {
+    "literal": "susueti",
+    "wordType": "Noun",
+    "definitions": [
+      "banner, profile"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈsuswɜti",
+    "examples": [],
+    "flexations": [
+      "susuetiň",
+      "susueti",
+      "susueten",
+      "susuetmaň",
+      "susuetim",
+      "susuetmen",
+      "susuetirň",
+      "susuetirn",
+      "susuetren",
+      "susuetšaň",
+      "susuetša",
+      "susuetšaen",
+      "susuetiňši",
+      "susuetši",
+      "susuetenši"
+    ]
+  },
+  {
+    "literal": "üpikubi",
+    "wordType": "Noun",
+    "definitions": [
+      "bar, tavern, pub"
+    ],
+    "syllables": [
+      1,
+      3,
+      5
+    ],
+    "ipa": "ˈypikubi",
+    "examples": [],
+    "flexations": [
+      "üpikubiň",
+      "üpikubi",
+      "üpikuben",
+      "üpikubimaň",
+      "üpikubim",
+      "üpikubimen",
+      "üpikubirň",
+      "üpikubirn",
+      "üpikubiren",
+      "üpikubišaň",
+      "üpikubiša",
+      "üpikubišaen",
+      "üpikubiňši",
+      "üpikubiši",
+      "üpikubenši"
+    ]
+  },
+  {
+    "literal": "üupko",
+    "wordType": "Noun",
+    "definitions": [
+      "barium (chemical element)"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈyʔʊpko",
+    "examples": [],
+    "flexations": [
+      "üupkoň",
+      "üupko",
+      "üupkoen",
+      "üupkomaň",
+      "üupkom",
+      "üupkomen",
+      "üupkorň",
+      "üupkorn",
+      "üupkoren",
+      "üupkošaň",
+      "üupkoša",
+      "üupkošaen",
+      "üupkoňši",
+      "üupkoši",
+      "üupkoenši"
+    ]
+  },
+  {
+    "literal": "šaksiňko",
+    "wordType": "Noun",
+    "definitions": [
+      "astatine (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈʃaksɪŋko",
+    "examples": [],
+    "flexations": [
+      "šaksiňkoň",
+      "šaksiňko",
+      "šaksiňkoen",
+      "šaksiňkomaň",
+      "šaksiňkom",
+      "šaksiňkomen",
+      "šaksiňkorň",
+      "šaksiňkorn",
+      "šaksiňkoren",
+      "šaksiňkošaň",
+      "šaksiňkoša",
+      "šaksiňkošaen",
+      "šaksiňkoňši",
+      "šaksiňkoši",
+      "šaksiňkoenši"
+    ]
+  },
+  {
+    "literal": "objoko",
+    "wordType": "Noun",
+    "definitions": [
+      "boron (chemical element)"
+    ],
+    "syllables": [
+      1,
+      4
+    ],
+    "ipa": "ˈobjɔko",
+    "examples": [],
+    "flexations": [
+      "objokoň",
+      "objoko",
+      "objokoen",
+      "objokomaň",
+      "objokom",
+      "objokomen",
+      "objokorň",
+      "objokorn",
+      "objokoren",
+      "objokošaň",
+      "objokoša",
+      "objokošaen",
+      "objokoňši",
+      "objokoši",
+      "objokoenši"
+    ]
+  },
+  {
+    "literal": "ksuue",
+    "wordType": "Noun",
+    "definitions": [
+      "bark (of a tree)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈksuwɜ",
+    "examples": [],
+    "flexations": [
+      "ksuueň",
+      "ksuue",
+      "ksuueen",
+      "ksuuemaň",
+      "ksuuem",
+      "ksuuemen",
+      "ksuuerň",
+      "ksuuern",
+      "ksuueren",
+      "ksuuešaň",
+      "ksuueša",
+      "ksuuešaen",
+      "ksuueňši",
+      "ksuueši",
+      "ksuueenši"
+    ]
+  },
+  {
+    "literal": "kalsutnubi",
+    "wordType": "Noun",
+    "definitions": [
+      "basalt"
+    ],
+    "syllables": [
+      3,
+      6,
+      8
+    ],
+    "ipa": "ˈkalsʊtnubi",
+    "examples": [],
+    "flexations": [
+      "kalsutnubiň",
+      "kalsutnubi",
+      "kalsutnuben",
+      "kalsutnubimaň",
+      "kalsutnubim",
+      "kalsutnubimen",
+      "kalsutnubirň",
+      "kalsutnubirn",
+      "kalsutnubiren",
+      "kalsutnubišaň",
+      "kalsutnubiša",
+      "kalsutnubišaen",
+      "kalsutnubiňši",
+      "kalsutnubiši",
+      "kalsutnubenši"
+    ]
+  },
+  {
+    "literal": "runiki",
+    "wordType": "Noun",
+    "definitions": [
+      "bat (animal)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈʀuniki",
+    "examples": [],
+    "flexations": [
+      "runikiň",
+      "runiki",
+      "runiken",
+      "runikmaň",
+      "runikim",
+      "runikmen",
+      "runikirň",
+      "runikirn",
+      "runikren",
+      "runikšaň",
+      "runikša",
+      "runikšaen",
+      "runikiňši",
+      "runikši",
+      "runikenši"
+    ]
+  },
+  {
+    "literal": "kaňelek",
+    "wordType": "Noun",
+    "definitions": [
+      "bathroom"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈkaŋɜlɜk",
+    "examples": [],
+    "flexations": [
+      "kaňelekaň",
+      "kaňelek",
+      "kaňeleken",
+      "kaňelekmaň",
+      "kaňeleküm",
+      "kaňelekmen",
+      "kaňelekarň",
+      "kaňelekarn",
+      "kaňelekren",
+      "kaňelekšaň",
+      "kaňelekša",
+      "kaňelekšaen",
+      "kaňelekaňši",
+      "kaňelekši",
+      "kaňelekenši"
+    ]
+  },
+  {
+    "literal": "prökolek",
+    "wordType": "Noun",
+    "definitions": [
+      "bathroom (vulgar), shithouse"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈpʀɶkolɜk",
+    "examples": [],
+    "flexations": [
+      "prökolekaň",
+      "prökolek",
+      "prökoleken",
+      "prökolekmaň",
+      "prökoleküm",
+      "prökolekmen",
+      "prökolekarň",
+      "prökolekarn",
+      "prökolekren",
+      "prökolekšaň",
+      "prökolekša",
+      "prökolekšaen",
+      "prökolekaňši",
+      "prökolekši",
+      "prökolekenši"
+    ]
+  },
+  {
+    "literal": "urvi",
+    "wordType": "Noun",
+    "definitions": [
+      "bear"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʊʀvi",
+    "examples": [],
+    "flexations": [
+      "urviň",
+      "urvi",
+      "urven",
+      "urvimaň",
+      "urvim",
+      "urvimen",
+      "urvirň",
+      "urvirn",
+      "urviren",
+      "urvišaň",
+      "urviša",
+      "urvišaen",
+      "urviňši",
+      "urviši",
+      "urvenši"
+    ]
+  },
+  {
+    "literal": "sarui",
+    "wordType": "Noun",
+    "definitions": [
+      "beard"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈsaʀui",
+    "examples": [],
+    "flexations": [
+      "saruiň",
+      "sarui",
+      "saruen",
+      "sarumaň",
+      "saruim",
+      "sarumen",
+      "saruirň",
+      "saruirn",
+      "saruren",
+      "sarušaň",
+      "saruša",
+      "sarušaen",
+      "saruiňši",
+      "saruši",
+      "saruenši"
+    ]
+  },
+  {
+    "literal": "jürlek",
+    "wordType": "Noun",
+    "definitions": [
+      "bed"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈjʏʀlɜk",
+    "examples": [],
+    "flexations": [
+      "jürlekaň",
+      "jürlek",
+      "jürleken",
+      "jürlekmaň",
+      "jürleküm",
+      "jürlekmen",
+      "jürlekarň",
+      "jürlekarn",
+      "jürlekren",
+      "jürlekšaň",
+      "jürlekša",
+      "jürlekšaen",
+      "jürlekaňši",
+      "jürlekši",
+      "jürlekenši"
+    ]
+  },
+  {
+    "literal": "pipo",
+    "wordType": "Noun",
+    "definitions": [
+      "beginning, start"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈpipo",
+    "examples": [],
+    "flexations": [
+      "pipoň",
+      "pipo",
+      "pipoen",
+      "pipomaň",
+      "pipom",
+      "pipomen",
+      "piporň",
+      "piporn",
+      "piporen",
+      "pipošaň",
+      "pipoša",
+      "pipošaen",
+      "pipoňši",
+      "pipoši",
+      "pipoenši"
+    ]
+  },
+  {
+    "literal": "rilaup",
+    "wordType": "Noun",
+    "definitions": [
+      "beige"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈʀilaʊp",
+    "examples": [],
+    "flexations": [
+      "rilaupaň",
+      "rilaup",
+      "rilaupen",
+      "rilaupmaň",
+      "rilaupüm",
+      "rilaupmen",
+      "rilauparň",
+      "rilauparn",
+      "rilaupren",
+      "rilaupšaň",
+      "rilaupša",
+      "rilaupšaen",
+      "rilaupaňši",
+      "rilaupši",
+      "rilaupenši"
+    ]
+  },
+  {
+    "literal": "tiňdui",
+    "wordType": "Noun",
+    "definitions": [
+      "bell (large, bronze)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtɪŋdwi",
+    "examples": [],
+    "flexations": [
+      "tiňduiň",
+      "tiňdui",
+      "tiňduen",
+      "tiňdumaň",
+      "tiňduim",
+      "tiňdumen",
+      "tiňduirň",
+      "tiňduirn",
+      "tiňduren",
+      "tiňdušaň",
+      "tiňduša",
+      "tiňdušaen",
+      "tiňduiňši",
+      "tiňduši",
+      "tiňduenši"
+    ]
+  },
+  {
+    "literal": "tiňti",
+    "wordType": "Noun",
+    "definitions": [
+      "bell, cymbal (percussion instrument)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtɪŋti",
+    "examples": [],
+    "flexations": [
+      "tiňtiň",
+      "tiňti",
+      "tiňten",
+      "tiňtmaň",
+      "tiňtim",
+      "tiňtmen",
+      "tiňtirň",
+      "tiňtirn",
+      "tiňtren",
+      "tiňtšaň",
+      "tiňtša",
+      "tiňtšaen",
+      "tiňtiňši",
+      "tiňtši",
+      "tiňtenši"
+    ]
+  },
+  {
+    "literal": "teifertsko",
+    "wordType": "Noun",
+    "definitions": [
+      "berkelium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      8
+    ],
+    "ipa": "ˈtɜ͜ɪfɜʀtsko",
+    "examples": [],
+    "flexations": [
+      "teifertskoň",
+      "teifertsko",
+      "teifertskoen",
+      "teifertskomaň",
+      "teifertskom",
+      "teifertskomen",
+      "teifertskorň",
+      "teifertskorn",
+      "teifertskoren",
+      "teifertskošaň",
+      "teifertskoša",
+      "teifertskošaen",
+      "teifertskoňši",
+      "teifertskoši",
+      "teifertskoenši"
+    ]
+  },
+  {
+    "literal": "šveki",
+    "wordType": "Noun",
+    "definitions": [
+      "bicycle, bike"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʃveki",
+    "examples": [],
+    "flexations": [
+      "švekiň",
+      "šveki",
+      "šveken",
+      "švekmaň",
+      "švekim",
+      "švekmen",
+      "švekirň",
+      "švekirn",
+      "švekren",
+      "švekšaň",
+      "švekša",
+      "švekšaen",
+      "švekiňši",
+      "švekši",
+      "švekenši"
+    ]
+  },
+  {
+    "literal": "virkonzion",
+    "wordType": "Noun",
+    "definitions": [
+      "biology"
+    ],
+    "syllables": [
+      3,
+      6,
+      8
+    ],
+    "ipa": "ˈvɪʀkɔnziɔn",
+    "examples": [],
+    "flexations": [
+      "virkonzionaň",
+      "virkonzion",
+      "virkonzionen",
+      "virkonzionmaň",
+      "virkonzionüm",
+      "virkonzionmen",
+      "virkonzionarň",
+      "virkonzionarn",
+      "virkonzionren",
+      "virkonzionšaň",
+      "virkonzionša",
+      "virkonzionšaen",
+      "virkonzionaňši",
+      "virkonzionši",
+      "virkonzionenši"
+    ]
+  },
+  {
+    "literal": "manastrer",
+    "wordType": "Noun",
+    "definitions": [
+      "black hole"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈmanastʀɜʀ",
+    "examples": [],
+    "flexations": [
+      "manastreraň",
+      "manastrer",
+      "manastreren",
+      "manastrermaň",
+      "manastrerüm",
+      "manastrermen",
+      "manastrerarň",
+      "manastrerarn",
+      "manastreraren",
+      "manastreršaň",
+      "manastrerša",
+      "manastreršaen",
+      "manastreraňši",
+      "manastrerši",
+      "manastrerenši"
+    ]
+  },
+  {
+    "literal": "vönfii",
+    "wordType": "Noun",
+    "definitions": [
+      "blessing"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈvɶnfiʔi",
+    "examples": [],
+    "flexations": [
+      "vönfiiň",
+      "vönfii",
+      "vönfien",
+      "vönfimaň",
+      "vönfiim",
+      "vönfimen",
+      "vönfiirň",
+      "vönfiirn",
+      "vönfiren",
+      "vönfišaň",
+      "vönfiša",
+      "vönfišaen",
+      "vönfiiňši",
+      "vönfiši",
+      "vönfienši"
+    ]
+  },
+  {
+    "literal": "lao",
+    "wordType": "Noun",
+    "definitions": [
+      "blood"
+    ],
+    "syllables": [],
+    "ipa": "ˈla͜o",
+    "examples": [],
+    "flexations": [
+      "laoň",
+      "lao",
+      "laoen",
+      "laomaň",
+      "laom",
+      "laomen",
+      "laorň",
+      "laorn",
+      "laoren",
+      "laošaň",
+      "laoša",
+      "laošaen",
+      "laoňši",
+      "laoši",
+      "laoenši"
+    ]
+  },
+  {
+    "literal": "laošu",
+    "wordType": "Noun",
+    "definitions": [
+      "blood vessel"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈla͜oʃu",
+    "examples": [],
+    "flexations": [
+      "laošuň",
+      "laošu",
+      "laošuen",
+      "laošumaň",
+      "laošum",
+      "laošumen",
+      "laošurň",
+      "laošurn",
+      "laošuren",
+      "laošušaň",
+      "laošuša",
+      "laošušaen",
+      "laošuňši",
+      "laošuši",
+      "laošuenši"
+    ]
+  },
+  {
+    "literal": "madi",
+    "wordType": "Noun",
+    "definitions": [
+      "blossom"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈmadi",
+    "examples": [],
+    "flexations": [
+      "madiň",
+      "madi",
+      "maden",
+      "madimaň",
+      "madim",
+      "madimen",
+      "madirň",
+      "madirn",
+      "madiren",
+      "madišaň",
+      "madiša",
+      "madišaen",
+      "madiňši",
+      "madiši",
+      "madenši"
+    ]
+  },
+  {
+    "literal": "zipuk",
+    "wordType": "Noun",
+    "definitions": [
+      "board, plank"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈzipʊk",
+    "examples": [],
+    "flexations": [
+      "zipukaň",
+      "zipuk",
+      "zipuken",
+      "zipukmaň",
+      "zipuküm",
+      "zipukmen",
+      "zipukarň",
+      "zipukarn",
+      "zipukren",
+      "zipukšaň",
+      "zipukša",
+      "zipukšaen",
+      "zipukaňši",
+      "zipukši",
+      "zipukenši"
+    ]
+  },
+  {
+    "literal": "peri",
+    "wordType": "Noun",
+    "definitions": [
+      "body"
+    ],
+    "syllables": [],
+    "ipa": "ˈpeʀi",
+    "examples": [],
+    "flexations": [
+      "periň",
+      "peri",
+      "peren",
+      "permaň",
+      "perim",
+      "permen",
+      "perirň",
+      "perirn",
+      "periren",
+      "peršaň",
+      "perša",
+      "peršaen",
+      "periňši",
+      "perši",
+      "perenši"
+    ]
+  },
+  {
+    "literal": "iňzalsko",
+    "wordType": "Noun",
+    "definitions": [
+      "bohrium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      6
+    ],
+    "ipa": "ˈɪŋzalsko",
+    "examples": [],
+    "flexations": [
+      "iňzalskoň",
+      "iňzalsko",
+      "iňzalskoen",
+      "iňzalskomaň",
+      "iňzalskom",
+      "iňzalskomen",
+      "iňzalskorň",
+      "iňzalskorn",
+      "iňzalskoren",
+      "iňzalskošaň",
+      "iňzalskoša",
+      "iňzalskošaen",
+      "iňzalskoňši",
+      "iňzalskoši",
+      "iňzalskoenši"
+    ]
+  },
+  {
+    "literal": "koaksi",
+    "wordType": "Noun",
+    "definitions": [
+      "bomb"
+    ],
+    "syllables": [
+      2,
+      3
+    ],
+    "ipa": "ˈkoaksi",
+    "examples": [],
+    "flexations": [
+      "koaksiň",
+      "koaksi",
+      "koaksen",
+      "koaksmaň",
+      "koaksim",
+      "koaksmen",
+      "koaksirň",
+      "koaksirn",
+      "koaksren",
+      "koaksšaň",
+      "koaksša",
+      "koaksšaen",
+      "koaksiňši",
+      "koaksši",
+      "koaksenši"
+    ]
+  },
+  {
+    "literal": "možu",
+    "wordType": "Noun",
+    "definitions": [
+      "bone"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈmoʒu",
+    "examples": [],
+    "flexations": [
+      "možuň",
+      "možu",
+      "možuen",
+      "možumaň",
+      "možum",
+      "možumen",
+      "možurň",
+      "možurn",
+      "možuren",
+      "možušaň",
+      "možuša",
+      "možušaen",
+      "možuňši",
+      "možuši",
+      "možuenši"
+    ]
+  },
+  {
+    "literal": "losk",
+    "wordType": "Noun",
+    "definitions": [
+      "bottle"
+    ],
+    "syllables": [],
+    "ipa": "ˈlɔsk",
+    "examples": [],
+    "flexations": [
+      "loskaň",
+      "losk",
+      "losken",
+      "loskmaň",
+      "losküm",
+      "loskmen",
+      "loskarň",
+      "loskarn",
+      "loskren",
+      "loskšaň",
+      "loskša",
+      "loskšaen",
+      "loskaňši",
+      "loskši",
+      "loskenši"
+    ]
+  },
+  {
+    "literal": "sunhi",
+    "wordType": "Noun",
+    "definitions": [
+      "ass, bottom"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈsʊnhi",
+    "examples": [],
+    "flexations": [
+      "sunhiň",
+      "sunhi",
+      "sunhen",
+      "sunhimaň",
+      "sunhim",
+      "sunhimen",
+      "sunhirň",
+      "sunhirn",
+      "sunhiren",
+      "sunhišaň",
+      "sunhiša",
+      "sunhišaen",
+      "sunhiňši",
+      "sunhiši",
+      "sunhenši"
+    ]
+  },
+  {
+    "literal": "simi",
+    "wordType": "Noun",
+    "definitions": [
+      "bow (archery)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈsimi",
+    "examples": [],
+    "flexations": [
+      "simiň",
+      "simi",
+      "simen",
+      "simimaň",
+      "simim",
+      "simimen",
+      "simirň",
+      "simirn",
+      "simren",
+      "simšaň",
+      "simša",
+      "simšaen",
+      "simiňši",
+      "simši",
+      "simenši"
+    ]
+  },
+  {
+    "literal": "ure",
+    "wordType": "Noun",
+    "definitions": [
+      "bowl"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈuʀɜ",
+    "examples": [],
+    "flexations": [
+      "ureň",
+      "ure",
+      "ureen",
+      "uremaň",
+      "urem",
+      "uremen",
+      "urerň",
+      "urern",
+      "ureren",
+      "urešaň",
+      "ureša",
+      "urešaen",
+      "ureňši",
+      "ureši",
+      "ureenši"
+    ]
+  },
+  {
+    "literal": "šurpju",
+    "wordType": "Noun",
+    "definitions": [
+      "boy"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʃʊʀpju",
+    "examples": [],
+    "flexations": [
+      "šurpjuň",
+      "šurpju",
+      "šurpjuen",
+      "šurpjumaň",
+      "šurpjum",
+      "šurpjumen",
+      "šurpjurň",
+      "šurpjurn",
+      "šurpjuren",
+      "šurpjušaň",
+      "šurpjuša",
+      "šurpjušaen",
+      "šurpjuňši",
+      "šurpjuši",
+      "šurpjuenši"
+    ]
+  },
+  {
+    "literal": "kuokuo",
+    "wordType": "Noun",
+    "definitions": [
+      "boys love, yaoi (genre)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈkwokwo",
+    "examples": [],
+    "flexations": [
+      "kuokuoň",
+      "kuokuo",
+      "kuokuoen",
+      "kuokuomaň",
+      "kuokuom",
+      "kuokuomen",
+      "kuokuorň",
+      "kuokuorn",
+      "kuokuoren",
+      "kuokuošaň",
+      "kuokuoša",
+      "kuokuošaen",
+      "kuokuoňši",
+      "kuokuoši",
+      "kuokuoenši"
+    ]
+  },
+  {
+    "literal": "nužuho",
+    "wordType": "Noun",
+    "definitions": [
+      "brain"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈnuʒuho",
+    "examples": [],
+    "flexations": [
+      "nužuhoň",
+      "nužuho",
+      "nužuhoen",
+      "nužuhomaň",
+      "nužuhom",
+      "nužuhomen",
+      "nužuhorň",
+      "nužuhorn",
+      "nužuhoren",
+      "nužuhošaň",
+      "nužuhoša",
+      "nužuhošaen",
+      "nužuhoňši",
+      "nužuhoši",
+      "nužuhoenši"
+    ]
+  },
+  {
+    "literal": "setro",
+    "wordType": "Noun",
+    "definitions": [
+      "brass"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈsɜtʀo",
+    "examples": [],
+    "flexations": [
+      "setroň",
+      "setro",
+      "setroen",
+      "setromaň",
+      "setrom",
+      "setromen",
+      "setrorň",
+      "setrorn",
+      "setroren",
+      "setrošaň",
+      "setroša",
+      "setrošaen",
+      "setroňši",
+      "setroši",
+      "setroenši"
+    ]
+  },
+  {
+    "literal": "korion",
+    "wordType": "Noun",
+    "definitions": [
+      "breakfast"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈkoʀiɔn",
+    "examples": [],
+    "flexations": [
+      "korionaň",
+      "korion",
+      "korionen",
+      "korionmaň",
+      "korionüm",
+      "korionmen",
+      "korionarň",
+      "korionarn",
+      "korionren",
+      "korionšaň",
+      "korionša",
+      "korionšaen",
+      "korionaňši",
+      "korionši",
+      "korionenši"
+    ]
+  },
+  {
+    "literal": "roumumu",
+    "wordType": "Noun",
+    "definitions": [
+      "breast milk"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈʀo͜umumu",
+    "examples": [],
+    "flexations": [
+      "roumumuň",
+      "roumumu",
+      "roumumuen",
+      "roumumumaň",
+      "roumumum",
+      "roumumumen",
+      "roumumurň",
+      "roumumurn",
+      "roumumuren",
+      "roumumušaň",
+      "roumumuša",
+      "roumumušaen",
+      "roumumuňši",
+      "roumumuši",
+      "roumumuenši"
+    ]
+  },
+  {
+    "literal": "roumai",
+    "wordType": "Noun",
+    "definitions": [
+      "breast, tit"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈʀo͜umaʔi",
+    "examples": [],
+    "flexations": [
+      "roumaiň",
+      "roumai",
+      "roumaen",
+      "roumamaň",
+      "roumaim",
+      "roumamen",
+      "roumairň",
+      "roumairn",
+      "roumaren",
+      "roumašaň",
+      "roumaša",
+      "roumašaen",
+      "roumaiňši",
+      "roumaši",
+      "roumaenši"
+    ]
+  },
+  {
+    "literal": "potški",
+    "wordType": "Noun",
+    "definitions": [
+      "bronze"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈpɔtʃki",
+    "examples": [],
+    "flexations": [
+      "potškiň",
+      "potški",
+      "potšken",
+      "potškmaň",
+      "potškim",
+      "potškmen",
+      "potškirň",
+      "potškirn",
+      "potškren",
+      "potškšaň",
+      "potškša",
+      "potškšaen",
+      "potškiňši",
+      "potškši",
+      "potškenši"
+    ]
+  },
+  {
+    "literal": "žeišo",
+    "wordType": "Noun",
+    "definitions": [
+      "brother"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʒɜ͜ɪʃo",
+    "examples": [],
+    "flexations": [
+      "žeišoň",
+      "žeišo",
+      "žeišoen",
+      "žeišomaň",
+      "žeišom",
+      "žeišomen",
+      "žeišorň",
+      "žeišorn",
+      "žeišoren",
+      "žeišošaň",
+      "žeišoša",
+      "žeišošaen",
+      "žeišoňši",
+      "žeišoši",
+      "žeišoenši"
+    ]
+  },
+  {
+    "literal": "kuubup",
+    "wordType": "Noun",
+    "definitions": [
+      "brown"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈkwubʊp",
+    "examples": [],
+    "flexations": [
+      "kuubupaň",
+      "kuubup",
+      "kuubupen",
+      "kuubupmaň",
+      "kuubupüm",
+      "kuubupmen",
+      "kuubuparň",
+      "kuubuparn",
+      "kuubupren",
+      "kuubupšaň",
+      "kuubupša",
+      "kuubupšaen",
+      "kuubupaňši",
+      "kuubupši",
+      "kuubupenši"
+    ]
+  },
+  {
+    "literal": "suflo",
+    "wordType": "Noun",
+    "definitions": [
+      "brush"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈsuflo",
+    "examples": [],
+    "flexations": [
+      "sufloň",
+      "suflo",
+      "sufloen",
+      "suflomaň",
+      "suflom",
+      "suflomen",
+      "suflorň",
+      "suflorn",
+      "sufloren",
+      "suflošaň",
+      "sufloša",
+      "suflošaen",
+      "sufloňši",
+      "sufloši",
+      "sufloenši"
+    ]
+  },
+  {
+    "literal": "pabi",
+    "wordType": "Noun",
+    "definitions": [
+      "bubble"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈpabi",
+    "examples": [],
+    "flexations": [
+      "pabiň",
+      "pabi",
+      "paben",
+      "pabimaň",
+      "pabim",
+      "pabimen",
+      "pabirň",
+      "pabirn",
+      "pabiren",
+      "pabišaň",
+      "pabiša",
+      "pabišaen",
+      "pabiňši",
+      "pabiši",
+      "pabenši"
+    ]
+  },
+  {
+    "literal": "liblo",
+    "wordType": "Noun",
+    "definitions": [
+      "bug"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈliblo",
+    "examples": [],
+    "flexations": [
+      "libloň",
+      "liblo",
+      "libloen",
+      "liblomaň",
+      "liblom",
+      "liblomen",
+      "liblorň",
+      "liblorn",
+      "libloren",
+      "liblošaň",
+      "libloša",
+      "liblošaen",
+      "libloňši",
+      "libloši",
+      "libloenši"
+    ]
+  },
+  {
+    "literal": "opju",
+    "wordType": "Noun",
+    "definitions": [
+      "bump, dent"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈɔpju",
+    "examples": [],
+    "flexations": [
+      "opjuň",
+      "opju",
+      "opjuen",
+      "opjumaň",
+      "opjum",
+      "opjumen",
+      "opjurň",
+      "opjurn",
+      "opjuren",
+      "opjušaň",
+      "opjuša",
+      "opjušaen",
+      "opjuňši",
+      "opjuši",
+      "opjuenši"
+    ]
+  },
+  {
+    "literal": "prisli",
+    "wordType": "Noun",
+    "definitions": [
+      "bush"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈpʀisli",
+    "examples": [],
+    "flexations": [
+      "prisliň",
+      "prisli",
+      "prislen",
+      "prislimaň",
+      "prislim",
+      "prislimen",
+      "prislirň",
+      "prislirn",
+      "prisliren",
+      "prislišaň",
+      "prisliša",
+      "prislišaen",
+      "prisliňši",
+      "prisliši",
+      "prislenši"
+    ]
+  },
+  {
+    "literal": "mubo",
+    "wordType": "Noun",
+    "definitions": [
+      "butter"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈmubo",
+    "examples": [],
+    "flexations": [
+      "muboň",
+      "mubo",
+      "muboen",
+      "mubomaň",
+      "mubom",
+      "mubomen",
+      "muborň",
+      "muborn",
+      "muboren",
+      "mubošaň",
+      "muboša",
+      "mubošaen",
+      "muboňši",
+      "muboši",
+      "muboenši"
+    ]
+  },
+  {
+    "literal": "optie",
+    "wordType": "Noun",
+    "definitions": [
+      "button",
+      "key (keyboard)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈoptiɜ",
+    "examples": [],
+    "flexations": [
+      "optieň",
+      "optie",
+      "optieen",
+      "optiemaň",
+      "optiem",
+      "optiemen",
+      "optierň",
+      "optiern",
+      "optieren",
+      "optiešaň",
+      "optieša",
+      "optiešaen",
+      "optieňši",
+      "optieši",
+      "optieenši"
+    ]
+  },
+  {
+    "literal": "veukanei",
+    "wordType": "Noun",
+    "definitions": [
+      "cache"
+    ],
+    "syllables": [
+      2,
+      3,
+      5
+    ],
+    "ipa": "ˈveukanɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "veukaneiň",
+      "veukanei",
+      "veukaneen",
+      "veukanemaň",
+      "veukaneim",
+      "veukanemen",
+      "veukaneirň",
+      "veukaneirn",
+      "veukaneren",
+      "veukanešaň",
+      "veukaneša",
+      "veukanešaen",
+      "veukaneiňši",
+      "veukaneši",
+      "veukaneenši"
+    ]
+  },
+  {
+    "literal": "spikisi",
+    "wordType": "Noun",
+    "definitions": [
+      "cactus"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈspikisi",
+    "examples": [],
+    "flexations": [
+      "spikisiň",
+      "spikisi",
+      "spikisen",
+      "spikismaň",
+      "spikisim",
+      "spikismen",
+      "spikisirň",
+      "spikisirn",
+      "spikisren",
+      "spikisšaň",
+      "spikisša",
+      "spikisšaen",
+      "spikisiňši",
+      "spikisši",
+      "spikisenši"
+    ]
+  },
+  {
+    "literal": "ulžetko",
+    "wordType": "Noun",
+    "definitions": [
+      "cadmium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈʊlʒɜtko",
+    "examples": [],
+    "flexations": [
+      "ulžetkoň",
+      "ulžetko",
+      "ulžetkoen",
+      "ulžetkomaň",
+      "ulžetkom",
+      "ulžetkomen",
+      "ulžetkorň",
+      "ulžetkorn",
+      "ulžetkoren",
+      "ulžetkošaň",
+      "ulžetkoša",
+      "ulžetkošaen",
+      "ulžetkoňši",
+      "ulžetkoši",
+      "ulžetkoenši"
+    ]
+  },
+  {
+    "literal": "votko",
+    "wordType": "Noun",
+    "definitions": [
+      "carbon (chemical element)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈvɔtko",
+    "examples": [],
+    "flexations": [
+      "votkoň",
+      "votko",
+      "votkoen",
+      "votkomaň",
+      "votkom",
+      "votkomen",
+      "votkorň",
+      "votkorn",
+      "votkoren",
+      "votkošaň",
+      "votkoša",
+      "votkošaen",
+      "votkoňši",
+      "votkoši",
+      "votkoenši"
+    ]
+  },
+  {
+    "literal": "aeko",
+    "wordType": "Noun",
+    "definitions": [
+      "oxygen (chemical element)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈa͜eko",
+    "examples": [],
+    "flexations": [
+      "aekoň",
+      "aeko",
+      "aekoen",
+      "aekomaň",
+      "aekom",
+      "aekomen",
+      "aekorň",
+      "aekorn",
+      "aekoren",
+      "aekošaň",
+      "aekoša",
+      "aekošaen",
+      "aekoňši",
+      "aekoši",
+      "aekoenši"
+    ]
+  },
+  {
+    "literal": "larako",
+    "wordType": "Noun",
+    "definitions": [
+      "fluorine (chemical element)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈlaʀako",
+    "examples": [],
+    "flexations": [
+      "larakoň",
+      "larako",
+      "larakoen",
+      "larakomaň",
+      "larakom",
+      "larakomen",
+      "larakorň",
+      "larakorn",
+      "larakoren",
+      "larakošaň",
+      "larakoša",
+      "larakošaen",
+      "larakoňši",
+      "larakoši",
+      "larakoenši"
+    ]
+  },
+  {
+    "literal": "mimiko",
+    "wordType": "Noun",
+    "definitions": [
+      "neon (chemical element)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈmimiko",
+    "examples": [],
+    "flexations": [
+      "mimikoň",
+      "mimiko",
+      "mimikoen",
+      "mimikomaň",
+      "mimikom",
+      "mimikomen",
+      "mimikorň",
+      "mimikorn",
+      "mimikoren",
+      "mimikošaň",
+      "mimikoša",
+      "mimikošaen",
+      "mimikoňši",
+      "mimikoši",
+      "mimikoenši"
+    ]
+  },
+  {
+    "literal": "bufgoko",
+    "wordType": "Noun",
+    "definitions": [
+      "manganese (chemical element)"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈbufgoko",
+    "examples": [],
+    "flexations": [
+      "bufgokoň",
+      "bufgoko",
+      "bufgokoen",
+      "bufgokomaň",
+      "bufgokom",
+      "bufgokomen",
+      "bufgokorň",
+      "bufgokorn",
+      "bufgokoren",
+      "bufgokošaň",
+      "bufgokoša",
+      "bufgokošaen",
+      "bufgokoňši",
+      "bufgokoši",
+      "bufgokoenši"
+    ]
+  },
+  {
+    "literal": "karubioko",
+    "wordType": "Noun",
+    "definitions": [
+      "phosphorus (chemical element)"
+    ],
+    "syllables": [
+      2,
+      4,
+      6,
+      7
+    ],
+    "ipa": "ˈkaʀubioko",
+    "examples": [],
+    "flexations": [
+      "karubiokoň",
+      "karubioko",
+      "karubiokoen",
+      "karubiokomaň",
+      "karubiokom",
+      "karubiokomen",
+      "karubiokorň",
+      "karubiokorn",
+      "karubiokoren",
+      "karubiokošaň",
+      "karubiokoša",
+      "karubiokošaen",
+      "karubiokoňši",
+      "karubiokoši",
+      "karubiokoenši"
+    ]
+  },
+  {
+    "literal": "šoroko",
+    "wordType": "Noun",
+    "definitions": [
+      "sulfur (chemical element)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈʃoʀoko",
+    "examples": [],
+    "flexations": [
+      "šorokoň",
+      "šoroko",
+      "šorokoen",
+      "šorokomaň",
+      "šorokom",
+      "šorokomen",
+      "šorokorň",
+      "šorokorn",
+      "šorokoren",
+      "šorokošaň",
+      "šorokoša",
+      "šorokošaen",
+      "šorokoňši",
+      "šorokoši",
+      "šorokoenši"
+    ]
+  },
+  {
+    "literal": "souko",
+    "wordType": "Noun",
+    "definitions": [
+      "chlorine (chemical element)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈso͜uko",
+    "examples": [],
+    "flexations": [
+      "soukoň",
+      "souko",
+      "soukoen",
+      "soukomaň",
+      "soukom",
+      "soukomen",
+      "soukorň",
+      "soukorn",
+      "soukoren",
+      "soukošaň",
+      "soukoša",
+      "soukošaen",
+      "soukoňši",
+      "soukoši",
+      "soukoenši"
+    ]
+  },
+  {
+    "literal": "možukoko",
+    "wordType": "Noun",
+    "definitions": [
+      "calcium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      4,
+      6
+    ],
+    "ipa": "ˈmoʒukoko",
+    "examples": [],
+    "flexations": [
+      "možukokoň",
+      "možukoko",
+      "možukokoen",
+      "možukokomaň",
+      "možukokom",
+      "možukokomen",
+      "možukokorň",
+      "možukokorn",
+      "možukokoren",
+      "možukokošaň",
+      "možukokoša",
+      "možukokošaen",
+      "možukokoňši",
+      "možukokoši",
+      "možukokoenši"
+    ]
+  },
+  {
+    "literal": "terstko",
+    "wordType": "Noun",
+    "definitions": [
+      "scandium (chemical element)"
+    ],
+    "syllables": [
+      5
+    ],
+    "ipa": "ˈtɜʀstko",
+    "examples": [],
+    "flexations": [
+      "terstkoň",
+      "terstko",
+      "terstkoen",
+      "terstkomaň",
+      "terstkom",
+      "terstkomen",
+      "terstkorň",
+      "terstkorn",
+      "terstkoren",
+      "terstkošaň",
+      "terstkoša",
+      "terstkošaen",
+      "terstkoňši",
+      "terstkoši",
+      "terstkoenši"
+    ]
+  },
+  {
+    "literal": "lüňko",
+    "wordType": "Noun",
+    "definitions": [
+      "chromium (chemical element)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈlʏŋko",
+    "examples": [],
+    "flexations": [
+      "lüňkoň",
+      "lüňko",
+      "lüňkoen",
+      "lüňkomaň",
+      "lüňkom",
+      "lüňkomen",
+      "lüňkorň",
+      "lüňkorn",
+      "lüňkoren",
+      "lüňkošaň",
+      "lüňkoša",
+      "lüňkošaen",
+      "lüňkoňši",
+      "lüňkoši",
+      "lüňkoenši"
+    ]
+  },
+  {
+    "literal": "magniko",
+    "wordType": "Noun",
+    "definitions": [
+      "cobalt (chemical element)"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈmagniko",
+    "examples": [],
+    "flexations": [
+      "magnikoň",
+      "magniko",
+      "magnikoen",
+      "magnikomaň",
+      "magnikom",
+      "magnikomen",
+      "magnikorň",
+      "magnikorn",
+      "magnikoren",
+      "magnikošaň",
+      "magnikoša",
+      "magnikošaen",
+      "magnikoňši",
+      "magnikoši",
+      "magnikoenši"
+    ]
+  },
+  {
+    "literal": "sempeko",
+    "wordType": "Noun",
+    "definitions": [
+      "zinc (chemical element)"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈsɜmpɜko",
+    "examples": [],
+    "flexations": [
+      "sempekoň",
+      "sempeko",
+      "sempekoen",
+      "sempekomaň",
+      "sempekom",
+      "sempekomen",
+      "sempekorň",
+      "sempekorn",
+      "sempekoren",
+      "sempekošaň",
+      "sempekoša",
+      "sempekošaen",
+      "sempekoňši",
+      "sempekoši",
+      "sempekoenši"
+    ]
+  },
+  {
+    "literal": "obentko",
+    "wordType": "Noun",
+    "definitions": [
+      "gallium (chemical element)"
+    ],
+    "syllables": [
+      1,
+      5
+    ],
+    "ipa": "ˈobɜntko",
+    "examples": [],
+    "flexations": [
+      "obentkoň",
+      "obentko",
+      "obentkoen",
+      "obentkomaň",
+      "obentkom",
+      "obentkomen",
+      "obentkorň",
+      "obentkorn",
+      "obentkoren",
+      "obentkošaň",
+      "obentkoša",
+      "obentkošaen",
+      "obentkoňši",
+      "obentkoši",
+      "obentkoenši"
+    ]
+  },
+  {
+    "literal": "kaporko",
+    "wordType": "Noun",
+    "definitions": [
+      "arsenic (chemical element)"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈkapɔʀko",
+    "examples": [],
+    "flexations": [
+      "kaporkoň",
+      "kaporko",
+      "kaporkoen",
+      "kaporkomaň",
+      "kaporkom",
+      "kaporkomen",
+      "kaporkorň",
+      "kaporkorn",
+      "kaporkoren",
+      "kaporkošaň",
+      "kaporkoša",
+      "kaporkošaen",
+      "kaporkoňši",
+      "kaporkoši",
+      "kaporkoenši"
+    ]
+  },
+  {
+    "literal": "meitško",
+    "wordType": "Noun",
+    "definitions": [
+      "bromine (chemical element)"
+    ],
+    "syllables": [
+      5
+    ],
+    "ipa": "ˈmɜ͜ɪtʃko",
+    "examples": [],
+    "flexations": [
+      "meitškoň",
+      "meitško",
+      "meitškoen",
+      "meitškomaň",
+      "meitškom",
+      "meitškomen",
+      "meitškorň",
+      "meitškorn",
+      "meitškoren",
+      "meitškošaň",
+      "meitškoša",
+      "meitškošaen",
+      "meitškoňši",
+      "meitškoši",
+      "meitškoenši"
+    ]
+  },
+  {
+    "literal": "rageko",
+    "wordType": "Noun",
+    "definitions": [
+      "krypton (chemical element)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈʀageko",
+    "examples": [],
+    "flexations": [
+      "ragekoň",
+      "rageko",
+      "ragekoen",
+      "ragekomaň",
+      "ragekom",
+      "ragekomen",
+      "ragekorň",
+      "ragekorn",
+      "ragekoren",
+      "ragekošaň",
+      "ragekoša",
+      "ragekošaen",
+      "ragekoňši",
+      "ragekoši",
+      "ragekoenši"
+    ]
+  },
+  {
+    "literal": "ijutsko",
+    "wordType": "Noun",
+    "definitions": [
+      "molybdenum (chemical element)"
+    ],
+    "syllables": [
+      1,
+      5
+    ],
+    "ipa": "ˈijʊtsko",
+    "examples": [],
+    "flexations": [
+      "ijutskoň",
+      "ijutsko",
+      "ijutskoen",
+      "ijutskomaň",
+      "ijutskom",
+      "ijutskomen",
+      "ijutskorň",
+      "ijutskorn",
+      "ijutskoren",
+      "ijutskošaň",
+      "ijutskoša",
+      "ijutskošaen",
+      "ijutskoňši",
+      "ijutskoši",
+      "ijutskoenši"
+    ]
+  },
+  {
+    "literal": "kopstiko",
+    "wordType": "Noun",
+    "definitions": [
+      "rubidium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈkɔpstiko",
+    "examples": [],
+    "flexations": [
+      "kopstikoň",
+      "kopstiko",
+      "kopstikoen",
+      "kopstikomaň",
+      "kopstikom",
+      "kopstikomen",
+      "kopstikorň",
+      "kopstikorn",
+      "kopstikoren",
+      "kopstikošaň",
+      "kopstikoša",
+      "kopstikošaen",
+      "kopstikoňši",
+      "kopstikoši",
+      "kopstikoenši"
+    ]
+  },
+  {
+    "literal": "šüňžöko",
+    "wordType": "Noun",
+    "definitions": [
+      "strontium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈʃʏŋʒɶko",
+    "examples": [],
+    "flexations": [
+      "šüňžökoň",
+      "šüňžöko",
+      "šüňžökoen",
+      "šüňžökomaň",
+      "šüňžökom",
+      "šüňžökomen",
+      "šüňžökorň",
+      "šüňžökorn",
+      "šüňžökoren",
+      "šüňžökošaň",
+      "šüňžökoša",
+      "šüňžökošaen",
+      "šüňžökoňši",
+      "šüňžökoši",
+      "šüňžökoenši"
+    ]
+  },
+  {
+    "literal": "sapatško",
+    "wordType": "Noun",
+    "definitions": [
+      "yttrium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      6
+    ],
+    "ipa": "ˈsapatʃko",
+    "examples": [],
+    "flexations": [
+      "sapatškoň",
+      "sapatško",
+      "sapatškoen",
+      "sapatškomaň",
+      "sapatškom",
+      "sapatškomen",
+      "sapatškorň",
+      "sapatškorn",
+      "sapatškoren",
+      "sapatškošaň",
+      "sapatškoša",
+      "sapatškošaen",
+      "sapatškoňši",
+      "sapatškoši",
+      "sapatškoenši"
+    ]
+  },
+  {
+    "literal": "tüpfiko",
+    "wordType": "Noun",
+    "definitions": [
+      "zirconium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈtʏpfiko",
+    "examples": [],
+    "flexations": [
+      "tüpfikoň",
+      "tüpfiko",
+      "tüpfikoen",
+      "tüpfikomaň",
+      "tüpfikom",
+      "tüpfikomen",
+      "tüpfikorň",
+      "tüpfikorn",
+      "tüpfikoren",
+      "tüpfikošaň",
+      "tüpfikoša",
+      "tüpfikošaen",
+      "tüpfikoňši",
+      "tüpfikoši",
+      "tüpfikoenši"
+    ]
+  },
+  {
+    "literal": "šoroiko",
+    "wordType": "Noun",
+    "definitions": [
+      "technetium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈʃoʀɔ͜ɪko",
+    "examples": [],
+    "flexations": [
+      "šoroikoň",
+      "šoroiko",
+      "šoroikoen",
+      "šoroikomaň",
+      "šoroikom",
+      "šoroikomen",
+      "šoroikorň",
+      "šoroikorn",
+      "šoroikoren",
+      "šoroikošaň",
+      "šoroikoša",
+      "šoroikošaen",
+      "šoroikoňši",
+      "šoroikoši",
+      "šoroikoenši"
+    ]
+  },
+  {
+    "literal": "viesko",
+    "wordType": "Noun",
+    "definitions": [
+      "rhodium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈviɜsko",
+    "examples": [],
+    "flexations": [
+      "vieskoň",
+      "viesko",
+      "vieskoen",
+      "vieskomaň",
+      "vieskom",
+      "vieskomen",
+      "vieskorň",
+      "vieskorn",
+      "vieskoren",
+      "vieskošaň",
+      "vieskoša",
+      "vieskošaen",
+      "vieskoňši",
+      "vieskoši",
+      "vieskoenši"
+    ]
+  },
+  {
+    "literal": "titški",
+    "wordType": "Noun",
+    "definitions": [
+      "silver (chemical element)"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈtitʃki",
+    "examples": [],
+    "flexations": [
+      "titškiň",
+      "titški",
+      "titšken",
+      "titškmaň",
+      "titškim",
+      "titškmen",
+      "titškirň",
+      "titškirn",
+      "titškren",
+      "titškšaň",
+      "titškša",
+      "titškšaen",
+      "titškiňši",
+      "titškši",
+      "titškenši"
+    ]
+  },
+  {
+    "literal": "volskiko",
+    "wordType": "Noun",
+    "definitions": [
+      "indium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈvɔlskiko",
+    "examples": [],
+    "flexations": [
+      "volskikoň",
+      "volskiko",
+      "volskikoen",
+      "volskikomaň",
+      "volskikom",
+      "volskikomen",
+      "volskikorň",
+      "volskikorn",
+      "volskikoren",
+      "volskikošaň",
+      "volskikoša",
+      "volskikošaen",
+      "volskikoňši",
+      "volskikoši",
+      "volskikoenši"
+    ]
+  },
+  {
+    "literal": "poptko",
+    "wordType": "Noun",
+    "definitions": [
+      "tin (chemical element)"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈpɔptko",
+    "examples": [],
+    "flexations": [
+      "poptkoň",
+      "poptko",
+      "poptkoen",
+      "poptkomaň",
+      "poptkom",
+      "poptkomen",
+      "poptkorň",
+      "poptkorn",
+      "poptkoren",
+      "poptkošaň",
+      "poptkoša",
+      "poptkošaen",
+      "poptkoňši",
+      "poptkoši",
+      "poptkoenši"
+    ]
+  },
+  {
+    "literal": "ritseško",
+    "wordType": "Noun",
+    "definitions": [
+      "antimony (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈʀɪtsɜʃko",
+    "examples": [],
+    "flexations": [
+      "ritseškoň",
+      "ritseško",
+      "ritseškoen",
+      "ritseškomaň",
+      "ritseškom",
+      "ritseškomen",
+      "ritseškorň",
+      "ritseškorn",
+      "ritseškoren",
+      "ritseškošaň",
+      "ritseškoša",
+      "ritseškošaen",
+      "ritseškoňši",
+      "ritseškoši",
+      "ritseškoenši"
+    ]
+  },
+  {
+    "literal": "nirvuhjko",
+    "wordType": "Noun",
+    "definitions": [
+      "xenon (chemical element)"
+    ],
+    "syllables": [
+      3,
+      7
+    ],
+    "ipa": "ˈnɪʀvʊçko",
+    "examples": [],
+    "flexations": [
+      "nirvuhjkoň",
+      "nirvuhjko",
+      "nirvuhjkoen",
+      "nirvuhjkomaň",
+      "nirvuhjkom",
+      "nirvuhjkomen",
+      "nirvuhjkorň",
+      "nirvuhjkorn",
+      "nirvuhjkoren",
+      "nirvuhjkošaň",
+      "nirvuhjkoša",
+      "nirvuhjkošaen",
+      "nirvuhjkoňši",
+      "nirvuhjkoši",
+      "nirvuhjkoenši"
+    ]
+  },
+  {
+    "literal": "nirlarko",
+    "wordType": "Noun",
+    "definitions": [
+      "radon (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈnɪʀlaʀko",
+    "examples": [],
+    "flexations": [
+      "nirlarkoň",
+      "nirlarko",
+      "nirlarkoen",
+      "nirlarkomaň",
+      "nirlarkom",
+      "nirlarkomen",
+      "nirlarkorň",
+      "nirlarkorn",
+      "nirlarkoren",
+      "nirlarkošaň",
+      "nirlarkoša",
+      "nirlarkošaen",
+      "nirlarkoňši",
+      "nirlarkoši",
+      "nirlarkoenši"
+    ]
+  },
+  {
+    "literal": "tekhjako",
+    "wordType": "Noun",
+    "definitions": [
+      "oganesson (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈtɜkçako",
+    "examples": [],
+    "flexations": [
+      "tekhjakoň",
+      "tekhjako",
+      "tekhjakoen",
+      "tekhjakomaň",
+      "tekhjakom",
+      "tekhjakomen",
+      "tekhjakorň",
+      "tekhjakorn",
+      "tekhjakoren",
+      "tekhjakošaň",
+      "tekhjakoša",
+      "tekhjakošaen",
+      "tekhjakoňši",
+      "tekhjakoši",
+      "tekhjakoenši"
+    ]
+  },
+  {
+    "literal": "zibusko",
+    "wordType": "Noun",
+    "definitions": [
+      "polonium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈzibʊsko",
+    "examples": [],
+    "flexations": [
+      "zibuskoň",
+      "zibusko",
+      "zibuskoen",
+      "zibuskomaň",
+      "zibuskom",
+      "zibuskomen",
+      "zibuskorň",
+      "zibuskorn",
+      "zibuskoren",
+      "zibuskošaň",
+      "zibuskoša",
+      "zibuskošaen",
+      "zibuskoňši",
+      "zibuskoši",
+      "zibuskoenši"
+    ]
+  },
+  {
+    "literal": "žitko",
+    "wordType": "Noun",
+    "definitions": [
+      "cesium (chemical element)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʒɪtko",
+    "examples": [],
+    "flexations": [
+      "žitkoň",
+      "žitko",
+      "žitkoen",
+      "žitkomaň",
+      "žitkom",
+      "žitkomen",
+      "žitkorň",
+      "žitkorn",
+      "žitkoren",
+      "žitkošaň",
+      "žitkoša",
+      "žitkošaen",
+      "žitkoňši",
+      "žitkoši",
+      "žitkoenši"
+    ]
+  },
+  {
+    "literal": "sjekuko",
+    "wordType": "Noun",
+    "definitions": [
+      "lanthanum (chemical element)"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈsjɜkuko",
+    "examples": [],
+    "flexations": [
+      "sjekukoň",
+      "sjekuko",
+      "sjekukoen",
+      "sjekukomaň",
+      "sjekukom",
+      "sjekukomen",
+      "sjekukorň",
+      "sjekukorn",
+      "sjekukoren",
+      "sjekukošaň",
+      "sjekukoša",
+      "sjekukošaen",
+      "sjekukoňši",
+      "sjekukoši",
+      "sjekukoenši"
+    ]
+  },
+  {
+    "literal": "tratvubeňko",
+    "wordType": "Noun",
+    "definitions": [
+      "praseodymium (chemical element)"
+    ],
+    "syllables": [
+      4,
+      6,
+      9
+    ],
+    "ipa": "ˈtʀatvubɜŋko",
+    "examples": [],
+    "flexations": [
+      "tratvubeňkoň",
+      "tratvubeňko",
+      "tratvubeňkoen",
+      "tratvubeňkomaň",
+      "tratvubeňkom",
+      "tratvubeňkomen",
+      "tratvubeňkorň",
+      "tratvubeňkorn",
+      "tratvubeňkoren",
+      "tratvubeňkošaň",
+      "tratvubeňkoša",
+      "tratvubeňkošaen",
+      "tratvubeňkoňši",
+      "tratvubeňkoši",
+      "tratvubeňkoenši"
+    ]
+  },
+  {
+    "literal": "vubemko",
+    "wordType": "Noun",
+    "definitions": [
+      "neodymium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈvubɜmko",
+    "examples": [],
+    "flexations": [
+      "vubemkoň",
+      "vubemko",
+      "vubemkoen",
+      "vubemkomaň",
+      "vubemkom",
+      "vubemkomen",
+      "vubemkorň",
+      "vubemkorn",
+      "vubemkoren",
+      "vubemkošaň",
+      "vubemkoša",
+      "vubemkošaen",
+      "vubemkoňši",
+      "vubemkoši",
+      "vubemkoenši"
+    ]
+  },
+  {
+    "literal": "kantsudžuko",
+    "wordType": "Noun",
+    "definitions": [
+      "promethium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6,
+      9
+    ],
+    "ipa": "ˈkantsudʒʊko",
+    "examples": [],
+    "flexations": [
+      "kantsudžukoň",
+      "kantsudžuko",
+      "kantsudžukoen",
+      "kantsudžukomaň",
+      "kantsudžukom",
+      "kantsudžukomen",
+      "kantsudžukorň",
+      "kantsudžukorn",
+      "kantsudžukoren",
+      "kantsudžukošaň",
+      "kantsudžukoša",
+      "kantsudžukošaen",
+      "kantsudžukoňši",
+      "kantsudžukoši",
+      "kantsudžukoenši"
+    ]
+  },
+  {
+    "literal": "zetsirenko",
+    "wordType": "Noun",
+    "definitions": [
+      "samarium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      5,
+      8
+    ],
+    "ipa": "ˈzɜtsiʀɜnko",
+    "examples": [],
+    "flexations": [
+      "zetsirenkoň",
+      "zetsirenko",
+      "zetsirenkoen",
+      "zetsirenkomaň",
+      "zetsirenkom",
+      "zetsirenkomen",
+      "zetsirenkorň",
+      "zetsirenkorn",
+      "zetsirenkoren",
+      "zetsirenkošaň",
+      "zetsirenkoša",
+      "zetsirenkošaen",
+      "zetsirenkoňši",
+      "zetsirenkoši",
+      "zetsirenkoenši"
+    ]
+  },
+  {
+    "literal": "primozako",
+    "wordType": "Noun",
+    "definitions": [
+      "gadolonium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      5,
+      7
+    ],
+    "ipa": "ˈpʀimozako",
+    "examples": [],
+    "flexations": [
+      "primozakoň",
+      "primozako",
+      "primozakoen",
+      "primozakomaň",
+      "primozakom",
+      "primozakomen",
+      "primozakorň",
+      "primozakorn",
+      "primozakoren",
+      "primozakošaň",
+      "primozakoša",
+      "primozakošaen",
+      "primozakoňši",
+      "primozakoši",
+      "primozakoenši"
+    ]
+  },
+  {
+    "literal": "maknaltsko",
+    "wordType": "Noun",
+    "definitions": [
+      "dysprosium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      8
+    ],
+    "ipa": "ˈmaknaltsko",
+    "examples": [],
+    "flexations": [
+      "maknaltskoň",
+      "maknaltsko",
+      "maknaltskoen",
+      "maknaltskomaň",
+      "maknaltskom",
+      "maknaltskomen",
+      "maknaltskorň",
+      "maknaltskorn",
+      "maknaltskoren",
+      "maknaltskošaň",
+      "maknaltskoša",
+      "maknaltskošaen",
+      "maknaltskoňši",
+      "maknaltskoši",
+      "maknaltskoenši"
+    ]
+  },
+  {
+    "literal": "kalžoulko",
+    "wordType": "Noun",
+    "definitions": [
+      "holmium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      7
+    ],
+    "ipa": "ˈkalʒo͜ulko",
+    "examples": [],
+    "flexations": [
+      "kalžoulkoň",
+      "kalžoulko",
+      "kalžoulkoen",
+      "kalžoulkomaň",
+      "kalžoulkom",
+      "kalžoulkomen",
+      "kalžoulkorň",
+      "kalžoulkorn",
+      "kalžoulkoren",
+      "kalžoulkošaň",
+      "kalžoulkoša",
+      "kalžoulkošaen",
+      "kalžoulkoňši",
+      "kalžoulkoši",
+      "kalžoulkoenši"
+    ]
+  },
+  {
+    "literal": "ömskorko",
+    "wordType": "Noun",
+    "definitions": [
+      "terbium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈɶmskɔʀko",
+    "examples": [],
+    "flexations": [
+      "ömskorkoň",
+      "ömskorko",
+      "ömskorkoen",
+      "ömskorkomaň",
+      "ömskorkom",
+      "ömskorkomen",
+      "ömskorkorň",
+      "ömskorkorn",
+      "ömskorkoren",
+      "ömskorkošaň",
+      "ömskorkoša",
+      "ömskorkošaen",
+      "ömskorkoňši",
+      "ömskorkoši",
+      "ömskorkoenši"
+    ]
+  },
+  {
+    "literal": "ksantetko",
+    "wordType": "Noun",
+    "definitions": [
+      "lutetium (chemical element)"
+    ],
+    "syllables": [
+      4,
+      7
+    ],
+    "ipa": "ˈksantɜtko",
+    "examples": [],
+    "flexations": [
+      "ksantetkoň",
+      "ksantetko",
+      "ksantetkoen",
+      "ksantetkomaň",
+      "ksantetkom",
+      "ksantetkomen",
+      "ksantetkorň",
+      "ksantetkorn",
+      "ksantetkoren",
+      "ksantetkošaň",
+      "ksantetkoša",
+      "ksantetkošaen",
+      "ksantetkoňši",
+      "ksantetkoši",
+      "ksantetkoenši"
+    ]
+  },
+  {
+    "literal": "uzurpsiko",
+    "wordType": "Noun",
+    "definitions": [
+      "hafnium (chemical element)"
+    ],
+    "syllables": [
+      1,
+      4,
+      7
+    ],
+    "ipa": "ˈuzʊʀpsiko",
+    "examples": [],
+    "flexations": [
+      "uzurpsikoň",
+      "uzurpsiko",
+      "uzurpsikoen",
+      "uzurpsikomaň",
+      "uzurpsikom",
+      "uzurpsikomen",
+      "uzurpsikorň",
+      "uzurpsikorn",
+      "uzurpsikoren",
+      "uzurpsikošaň",
+      "uzurpsikoša",
+      "uzurpsikošaen",
+      "uzurpsikoňši",
+      "uzurpsikoši",
+      "uzurpsikoenši"
+    ]
+  },
+  {
+    "literal": "imsažeiko",
+    "wordType": "Noun",
+    "definitions": [
+      "tantalum (chemical element)"
+    ],
+    "syllables": [
+      2,
+      4,
+      7
+    ],
+    "ipa": "ˈɪmsaʒɜ͜ɪko",
+    "examples": [],
+    "flexations": [
+      "imsažeikoň",
+      "imsažeiko",
+      "imsažeikoen",
+      "imsažeikomaň",
+      "imsažeikom",
+      "imsažeikomen",
+      "imsažeikorň",
+      "imsažeikorn",
+      "imsažeikoren",
+      "imsažeikošaň",
+      "imsažeikoša",
+      "imsažeikošaen",
+      "imsažeikoňši",
+      "imsažeikoši",
+      "imsažeikoenši"
+    ]
+  },
+  {
+    "literal": "pjotko",
+    "wordType": "Noun",
+    "definitions": [
+      "tungsten (chemical element)"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈpjɔtko",
+    "examples": [],
+    "flexations": [
+      "pjotkoň",
+      "pjotko",
+      "pjotkoen",
+      "pjotkomaň",
+      "pjotkom",
+      "pjotkomen",
+      "pjotkorň",
+      "pjotkorn",
+      "pjotkoren",
+      "pjotkošaň",
+      "pjotkoša",
+      "pjotkošaen",
+      "pjotkoňši",
+      "pjotkoši",
+      "pjotkoenši"
+    ]
+  },
+  {
+    "literal": "tatampko",
+    "wordType": "Noun",
+    "definitions": [
+      "osmium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      6
+    ],
+    "ipa": "ˈtatampko",
+    "examples": [],
+    "flexations": [
+      "tatampkoň",
+      "tatampko",
+      "tatampkoen",
+      "tatampkomaň",
+      "tatampkom",
+      "tatampkomen",
+      "tatampkorň",
+      "tatampkorn",
+      "tatampkoren",
+      "tatampkošaň",
+      "tatampkoša",
+      "tatampkošaen",
+      "tatampkoňši",
+      "tatampkoši",
+      "tatampkoenši"
+    ]
+  },
+  {
+    "literal": "sapalko",
+    "wordType": "Noun",
+    "definitions": [
+      "iridium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈsapalko",
+    "examples": [],
+    "flexations": [
+      "sapalkoň",
+      "sapalko",
+      "sapalkoen",
+      "sapalkomaň",
+      "sapalkom",
+      "sapalkomen",
+      "sapalkorň",
+      "sapalkorn",
+      "sapalkoren",
+      "sapalkošaň",
+      "sapalkoša",
+      "sapalkošaen",
+      "sapalkoňši",
+      "sapalkoši",
+      "sapalkoenši"
+    ]
+  },
+  {
+    "literal": "setški",
+    "wordType": "Noun",
+    "definitions": [
+      "gold (chemical element)"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈsɜtʃki",
+    "examples": [],
+    "flexations": [
+      "setškiň",
+      "setški",
+      "setšken",
+      "setškmaň",
+      "setškim",
+      "setškmen",
+      "setškirň",
+      "setškirn",
+      "setškren",
+      "setškšaň",
+      "setškša",
+      "setškšaen",
+      "setškiňši",
+      "setškši",
+      "setškenši"
+    ]
+  },
+  {
+    "literal": "tsözetko",
+    "wordType": "Noun",
+    "definitions": [
+      "thallium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈtsøzɜtko",
+    "examples": [],
+    "flexations": [
+      "tsözetkoň",
+      "tsözetko",
+      "tsözetkoen",
+      "tsözetkomaň",
+      "tsözetkom",
+      "tsözetkomen",
+      "tsözetkorň",
+      "tsözetkorn",
+      "tsözetkoren",
+      "tsözetkošaň",
+      "tsözetkoša",
+      "tsözetkošaen",
+      "tsözetkoňši",
+      "tsözetkoši",
+      "tsözetkoenši"
+    ]
+  },
+  {
+    "literal": "pluko",
+    "wordType": "Noun",
+    "definitions": [
+      "lead (chemical element)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈpluko",
+    "examples": [],
+    "flexations": [
+      "plukoň",
+      "pluko",
+      "plukoen",
+      "plukomaň",
+      "plukom",
+      "plukomen",
+      "plukorň",
+      "plukorn",
+      "plukoren",
+      "plukošaň",
+      "plukoša",
+      "plukošaen",
+      "plukoňši",
+      "plukoši",
+      "plukoenši"
+    ]
+  },
+  {
+    "literal": "kobfilko",
+    "wordType": "Noun",
+    "definitions": [
+      "francium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈkɔbfɪlko",
+    "examples": [],
+    "flexations": [
+      "kobfilkoň",
+      "kobfilko",
+      "kobfilkoen",
+      "kobfilkomaň",
+      "kobfilkom",
+      "kobfilkomen",
+      "kobfilkorň",
+      "kobfilkorn",
+      "kobfilkoren",
+      "kobfilkošaň",
+      "kobfilkoša",
+      "kobfilkošaen",
+      "kobfilkoňši",
+      "kobfilkoši",
+      "kobfilkoenši"
+    ]
+  },
+  {
+    "literal": "šovako",
+    "wordType": "Noun",
+    "definitions": [
+      "radium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈʃovako",
+    "examples": [],
+    "flexations": [
+      "šovakoň",
+      "šovako",
+      "šovakoen",
+      "šovakomaň",
+      "šovakom",
+      "šovakomen",
+      "šovakorň",
+      "šovakorn",
+      "šovakoren",
+      "šovakošaň",
+      "šovakoša",
+      "šovakošaen",
+      "šovakoňši",
+      "šovakoši",
+      "šovakoenši"
+    ]
+  },
+  {
+    "literal": "ptujiko",
+    "wordType": "Noun",
+    "definitions": [
+      "thorium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈptujiko",
+    "examples": [],
+    "flexations": [
+      "ptujikoň",
+      "ptujiko",
+      "ptujikoen",
+      "ptujikomaň",
+      "ptujikom",
+      "ptujikomen",
+      "ptujikorň",
+      "ptujikorn",
+      "ptujikoren",
+      "ptujikošaň",
+      "ptujikoša",
+      "ptujikošaen",
+      "ptujikoňši",
+      "ptujikoši",
+      "ptujikoenši"
+    ]
+  },
+  {
+    "literal": "šuroiko",
+    "wordType": "Noun",
+    "definitions": [
+      "uranium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈʃuʀɔ͜ɪko",
+    "examples": [],
+    "flexations": [
+      "šuroikoň",
+      "šuroiko",
+      "šuroikoen",
+      "šuroikomaň",
+      "šuroikom",
+      "šuroikomen",
+      "šuroikorň",
+      "šuroikorn",
+      "šuroikoren",
+      "šuroikošaň",
+      "šuroikoša",
+      "šuroikošaen",
+      "šuroikoňši",
+      "šuroikoši",
+      "šuroikoenši"
+    ]
+  },
+  {
+    "literal": "jözeko",
+    "wordType": "Noun",
+    "definitions": [
+      "neptunium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈjøzɜko",
+    "examples": [],
+    "flexations": [
+      "jözekoň",
+      "jözeko",
+      "jözekoen",
+      "jözekomaň",
+      "jözekom",
+      "jözekomen",
+      "jözekorň",
+      "jözekorn",
+      "jözekoren",
+      "jözekošaň",
+      "jözekoša",
+      "jözekošaen",
+      "jözekoňši",
+      "jözekoši",
+      "jözekoenši"
+    ]
+  },
+  {
+    "literal": "iremptko",
+    "wordType": "Noun",
+    "definitions": [
+      "plutonium (chemical element)"
+    ],
+    "syllables": [
+      1,
+      6
+    ],
+    "ipa": "ˈiʀɜmptko",
+    "examples": [],
+    "flexations": [
+      "iremptkoň",
+      "iremptko",
+      "iremptkoen",
+      "iremptkomaň",
+      "iremptkom",
+      "iremptkomen",
+      "iremptkorň",
+      "iremptkorn",
+      "iremptkoren",
+      "iremptkošaň",
+      "iremptkoša",
+      "iremptkošaen",
+      "iremptkoňši",
+      "iremptkoši",
+      "iremptkoenši"
+    ]
+  },
+  {
+    "literal": "ledžasko",
+    "wordType": "Noun",
+    "definitions": [
+      "curium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      6
+    ],
+    "ipa": "ˈlɜdʒasko",
+    "examples": [],
+    "flexations": [
+      "ledžaskoň",
+      "ledžasko",
+      "ledžaskoen",
+      "ledžaskomaň",
+      "ledžaskom",
+      "ledžaskomen",
+      "ledžaskorň",
+      "ledžaskorn",
+      "ledžaskoren",
+      "ledžaskošaň",
+      "ledžaskoša",
+      "ledžaskošaen",
+      "ledžaskoňši",
+      "ledžaskoši",
+      "ledžaskoenši"
+    ]
+  },
+  {
+    "literal": "mekrintko",
+    "wordType": "Noun",
+    "definitions": [
+      "einsteinium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      7
+    ],
+    "ipa": "ˈmekʀɪntko",
+    "examples": [],
+    "flexations": [
+      "mekrintkoň",
+      "mekrintko",
+      "mekrintkoen",
+      "mekrintkomaň",
+      "mekrintkom",
+      "mekrintkomen",
+      "mekrintkorň",
+      "mekrintkorn",
+      "mekrintkoren",
+      "mekrintkošaň",
+      "mekrintkoša",
+      "mekrintkošaen",
+      "mekrintkoňši",
+      "mekrintkoši",
+      "mekrintkoenši"
+    ]
+  },
+  {
+    "literal": "žadruksko",
+    "wordType": "Noun",
+    "definitions": [
+      "mendelevium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      7
+    ],
+    "ipa": "ˈʒadʀʊksko",
+    "examples": [],
+    "flexations": [
+      "žadrukskoň",
+      "žadruksko",
+      "žadrukskoen",
+      "žadrukskomaň",
+      "žadrukskom",
+      "žadrukskomen",
+      "žadrukskorň",
+      "žadrukskorn",
+      "žadrukskoren",
+      "žadrukskošaň",
+      "žadrukskoša",
+      "žadrukskošaen",
+      "žadrukskoňši",
+      "žadrukskoši",
+      "žadrukskoenši"
+    ]
+  },
+  {
+    "literal": "jöltriko",
+    "wordType": "Noun",
+    "definitions": [
+      "nobelium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈjɶltʀiko",
+    "examples": [],
+    "flexations": [
+      "jöltrikoň",
+      "jöltriko",
+      "jöltrikoen",
+      "jöltrikomaň",
+      "jöltrikom",
+      "jöltrikomen",
+      "jöltrikorň",
+      "jöltrikorn",
+      "jöltrikoren",
+      "jöltrikošaň",
+      "jöltrikoša",
+      "jöltrikošaen",
+      "jöltrikoňši",
+      "jöltrikoši",
+      "jöltrikoenši"
+    ]
+  },
+  {
+    "literal": "timtriko",
+    "wordType": "Noun",
+    "definitions": [
+      "lawrencium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈtɪmtʀiko",
+    "examples": [],
+    "flexations": [
+      "timtrikoň",
+      "timtriko",
+      "timtrikoen",
+      "timtrikomaň",
+      "timtrikom",
+      "timtrikomen",
+      "timtrikorň",
+      "timtrikorn",
+      "timtrikoren",
+      "timtrikošaň",
+      "timtrikoša",
+      "timtrikošaen",
+      "timtrikoňši",
+      "timtrikoši",
+      "timtrikoenši"
+    ]
+  },
+  {
+    "literal": "štabirko",
+    "wordType": "Noun",
+    "definitions": [
+      "rutherfordium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈʃtabɪʀko",
+    "examples": [],
+    "flexations": [
+      "štabirkoň",
+      "štabirko",
+      "štabirkoen",
+      "štabirkomaň",
+      "štabirkom",
+      "štabirkomen",
+      "štabirkorň",
+      "štabirkorn",
+      "štabirkoren",
+      "štabirkošaň",
+      "štabirkoša",
+      "štabirkošaen",
+      "štabirkoňši",
+      "štabirkoši",
+      "štabirkoenši"
+    ]
+  },
+  {
+    "literal": "omftortetko",
+    "wordType": "Noun",
+    "definitions": [
+      "seaborgium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6,
+      9
+    ],
+    "ipa": "ˈɔmftɔʀtɜtko",
+    "examples": [],
+    "flexations": [
+      "omftortetkoň",
+      "omftortetko",
+      "omftortetkoen",
+      "omftortetkomaň",
+      "omftortetkom",
+      "omftortetkomen",
+      "omftortetkorň",
+      "omftortetkorn",
+      "omftortetkoren",
+      "omftortetkošaň",
+      "omftortetkoša",
+      "omftortetkošaen",
+      "omftortetkoňši",
+      "omftortetkoši",
+      "omftortetkoenši"
+    ]
+  },
+  {
+    "literal": "pasristko",
+    "wordType": "Noun",
+    "definitions": [
+      "hassium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      7
+    ],
+    "ipa": "ˈpasʀɪstko",
+    "examples": [],
+    "flexations": [
+      "pasristkoň",
+      "pasristko",
+      "pasristkoen",
+      "pasristkomaň",
+      "pasristkom",
+      "pasristkomen",
+      "pasristkorň",
+      "pasristkorn",
+      "pasristkoren",
+      "pasristkošaň",
+      "pasristkoša",
+      "pasristkošaen",
+      "pasristkoňši",
+      "pasristkoši",
+      "pasristkoenši"
+    ]
+  },
+  {
+    "literal": "laltsašiko",
+    "wordType": "Noun",
+    "definitions": [
+      "darmstadtium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6,
+      8
+    ],
+    "ipa": "ˈlaltsaʃiko",
+    "examples": [],
+    "flexations": [
+      "laltsašikoň",
+      "laltsašiko",
+      "laltsašikoen",
+      "laltsašikomaň",
+      "laltsašikom",
+      "laltsašikomen",
+      "laltsašikorň",
+      "laltsašikorn",
+      "laltsašikoren",
+      "laltsašikošaň",
+      "laltsašikoša",
+      "laltsašikošaen",
+      "laltsašikoňši",
+      "laltsašikoši",
+      "laltsašikoenši"
+    ]
+  },
+  {
+    "literal": "zegierko",
+    "wordType": "Noun",
+    "definitions": [
+      "roentgenium (chemical element)"
+    ],
+    "syllables": [
+      2,
+      4,
+      6
+    ],
+    "ipa": "ˈzegiɜʀko",
+    "examples": [],
+    "flexations": [
+      "zegierkoň",
+      "zegierko",
+      "zegierkoen",
+      "zegierkomaň",
+      "zegierkom",
+      "zegierkomen",
+      "zegierkorň",
+      "zegierkorn",
+      "zegierkoren",
+      "zegierkošaň",
+      "zegierkoša",
+      "zegierkošaen",
+      "zegierkoňši",
+      "zegierkoši",
+      "zegierkoenši"
+    ]
+  },
+  {
+    "literal": "namraeko",
+    "wordType": "Noun",
+    "definitions": [
+      "nihonium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈnamʀa͜eko",
+    "examples": [],
+    "flexations": [
+      "namraekoň",
+      "namraeko",
+      "namraekoen",
+      "namraekomaň",
+      "namraekom",
+      "namraekomen",
+      "namraekorň",
+      "namraekorn",
+      "namraekoren",
+      "namraekošaň",
+      "namraekoša",
+      "namraekošaen",
+      "namraekoňši",
+      "namraekoši",
+      "namraekoenši"
+    ]
+  },
+  {
+    "literal": "jütpaeko",
+    "wordType": "Noun",
+    "definitions": [
+      "flerovium (chemical element)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈjʏtpa͜eko",
+    "examples": [],
+    "flexations": [
+      "jütpaekoň",
+      "jütpaeko",
+      "jütpaekoen",
+      "jütpaekomaň",
+      "jütpaekom",
+      "jütpaekomen",
+      "jütpaekorň",
+      "jütpaekorn",
+      "jütpaekoren",
+      "jütpaekošaň",
+      "jütpaekoša",
+      "jütpaekošaen",
+      "jütpaekoňši",
+      "jütpaekoši",
+      "jütpaekoenši"
+    ]
+  },
+  {
+    "literal": "praesko",
+    "wordType": "Noun",
+    "definitions": [
+      "moscovium (chemical element)"
+    ],
+    "syllables": [
+      5
+    ],
+    "ipa": "ˈpʀa͜esko",
+    "examples": [],
+    "flexations": [
+      "praeskoň",
+      "praesko",
+      "praeskoen",
+      "praeskomaň",
+      "praeskom",
+      "praeskomen",
+      "praeskorň",
+      "praeskorn",
+      "praeskoren",
+      "praeskošaň",
+      "praeskoša",
+      "praeskošaen",
+      "praeskoňši",
+      "praeskoši",
+      "praeskoenši"
+    ]
+  },
+  {
+    "literal": "reinmjerko",
+    "wordType": "Noun",
+    "definitions": [
+      "livermorium (chemical element)"
+    ],
+    "syllables": [
+      4,
+      8
+    ],
+    "ipa": "ˈʀɜ͜ɪnmjɜʀko",
+    "examples": [],
+    "flexations": [
+      "reinmjerkoň",
+      "reinmjerko",
+      "reinmjerkoen",
+      "reinmjerkomaň",
+      "reinmjerkom",
+      "reinmjerkomen",
+      "reinmjerkorň",
+      "reinmjerkorn",
+      "reinmjerkoren",
+      "reinmjerkošaň",
+      "reinmjerkoša",
+      "reinmjerkošaen",
+      "reinmjerkoňši",
+      "reinmjerkoši",
+      "reinmjerkoenši"
+    ]
+  },
+  {
+    "literal": "ili",
+    "wordType": "Noun",
+    "definitions": [
+      "smile"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈili",
+    "examples": [],
+    "flexations": [
+      "iliň",
+      "ili",
+      "ilen",
+      "ilmaň",
+      "ilim",
+      "ilmen",
+      "ilirň",
+      "ilirn",
+      "ilren",
+      "ilšaň",
+      "ilša",
+      "ilšaen",
+      "iliňši",
+      "ilši",
+      "ilenši"
+    ]
+  },
+  {
+    "literal": "ililae",
+    "wordType": "Noun",
+    "definitions": [
+      "tongue"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈilila͜e",
+    "examples": [],
+    "flexations": [
+      "ililaeň",
+      "ililae",
+      "ililaeen",
+      "ililaemaň",
+      "ililaem",
+      "ililaemen",
+      "ililaerň",
+      "ililaern",
+      "ililaeren",
+      "ililaešaň",
+      "ililaeša",
+      "ililaešaen",
+      "ililaeňši",
+      "ililaeši",
+      "ililaeenši"
     ]
   }
 ]

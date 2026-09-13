@@ -43066,37 +43066,6 @@
     ]
   },
   {
-    "literal": "resiie",
-    "wordType": "Noun",
-    "definitions": [
-      "verb"
-    ],
-    "syllables": [
-      2,
-      4,
-      5
-    ],
-    "ipa": "ˈʀesiʔiɜ",
-    "examples": [],
-    "flexations": [
-      "resiieň",
-      "resiie",
-      "resiieen",
-      "resiiemaň",
-      "resiiem",
-      "resiiemen",
-      "resiierň",
-      "resiiern",
-      "resiieren",
-      "resiiešaň",
-      "resiieša",
-      "resiiešaen",
-      "resiieňši",
-      "resiieši",
-      "resiieenši"
-    ]
-  },
-  {
     "literal": "retšli",
     "wordType": "Noun",
     "definitions": [
@@ -45944,6 +45913,6623 @@
       "šoroiňši",
       "šoroši",
       "šoroenši"
+    ]
+  },
+  {
+    "literal": "šorsi",
+    "wordType": "Noun",
+    "definitions": [
+      "lichen"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʃɔʀsi",
+    "examples": [],
+    "flexations": [
+      "šorsiň",
+      "šorsi",
+      "šorsen",
+      "šorsmaň",
+      "šorsim",
+      "šorsmen",
+      "šorsirň",
+      "šorsirn",
+      "šorsren",
+      "šorsšaň",
+      "šorsša",
+      "šorsšaen",
+      "šorsiňši",
+      "šorsši",
+      "šorsenši"
+    ]
+  },
+  {
+    "literal": "sorskjekuvi",
+    "wordType": "Noun",
+    "definitions": [
+      "ragebait"
+    ],
+    "syllables": [
+      4,
+      7,
+      9
+    ],
+    "ipa": "ˈsɔʀskjɜkuvi",
+    "examples": [],
+    "flexations": [
+      "sorskjekuviň",
+      "sorskjekuvi",
+      "sorskjekuven",
+      "sorskjekuvimaň",
+      "sorskjekuvim",
+      "sorskjekuvimen",
+      "sorskjekuvirň",
+      "sorskjekuvirn",
+      "sorskjekuviren",
+      "sorskjekuvišaň",
+      "sorskjekuviša",
+      "sorskjekuvišaen",
+      "sorskjekuviňši",
+      "sorskjekuviši",
+      "sorskjekuvenši"
+    ]
+  },
+  {
+    "literal": "šovi",
+    "wordType": "Noun",
+    "definitions": [
+      "disease (infectious)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʃovi",
+    "examples": [],
+    "flexations": [
+      "šoviň",
+      "šovi",
+      "šoven",
+      "šovimaň",
+      "šovim",
+      "šovimen",
+      "šovirň",
+      "šovirn",
+      "šoviren",
+      "šovišaň",
+      "šoviša",
+      "šovišaen",
+      "šoviňši",
+      "šoviši",
+      "šovenši"
+    ]
+  },
+  {
+    "literal": "šovofužii",
+    "wordType": "Noun",
+    "definitions": [
+      "nuclear fusion"
+    ],
+    "syllables": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "ipa": "ˈʃovofuʒiʔi",
+    "examples": [],
+    "flexations": [
+      "šovofužiiň",
+      "šovofužii",
+      "šovofužien",
+      "šovofužimaň",
+      "šovofužiim",
+      "šovofužimen",
+      "šovofužiirň",
+      "šovofužiirn",
+      "šovofužiren",
+      "šovofužišaň",
+      "šovofužiša",
+      "šovofužišaen",
+      "šovofužiiňši",
+      "šovofužiši",
+      "šovofužienši"
+    ]
+  },
+  {
+    "literal": "spi",
+    "wordType": "Noun",
+    "definitions": [
+      "endeavour, effort"
+    ],
+    "syllables": [],
+    "ipa": "ˈspi",
+    "examples": [],
+    "flexations": [
+      "spiň",
+      "spi",
+      "spen",
+      "spimaň",
+      "spim",
+      "spimen",
+      "spirň",
+      "spirn",
+      "spiren",
+      "spišaň",
+      "spiša",
+      "spišaen",
+      "spiňši",
+      "spiši",
+      "spenši"
+    ]
+  },
+  {
+    "literal": "špiai",
+    "wordType": "Noun",
+    "definitions": [
+      "player (person)"
+    ],
+    "syllables": [
+      3,
+      4
+    ],
+    "ipa": "ˈʃpiaʔi",
+    "examples": [],
+    "flexations": [
+      "špiaiň",
+      "špiai",
+      "špiaen",
+      "špiamaň",
+      "špiaim",
+      "špiamen",
+      "špiairň",
+      "špiairn",
+      "špiaren",
+      "špiašaň",
+      "špiaša",
+      "špiašaen",
+      "špiaiňši",
+      "špiaši",
+      "špiaenši"
+    ]
+  },
+  {
+    "literal": "spiljae",
+    "wordType": "Noun",
+    "definitions": [
+      "verb"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈspilja͜e",
+    "examples": [],
+    "flexations": [
+      "spiljaeň",
+      "spiljae",
+      "spiljaeen",
+      "spiljaemaň",
+      "spiljaem",
+      "spiljaemen",
+      "spiljaerň",
+      "spiljaern",
+      "spiljaeren",
+      "spiljaešaň",
+      "spiljaeša",
+      "spiljaešaen",
+      "spiljaeňši",
+      "spiljaeši",
+      "spiljaeenši"
+    ]
+  },
+  {
+    "literal": "spükini",
+    "wordType": "Noun",
+    "definitions": [
+      "conjugation"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈspykini",
+    "examples": [],
+    "flexations": [
+      "spükiniň",
+      "spükini",
+      "spükinen",
+      "spükinmaň",
+      "spükinim",
+      "spükinmen",
+      "spükinirň",
+      "spükinirn",
+      "spükinren",
+      "spükinšaň",
+      "spükinša",
+      "spükinšaen",
+      "spükiniňši",
+      "spükinši",
+      "spükinenši"
+    ]
+  },
+  {
+    "literal": "šratško",
+    "wordType": "Noun",
+    "definitions": [
+      "pyrite"
+    ],
+    "syllables": [
+      5
+    ],
+    "ipa": "ˈʃʀatʃko",
+    "examples": [],
+    "flexations": [
+      "šratškoň",
+      "šratško",
+      "šratškoen",
+      "šratškomaň",
+      "šratškom",
+      "šratškomen",
+      "šratškorň",
+      "šratškorn",
+      "šratškoren",
+      "šratškošaň",
+      "šratškoša",
+      "šratškošaen",
+      "šratškoňši",
+      "šratškoši",
+      "šratškoenši"
+    ]
+  },
+  {
+    "literal": "stepi",
+    "wordType": "Noun",
+    "definitions": [
+      ""
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈstɜpi",
+    "examples": [],
+    "flexations": [
+      "stepiň",
+      "stepi",
+      "stepen",
+      "stepmaň",
+      "stepim",
+      "stepmen",
+      "stepirň",
+      "stepirn",
+      "stepren",
+      "stepšaň",
+      "stepša",
+      "stepšaen",
+      "stepiňši",
+      "stepši",
+      "stepenši"
+    ]
+  },
+  {
+    "literal": "štiri",
+    "wordType": "Noun",
+    "definitions": [
+      "ground, earth, soil"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʃtiʀi",
+    "examples": [],
+    "flexations": [
+      "štiriň",
+      "štiri",
+      "štiren",
+      "štirmaň",
+      "štirim",
+      "štirmen",
+      "štirirň",
+      "štirirn",
+      "štiriren",
+      "štiršaň",
+      "štirša",
+      "štiršaen",
+      "štiriňši",
+      "štirši",
+      "štirenši"
+    ]
+  },
+  {
+    "literal": "stobam",
+    "wordType": "Noun",
+    "definitions": [
+      "leader, representative, president"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈstobam",
+    "examples": [],
+    "flexations": [
+      "stobamaň",
+      "stobam",
+      "stobamen",
+      "stobamümaň",
+      "stobamüm",
+      "stobamümen",
+      "stobamarň",
+      "stobamarn",
+      "stobamren",
+      "stobamšaň",
+      "stobamša",
+      "stobamšaen",
+      "stobamaňši",
+      "stobamši",
+      "stobamenši"
+    ]
+  },
+  {
+    "literal": "stravi",
+    "wordType": "Noun",
+    "definitions": [
+      "taste, flavor"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈstʀavi",
+    "examples": [],
+    "flexations": [
+      "straviň",
+      "stravi",
+      "straven",
+      "stravimaň",
+      "stravim",
+      "stravimen",
+      "stravirň",
+      "stravirn",
+      "straviren",
+      "stravišaň",
+      "straviša",
+      "stravišaen",
+      "straviňši",
+      "straviši",
+      "stravenši"
+    ]
+  },
+  {
+    "literal": "štupaen",
+    "wordType": "Noun",
+    "definitions": [
+      "myth, rumor"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʃtupa͜en",
+    "examples": [],
+    "flexations": [
+      "štupaenaň",
+      "štupaen",
+      "štupaenen",
+      "štupaenmaň",
+      "štupaenüm",
+      "štupaenmen",
+      "štupaenarň",
+      "štupaenarn",
+      "štupaenren",
+      "štupaenšaň",
+      "štupaenša",
+      "štupaenšaen",
+      "štupaenaňši",
+      "štupaenši",
+      "štupaenenši"
+    ]
+  },
+  {
+    "literal": "sue",
+    "wordType": "Noun",
+    "definitions": [
+      "edge"
+    ],
+    "syllables": [],
+    "ipa": "ˈswɜ",
+    "examples": [],
+    "flexations": [
+      "sueň",
+      "sue",
+      "sueen",
+      "suemaň",
+      "suem",
+      "suemen",
+      "suerň",
+      "suern",
+      "sueren",
+      "suešaň",
+      "sueša",
+      "suešaen",
+      "sueňši",
+      "sueši",
+      "sueenši"
+    ]
+  },
+  {
+    "literal": "sueti",
+    "wordType": "Noun",
+    "definitions": [
+      "page"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈswɜti",
+    "examples": [],
+    "flexations": [
+      "suetiň",
+      "sueti",
+      "sueten",
+      "suetmaň",
+      "suetim",
+      "suetmen",
+      "suetirň",
+      "suetirn",
+      "suetren",
+      "suetšaň",
+      "suetša",
+      "suetšaen",
+      "suetiňši",
+      "suetši",
+      "suetenši"
+    ]
+  },
+  {
+    "literal": "sugomo",
+    "wordType": "Noun",
+    "definitions": [
+      "imposter"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈsugomo",
+    "examples": [],
+    "flexations": [
+      "sugomoň",
+      "sugomo",
+      "sugomoen",
+      "sugomomaň",
+      "sugomom",
+      "sugomomen",
+      "sugomorň",
+      "sugomorn",
+      "sugomoren",
+      "sugomošaň",
+      "sugomoša",
+      "sugomošaen",
+      "sugomoňši",
+      "sugomoši",
+      "sugomoenši"
+    ]
+  },
+  {
+    "literal": "sultpi",
+    "wordType": "Noun",
+    "definitions": [
+      "pitcher, carafe"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈsʊltpi",
+    "examples": [],
+    "flexations": [
+      "sultpiň",
+      "sultpi",
+      "sultpen",
+      "sultpimaň",
+      "sultpim",
+      "sultpimen",
+      "sultpirň",
+      "sultpirn",
+      "sultpiren",
+      "sultpišaň",
+      "sultpiša",
+      "sultpišaen",
+      "sultpiňši",
+      "sultpiši",
+      "sultpenši"
+    ]
+  },
+  {
+    "literal": "supfei",
+    "wordType": "Noun",
+    "definitions": [
+      "internet"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈsʊpfɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "supfeiň",
+      "supfei",
+      "supfeen",
+      "supfemaň",
+      "supfeim",
+      "supfemen",
+      "supfeirň",
+      "supfeirn",
+      "supferen",
+      "supfešaň",
+      "supfeša",
+      "supfešaen",
+      "supfeiňši",
+      "supfeši",
+      "supfeenši"
+    ]
+  },
+  {
+    "literal": "šuri",
+    "wordType": "Noun",
+    "definitions": [
+      "ear"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʃuʀi",
+    "examples": [],
+    "flexations": [
+      "šuriň",
+      "šuri",
+      "šuren",
+      "šurmaň",
+      "šurim",
+      "šurmen",
+      "šurirň",
+      "šurirn",
+      "šuriren",
+      "šuršaň",
+      "šurša",
+      "šuršaen",
+      "šuriňši",
+      "šurši",
+      "šurenši"
+    ]
+  },
+  {
+    "literal": "šuro",
+    "wordType": "Noun",
+    "definitions": [
+      "man"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʃuʀo",
+    "examples": [],
+    "flexations": [
+      "šuroň",
+      "šuro",
+      "šuroen",
+      "šuromaň",
+      "šurom",
+      "šuromen",
+      "šurorň",
+      "šurorn",
+      "šuroren",
+      "šurošaň",
+      "šuroša",
+      "šurošaen",
+      "šuroňši",
+      "šuroši",
+      "šuroenši"
+    ]
+  },
+  {
+    "literal": "suti",
+    "wordType": "Noun",
+    "definitions": [
+      "pole, post"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈsuti",
+    "examples": [],
+    "flexations": [
+      "sutiň",
+      "suti",
+      "suten",
+      "sutmaň",
+      "sutim",
+      "sutmen",
+      "sutirň",
+      "sutirn",
+      "sutren",
+      "sutšaň",
+      "sutša",
+      "sutšaen",
+      "sutiňši",
+      "sutši",
+      "sutenši"
+    ]
+  },
+  {
+    "literal": "sutiňti",
+    "wordType": "Noun",
+    "definitions": [
+      "chimes (instrument)"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈsutɪŋti",
+    "examples": [],
+    "flexations": [
+      "sutiňtiň",
+      "sutiňti",
+      "sutiňten",
+      "sutiňtmaň",
+      "sutiňtim",
+      "sutiňtmen",
+      "sutiňtirň",
+      "sutiňtirn",
+      "sutiňtren",
+      "sutiňtšaň",
+      "sutiňtša",
+      "sutiňtšaen",
+      "sutiňtiňši",
+      "sutiňtši",
+      "sutiňtenši"
+    ]
+  },
+  {
+    "literal": "sütšsi",
+    "wordType": "Noun",
+    "definitions": [
+      "cocoa"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈsʏtʃsi",
+    "examples": [],
+    "flexations": [
+      "sütšsiň",
+      "sütšsi",
+      "sütšsen",
+      "sütšsimaň",
+      "sütšsim",
+      "sütšsimen",
+      "sütšsirň",
+      "sütšsirn",
+      "sütšsiren",
+      "sütšsišaň",
+      "sütšsiša",
+      "sütšsišaen",
+      "sütšsiňši",
+      "sütšsiši",
+      "sütšsenši"
+    ]
+  },
+  {
+    "literal": "sütšuk",
+    "wordType": "Noun",
+    "definitions": [
+      "chocolate, chocolate product"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈsʏtʃʊk",
+    "examples": [],
+    "flexations": [
+      "sütšukaň",
+      "sütšuk",
+      "sütšuken",
+      "sütšukmaň",
+      "sütšuküm",
+      "sütšukmen",
+      "sütšukarň",
+      "sütšukarn",
+      "sütšukren",
+      "sütšukšaň",
+      "sütšukša",
+      "sütšukšaen",
+      "sütšukaňši",
+      "sütšukši",
+      "sütšukenši"
+    ]
+  },
+  {
+    "literal": "suzei",
+    "wordType": "Noun",
+    "definitions": [
+      "seed"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈsuzɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "suzeiň",
+      "suzei",
+      "suzeen",
+      "suzemaň",
+      "suzeim",
+      "suzemen",
+      "suzeirň",
+      "suzeirn",
+      "suzeren",
+      "suzešaň",
+      "suzeša",
+      "suzešaen",
+      "suzeiňši",
+      "suzeši",
+      "suzeenši"
+    ]
+  },
+  {
+    "literal": "švatu",
+    "wordType": "Noun",
+    "definitions": [
+      "village"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʃvatu",
+    "examples": [],
+    "flexations": [
+      "švatuň",
+      "švatu",
+      "švatuen",
+      "švatumaň",
+      "švatum",
+      "švatumen",
+      "švaturň",
+      "švaturn",
+      "švaturen",
+      "švatušaň",
+      "švatuša",
+      "švatušaen",
+      "švatuňši",
+      "švatuši",
+      "švatuenši"
+    ]
+  },
+  {
+    "literal": "svört",
+    "wordType": "Noun",
+    "definitions": [
+      "storm"
+    ],
+    "syllables": [],
+    "ipa": "ˈsvɶʀt",
+    "examples": [],
+    "flexations": [
+      "svörtaň",
+      "svört",
+      "svörten",
+      "svörtmaň",
+      "svörtüm",
+      "svörtmen",
+      "svörtarň",
+      "svörtarn",
+      "svörtren",
+      "svörtšaň",
+      "svörtša",
+      "svörtšaen",
+      "svörtaňši",
+      "svörtši",
+      "svörtenši"
+    ]
+  },
+  {
+    "literal": "švül",
+    "wordType": "Noun",
+    "definitions": [
+      "temperature"
+    ],
+    "syllables": [],
+    "ipa": "ˈʃvʏl",
+    "examples": [],
+    "flexations": [
+      "švülaň",
+      "švül",
+      "švülen",
+      "švülmaň",
+      "švülüm",
+      "švülmen",
+      "švülarň",
+      "švülarn",
+      "švülren",
+      "švülšaň",
+      "švülša",
+      "švülšaen",
+      "švülaňši",
+      "švülši",
+      "švülenši"
+    ]
+  },
+  {
+    "literal": "tabi",
+    "wordType": "Noun",
+    "definitions": [
+      "wool"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈtabi",
+    "examples": [],
+    "flexations": [
+      "tabiň",
+      "tabi",
+      "taben",
+      "tabimaň",
+      "tabim",
+      "tabimen",
+      "tabirň",
+      "tabirn",
+      "tabiren",
+      "tabišaň",
+      "tabiša",
+      "tabišaen",
+      "tabiňši",
+      "tabiši",
+      "tabenši"
+    ]
+  },
+  {
+    "literal": "tabjaru",
+    "wordType": "Noun",
+    "definitions": [
+      "sheep"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈtabjaʀu",
+    "examples": [],
+    "flexations": [
+      "tabjaruň",
+      "tabjaru",
+      "tabjaruen",
+      "tabjarumaň",
+      "tabjarum",
+      "tabjarumen",
+      "tabjarurň",
+      "tabjarurn",
+      "tabjaruren",
+      "tabjarušaň",
+      "tabjaruša",
+      "tabjarušaen",
+      "tabjaruňši",
+      "tabjaruši",
+      "tabjaruenši"
+    ]
+  },
+  {
+    "literal": "tadi",
+    "wordType": "Noun",
+    "definitions": [
+      "cloud"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈtadi",
+    "examples": [],
+    "flexations": [
+      "tadiň",
+      "tadi",
+      "taden",
+      "tadimaň",
+      "tadim",
+      "tadimen",
+      "tadirň",
+      "tadirn",
+      "tadiren",
+      "tadišaň",
+      "tadiša",
+      "tadišaen",
+      "tadiňši",
+      "tadiši",
+      "tadenši"
+    ]
+  },
+  {
+    "literal": "taentaif",
+    "wordType": "Noun",
+    "definitions": [
+      "dative (grammatical case)"
+    ],
+    "syllables": [
+      4,
+      6
+    ],
+    "ipa": "ˈta͜entaʔif",
+    "examples": [],
+    "flexations": [
+      "taentaifaň",
+      "taentaif",
+      "taentaifen",
+      "taentaifmaň",
+      "taentaifüm",
+      "taentaifmen",
+      "taentaifarň",
+      "taentaifarn",
+      "taentaifren",
+      "taentaifšaň",
+      "taentaifša",
+      "taentaifšaen",
+      "taentaifaňši",
+      "taentaifši",
+      "taentaifenši"
+    ]
+  },
+  {
+    "literal": "taep",
+    "wordType": "Noun",
+    "definitions": [
+      "contrast"
+    ],
+    "syllables": [],
+    "ipa": "ˈta͜ep",
+    "examples": [],
+    "flexations": [
+      "taepaň",
+      "taep",
+      "taepen",
+      "taepmaň",
+      "taepüm",
+      "taepmen",
+      "taeparň",
+      "taeparn",
+      "taepren",
+      "taepšaň",
+      "taepša",
+      "taepšaen",
+      "taepaňši",
+      "taepši",
+      "taepenši"
+    ]
+  },
+  {
+    "literal": "tafhei",
+    "wordType": "Noun",
+    "definitions": [
+      "durability"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtafhɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "tafheiň",
+      "tafhei",
+      "tafheen",
+      "tafhemaň",
+      "tafheim",
+      "tafhemen",
+      "tafheirň",
+      "tafheirn",
+      "tafheren",
+      "tafhešaň",
+      "tafheša",
+      "tafhešaen",
+      "tafheiňši",
+      "tafheši",
+      "tafheenši"
+    ]
+  },
+  {
+    "literal": "taksi",
+    "wordType": "Noun",
+    "definitions": [
+      "chest"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈtaksi",
+    "examples": [],
+    "flexations": [
+      "taksiň",
+      "taksi",
+      "taksen",
+      "taksmaň",
+      "taksim",
+      "taksmen",
+      "taksirň",
+      "taksirn",
+      "taksren",
+      "taksšaň",
+      "taksša",
+      "taksšaen",
+      "taksiňši",
+      "taksši",
+      "taksenši"
+    ]
+  },
+  {
+    "literal": "talamo",
+    "wordType": "Noun",
+    "definitions": [
+      "stomach"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈtalamo",
+    "examples": [],
+    "flexations": [
+      "talamoň",
+      "talamo",
+      "talamoen",
+      "talamomaň",
+      "talamom",
+      "talamomen",
+      "talamorň",
+      "talamorn",
+      "talamoren",
+      "talamošaň",
+      "talamoša",
+      "talamošaen",
+      "talamoňši",
+      "talamoši",
+      "talamoenši"
+    ]
+  },
+  {
+    "literal": "talasii",
+    "wordType": "Noun",
+    "definitions": [
+      "plan, schedule"
+    ],
+    "syllables": [
+      2,
+      4,
+      6
+    ],
+    "ipa": "ˈtalasiʔi",
+    "examples": [],
+    "flexations": [
+      "talasiiň",
+      "talasii",
+      "talasien",
+      "talasimaň",
+      "talasiim",
+      "talasimen",
+      "talasiirň",
+      "talasiirn",
+      "talasiren",
+      "talasišaň",
+      "talasiša",
+      "talasišaen",
+      "talasiiňši",
+      "talasiši",
+      "talasienši"
+    ]
+  },
+  {
+    "literal": "talkueo",
+    "wordType": "Noun",
+    "definitions": [
+      "hoe (tool)"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈtalkwɜʔo",
+    "examples": [],
+    "flexations": [
+      "talkueoň",
+      "talkueo",
+      "talkueoen",
+      "talkueomaň",
+      "talkueom",
+      "talkueomen",
+      "talkueorň",
+      "talkueorn",
+      "talkueoren",
+      "talkueošaň",
+      "talkueoša",
+      "talkueošaen",
+      "talkueoňši",
+      "talkueoši",
+      "talkueoenši"
+    ]
+  },
+  {
+    "literal": "talsi",
+    "wordType": "Noun",
+    "definitions": [
+      "plant"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtalsi",
+    "examples": [],
+    "flexations": [
+      "talsiň",
+      "talsi",
+      "talsen",
+      "talsmaň",
+      "talsim",
+      "talsmen",
+      "talsirň",
+      "talsirn",
+      "talsren",
+      "talsšaň",
+      "talsša",
+      "talsšaen",
+      "talsiňši",
+      "talsši",
+      "talsenši"
+    ]
+  },
+  {
+    "literal": "talskiu",
+    "wordType": "Noun",
+    "definitions": [
+      "petal, lilypad"
+    ],
+    "syllables": [
+      4,
+      6
+    ],
+    "ipa": "ˈtalskiu",
+    "examples": [],
+    "flexations": [
+      "talskiuň",
+      "talskiu",
+      "talskiuen",
+      "talskiumaň",
+      "talskium",
+      "talskiumen",
+      "talskiurň",
+      "talskiurn",
+      "talskiuren",
+      "talskiušaň",
+      "talskiuša",
+      "talskiušaen",
+      "talskiuňši",
+      "talskiuši",
+      "talskiuenši"
+    ]
+  },
+  {
+    "literal": "tamp",
+    "wordType": "Noun",
+    "definitions": [
+      "weight"
+    ],
+    "syllables": [],
+    "ipa": "ˈtamp",
+    "examples": [],
+    "flexations": [
+      "tampaň",
+      "tamp",
+      "tampen",
+      "tampmaň",
+      "tampüm",
+      "tampmen",
+      "tamparň",
+      "tamparn",
+      "tampren",
+      "tampšaň",
+      "tampša",
+      "tampšaen",
+      "tampaňši",
+      "tampši",
+      "tampenši"
+    ]
+  },
+  {
+    "literal": "tampai",
+    "wordType": "Noun",
+    "definitions": [
+      "scale (device)"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈtampai",
+    "examples": [],
+    "flexations": [
+      "tampaiň",
+      "tampai",
+      "tampaen",
+      "tampamaň",
+      "tampaim",
+      "tampamen",
+      "tampairň",
+      "tampairn",
+      "tamparen",
+      "tampašaň",
+      "tampaša",
+      "tampašaen",
+      "tampaiňši",
+      "tampaši",
+      "tampaenši"
+    ]
+  },
+  {
+    "literal": "tants",
+    "wordType": "Noun",
+    "definitions": [
+      "stack"
+    ],
+    "syllables": [],
+    "ipa": "ˈtants",
+    "examples": [],
+    "flexations": [
+      "tantsaň",
+      "tants",
+      "tantsen",
+      "tantsmaň",
+      "tantsüm",
+      "tantsmen",
+      "tantsarň",
+      "tantsarn",
+      "tantsren",
+      "tantsšaň",
+      "tantsša",
+      "tantsšaen",
+      "tantsaňši",
+      "tantsši",
+      "tantsenši"
+    ]
+  },
+  {
+    "literal": "tapto",
+    "wordType": "Noun",
+    "definitions": [
+      "hammer"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtapto",
+    "examples": [],
+    "flexations": [
+      "taptoň",
+      "tapto",
+      "taptoen",
+      "taptomaň",
+      "taptom",
+      "taptomen",
+      "taptorň",
+      "taptorn",
+      "taptoren",
+      "taptošaň",
+      "taptoša",
+      "taptošaen",
+      "taptoňši",
+      "taptoši",
+      "taptoenši"
+    ]
+  },
+  {
+    "literal": "taraksaksi",
+    "wordType": "Noun",
+    "definitions": [
+      "dandelion"
+    ],
+    "syllables": [
+      2,
+      4,
+      7
+    ],
+    "ipa": "ˈtaʀaksaksi",
+    "examples": [],
+    "flexations": [
+      "taraksaksiň",
+      "taraksaksi",
+      "taraksaksen",
+      "taraksaksmaň",
+      "taraksaksim",
+      "taraksaksmen",
+      "taraksaksirň",
+      "taraksaksirn",
+      "taraksaksren",
+      "taraksaksšaň",
+      "taraksaksša",
+      "taraksaksšaen",
+      "taraksaksiňši",
+      "taraksaksši",
+      "taraksaksenši"
+    ]
+  },
+  {
+    "literal": "tarüon",
+    "wordType": "Noun",
+    "definitions": [
+      "item of clothing, (pl.) clothes"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈtaʀyɔn",
+    "examples": [],
+    "flexations": [
+      "tarüonaň",
+      "tarüon",
+      "tarüonen",
+      "tarüonmaň",
+      "tarüonüm",
+      "tarüonmen",
+      "tarüonarň",
+      "tarüonarn",
+      "tarüonren",
+      "tarüonšaň",
+      "tarüonša",
+      "tarüonšaen",
+      "tarüonaňši",
+      "tarüonši",
+      "tarüonenši"
+    ]
+  },
+  {
+    "literal": "tašenti",
+    "wordType": "Noun",
+    "definitions": [
+      "piano (instrument)"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈtaʃɜnti",
+    "examples": [],
+    "flexations": [
+      "tašentiň",
+      "tašenti",
+      "tašenten",
+      "tašentmaň",
+      "tašentim",
+      "tašentmen",
+      "tašentirň",
+      "tašentirn",
+      "tašentren",
+      "tašentšaň",
+      "tašentša",
+      "tašentšaen",
+      "tašentiňši",
+      "tašentši",
+      "tašentenši"
+    ]
+  },
+  {
+    "literal": "tauziler",
+    "wordType": "Noun",
+    "definitions": [
+      "thymus"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈta͜uzilɜʀ",
+    "examples": [],
+    "flexations": [
+      "tauzileraň",
+      "tauziler",
+      "tauzileren",
+      "tauzilermaň",
+      "tauzilerüm",
+      "tauzilermen",
+      "tauzilerarň",
+      "tauzilerarn",
+      "tauzilerren",
+      "tauzileršaň",
+      "tauzilerša",
+      "tauzileršaen",
+      "tauzileraňši",
+      "tauzilerši",
+      "tauzilerenši"
+    ]
+  },
+  {
+    "literal": "teibei",
+    "wordType": "Noun",
+    "definitions": [
+      "family"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtɜ͜ɪbɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "teibeiň",
+      "teibei",
+      "teibeen",
+      "teibemaň",
+      "teibeim",
+      "teibemen",
+      "teibeirň",
+      "teibeirn",
+      "teiberen",
+      "teibešaň",
+      "teibeša",
+      "teibešaen",
+      "teibeiňši",
+      "teibeši",
+      "teibeenši"
+    ]
+  },
+  {
+    "literal": "teibi",
+    "wordType": "Noun",
+    "definitions": [
+      "kin, family member"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtɜ͜ɪbi",
+    "examples": [],
+    "flexations": [
+      "teibiň",
+      "teibi",
+      "teiben",
+      "teibimaň",
+      "teibim",
+      "teibimen",
+      "teibirň",
+      "teibirn",
+      "teibiren",
+      "teibišaň",
+      "teibiša",
+      "teibišaen",
+      "teibiňši",
+      "teibiši",
+      "teibenši"
+    ]
+  },
+  {
+    "literal": "teirjua ski",
+    "wordType": "Noun",
+    "definitions": [
+      "quaternion"
+    ],
+    "syllables": [
+      4,
+      6
+    ],
+    "ipa": "ˈtɜ͜ɪʀjuʔa ski",
+    "examples": [],
+    "flexations": [
+      "teirjua skiň",
+      "teirjua ski",
+      "teirjua sken",
+      "teirjua skimaň",
+      "teirjua skim",
+      "teirjua skimen",
+      "teirjua skirň",
+      "teirjua skirn",
+      "teirjua skiren",
+      "teirjua skišaň",
+      "teirjua skiša",
+      "teirjua skišaen",
+      "teirjua skiňši",
+      "teirjua skiši",
+      "teirjua skenši"
+    ]
+  },
+  {
+    "literal": "teiržakti",
+    "wordType": "Noun",
+    "definitions": [
+      "quad (shape)"
+    ],
+    "syllables": [
+      4,
+      7
+    ],
+    "ipa": "ˈtɜ͜ɪʀʒakti",
+    "examples": [],
+    "flexations": [
+      "teiržaktiň",
+      "teiržakti",
+      "teiržakten",
+      "teiržaktmaň",
+      "teiržaktim",
+      "teiržaktmen",
+      "teiržaktirň",
+      "teiržaktirn",
+      "teiržaktren",
+      "teiržaktšaň",
+      "teiržaktša",
+      "teiržaktšaen",
+      "teiržaktiňši",
+      "teiržaktši",
+      "teiržaktenši"
+    ]
+  },
+  {
+    "literal": "telp",
+    "wordType": "Noun",
+    "definitions": [
+      "pencil"
+    ],
+    "syllables": [],
+    "ipa": "ˈtɜlp",
+    "examples": [],
+    "flexations": [
+      "telpaň",
+      "telp",
+      "telpen",
+      "telpmaň",
+      "telpüm",
+      "telpmen",
+      "telparň",
+      "telparn",
+      "telpren",
+      "telpšaň",
+      "telpša",
+      "telpšaen",
+      "telpaňši",
+      "telpši",
+      "telpenši"
+    ]
+  },
+  {
+    "literal": "telpelpe",
+    "wordType": "Noun",
+    "definitions": [
+      "stationery"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈtɜlpɜlpɜ",
+    "examples": [],
+    "flexations": [
+      "telpelpeň",
+      "telpelpe",
+      "telpelpeen",
+      "telpelpemaň",
+      "telpelpem",
+      "telpelpemen",
+      "telpelperň",
+      "telpelpern",
+      "telpelperen",
+      "telpelpešaň",
+      "telpelpeša",
+      "telpelpešaen",
+      "telpelpeňši",
+      "telpelpeši",
+      "telpelpeenši"
+    ]
+  },
+  {
+    "literal": "teňžjup",
+    "wordType": "Noun",
+    "definitions": [
+      "grey, gray"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtɜŋʒjʊp",
+    "examples": [],
+    "flexations": [
+      "teňžjupaň",
+      "teňžjup",
+      "teňžjupen",
+      "teňžjupmaň",
+      "teňžjupüm",
+      "teňžjupmen",
+      "teňžjuparň",
+      "teňžjuparn",
+      "teňžjupren",
+      "teňžjupšaň",
+      "teňžjupša",
+      "teňžjupšaen",
+      "teňžjupaňši",
+      "teňžjupši",
+      "teňžjupenši"
+    ]
+  },
+  {
+    "literal": "tfevi",
+    "wordType": "Noun",
+    "definitions": [
+      "shoe"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtfɜvi",
+    "examples": [],
+    "flexations": [
+      "tfeviň",
+      "tfevi",
+      "tfeven",
+      "tfevimaň",
+      "tfevim",
+      "tfevimen",
+      "tfevirň",
+      "tfevirn",
+      "tfeviren",
+      "tfevišaň",
+      "tfeviša",
+      "tfevišaen",
+      "tfeviňši",
+      "tfeviši",
+      "tfevenši"
+    ]
+  },
+  {
+    "literal": "thju",
+    "wordType": "Noun",
+    "definitions": [
+      "hug"
+    ],
+    "syllables": [],
+    "ipa": "ˈtçu",
+    "examples": [],
+    "flexations": [
+      "thjuň",
+      "thju",
+      "thjuen",
+      "thjumaň",
+      "thjum",
+      "thjumen",
+      "thjurň",
+      "thjurn",
+      "thjuren",
+      "thjušaň",
+      "thjuša",
+      "thjušaen",
+      "thjuňši",
+      "thjuši",
+      "thjuenši"
+    ]
+  },
+  {
+    "literal": "tidu",
+    "wordType": "Noun",
+    "definitions": [
+      "squid"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈtidu",
+    "examples": [],
+    "flexations": [
+      "tiduň",
+      "tidu",
+      "tiduen",
+      "tidumaň",
+      "tidum",
+      "tidumen",
+      "tidurň",
+      "tidurn",
+      "tiduren",
+      "tidušaň",
+      "tiduša",
+      "tidušaen",
+      "tiduňši",
+      "tiduši",
+      "tiduenši"
+    ]
+  },
+  {
+    "literal": "tiguai",
+    "wordType": "Noun",
+    "definitions": [
+      "seasoning"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈtigwaʔi",
+    "examples": [],
+    "flexations": [
+      "tiguaiň",
+      "tiguai",
+      "tiguaen",
+      "tiguamaň",
+      "tiguaim",
+      "tiguamen",
+      "tiguairň",
+      "tiguairn",
+      "tiguaren",
+      "tiguašaň",
+      "tiguaša",
+      "tiguašaen",
+      "tiguaiňši",
+      "tiguaši",
+      "tiguaenši"
+    ]
+  },
+  {
+    "literal": "tinai",
+    "wordType": "Noun",
+    "definitions": [
+      "modeler, shaper"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈtinaʔi",
+    "examples": [],
+    "flexations": [
+      "tinaiň",
+      "tinai",
+      "tinaen",
+      "tinamaň",
+      "tinaim",
+      "tinamen",
+      "tinairň",
+      "tinairn",
+      "tinaren",
+      "tinašaň",
+      "tinaša",
+      "tinašaen",
+      "tinaiňši",
+      "tinaši",
+      "tinaenši"
+    ]
+  },
+  {
+    "literal": "tinöm",
+    "wordType": "Noun",
+    "definitions": [
+      "nail"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈtinɶm",
+    "examples": [],
+    "flexations": [
+      "tinömaň",
+      "tinöm",
+      "tinömen",
+      "tinömmaň",
+      "tinömüm",
+      "tinömmen",
+      "tinömarň",
+      "tinömarn",
+      "tinömren",
+      "tinömšaň",
+      "tinömša",
+      "tinömšaen",
+      "tinömaňši",
+      "tinömši",
+      "tinömenši"
+    ]
+  },
+  {
+    "literal": "tišuli",
+    "wordType": "Noun",
+    "definitions": [
+      "win"
+    ],
+    "syllables": [],
+    "ipa": "ˈtɪʃʊli",
+    "examples": [],
+    "flexations": [
+      "tišuliň",
+      "tišuli",
+      "tišulen",
+      "tišulmaň",
+      "tišulim",
+      "tišulmen",
+      "tišulirň",
+      "tišulirn",
+      "tišulren",
+      "tišulšaň",
+      "tišulša",
+      "tišulšaen",
+      "tišuliňši",
+      "tišulši",
+      "tišulenši"
+    ]
+  },
+  {
+    "literal": "titškiblo",
+    "wordType": "Noun",
+    "definitions": [
+      "silverfish"
+    ],
+    "syllables": [
+      4,
+      6
+    ],
+    "ipa": "ˈtɪtʃkiblo",
+    "examples": [],
+    "flexations": [
+      "titškibloň",
+      "titškiblo",
+      "titškibloen",
+      "titškiblomaň",
+      "titškiblom",
+      "titškiblomen",
+      "titškiblorň",
+      "titškiblorn",
+      "titškibloren",
+      "titškiblošaň",
+      "titškibloša",
+      "titškiblošaen",
+      "titškibloňši",
+      "titškibloši",
+      "titškibloenši"
+    ]
+  },
+  {
+    "literal": "titšuidi",
+    "wordType": "Noun",
+    "definitions": [
+      "metallophone (instrument)"
+    ],
+    "syllables": [
+      2,
+      6
+    ],
+    "ipa": "ˈtɪtʃwidi",
+    "examples": [],
+    "flexations": [
+      "titšuidiň",
+      "titšuidi",
+      "titšuiden",
+      "titšuidimaň",
+      "titšuidim",
+      "titšuidimen",
+      "titšuidirň",
+      "titšuidirn",
+      "titšuidiren",
+      "titšuidišaň",
+      "titšuidiša",
+      "titšuidišaen",
+      "titšuidiňši",
+      "titšuidiši",
+      "titšuidenši"
+    ]
+  },
+  {
+    "literal": "tjadži",
+    "wordType": "Noun",
+    "definitions": [
+      "communication"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtjadʒi",
+    "examples": [],
+    "flexations": [
+      "tjadžiň",
+      "tjadži",
+      "tjadžen",
+      "tjadžimaň",
+      "tjadžim",
+      "tjadžimen",
+      "tjadžirň",
+      "tjadžirn",
+      "tjadžiren",
+      "tjadžišaň",
+      "tjadžiša",
+      "tjadžišaen",
+      "tjadžiňši",
+      "tjadžiši",
+      "tjadženši"
+    ]
+  },
+  {
+    "literal": "tjei",
+    "wordType": "Noun",
+    "definitions": [
+      "message"
+    ],
+    "syllables": [],
+    "ipa": "ˈtjɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "tjeiň",
+      "tjei",
+      "tjeen",
+      "tjemaň",
+      "tjeim",
+      "tjemen",
+      "tjeirň",
+      "tjeirn",
+      "tjeren",
+      "tješaň",
+      "tješa",
+      "tješaen",
+      "tjeiňši",
+      "tješi",
+      "tjeenši"
+    ]
+  },
+  {
+    "literal": "tjeirim",
+    "wordType": "Noun",
+    "definitions": [
+      "message channel, way, line"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈtjɜ͜ɪʀɪm",
+    "examples": [],
+    "flexations": [
+      "tjeirimaň",
+      "tjeirim",
+      "tjeirimen",
+      "tjeirimümaň",
+      "tjeirimüm",
+      "tjeirimümen",
+      "tjeirimarň",
+      "tjeirimarn",
+      "tjeirimren",
+      "tjeirimšaň",
+      "tjeirimša",
+      "tjeirimšaen",
+      "tjeirimaňši",
+      "tjeirimši",
+      "tjeirimenši"
+    ]
+  },
+  {
+    "literal": "tjini",
+    "wordType": "Noun",
+    "definitions": [
+      "connection"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtjini",
+    "examples": [],
+    "flexations": [
+      "tjiniň",
+      "tjini",
+      "tjinen",
+      "tjinmaň",
+      "tjinim",
+      "tjinmen",
+      "tjinirň",
+      "tjinirn",
+      "tjinren",
+      "tjinšaň",
+      "tjinša",
+      "tjinšaen",
+      "tjiniňši",
+      "tjinši",
+      "tjinenši"
+    ]
+  },
+  {
+    "literal": "tjoto",
+    "wordType": "Noun",
+    "definitions": [
+      "phone"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtjoto",
+    "examples": [],
+    "flexations": [
+      "tjotoň",
+      "tjoto",
+      "tjotoen",
+      "tjotomaň",
+      "tjotom",
+      "tjotomen",
+      "tjotorň",
+      "tjotorn",
+      "tjotoren",
+      "tjotošaň",
+      "tjotoša",
+      "tjotošaen",
+      "tjotoňši",
+      "tjotoši",
+      "tjotoenši"
+    ]
+  },
+  {
+    "literal": "toblo",
+    "wordType": "Noun",
+    "definitions": [
+      "key (for a lock)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈtoblo",
+    "examples": [],
+    "flexations": [
+      "tobloň",
+      "toblo",
+      "tobloen",
+      "toblomaň",
+      "toblom",
+      "toblomen",
+      "toblorň",
+      "toblorn",
+      "tobloren",
+      "toblošaň",
+      "tobloša",
+      "toblošaen",
+      "tobloňši",
+      "tobloši",
+      "tobloenši"
+    ]
+  },
+  {
+    "literal": "tobri",
+    "wordType": "Noun",
+    "definitions": [
+      "gradient, fade"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈtobʀi",
+    "examples": [],
+    "flexations": [
+      "tobriň",
+      "tobri",
+      "tobren",
+      "tobrimaň",
+      "tobrim",
+      "tobrimen",
+      "tobrirň",
+      "tobrirn",
+      "tobriren",
+      "tobrišaň",
+      "tobriša",
+      "tobrišaen",
+      "tobriňši",
+      "tobriši",
+      "tobrenši"
+    ]
+  },
+  {
+    "literal": "tofli",
+    "wordType": "Noun",
+    "definitions": [
+      "ice cream"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈtofli",
+    "examples": [],
+    "flexations": [
+      "tofliň",
+      "tofli",
+      "toflen",
+      "toflimaň",
+      "toflim",
+      "toflimen",
+      "toflirň",
+      "toflirn",
+      "tofliren",
+      "toflišaň",
+      "tofliša",
+      "toflišaen",
+      "tofliňši",
+      "tofliši",
+      "toflenši"
+    ]
+  },
+  {
+    "literal": "tofuo",
+    "wordType": "Noun",
+    "definitions": [
+      "pillow"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈtofuo",
+    "examples": [],
+    "flexations": [
+      "tofuoň",
+      "tofuo",
+      "tofuoen",
+      "tofuomaň",
+      "tofuom",
+      "tofuomen",
+      "tofuorň",
+      "tofuorn",
+      "tofuoren",
+      "tofuošaň",
+      "tofuoša",
+      "tofuošaen",
+      "tofuoňši",
+      "tofuoši",
+      "tofuoenši"
+    ]
+  },
+  {
+    "literal": "töimo",
+    "wordType": "Noun",
+    "definitions": [
+      "esophagus"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtɶ͜ɪmo",
+    "examples": [],
+    "flexations": [
+      "töimoň",
+      "töimo",
+      "töimoen",
+      "töimomaň",
+      "töimom",
+      "töimomen",
+      "töimorň",
+      "töimorn",
+      "töimoren",
+      "töimošaň",
+      "töimoša",
+      "töimošaen",
+      "töimoňši",
+      "töimoši",
+      "töimoenši"
+    ]
+  },
+  {
+    "literal": "toirui",
+    "wordType": "Noun",
+    "definitions": [
+      "plastic"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈtɔ͜ɪʀuʔi",
+    "examples": [],
+    "flexations": [
+      "toiruiň",
+      "toirui",
+      "toiruen",
+      "toirumaň",
+      "toiruim",
+      "toirumen",
+      "toiruirň",
+      "toiruirn",
+      "toiruren",
+      "toirušaň",
+      "toiruša",
+      "toirušaen",
+      "toiruiňši",
+      "toiruši",
+      "toiruenši"
+    ]
+  },
+  {
+    "literal": "tokuubi",
+    "wordType": "Noun",
+    "definitions": [
+      "palette"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈtokwubi",
+    "examples": [],
+    "flexations": [
+      "tokuubiň",
+      "tokuubi",
+      "tokuuben",
+      "tokuubimaň",
+      "tokuubim",
+      "tokuubimen",
+      "tokuubirň",
+      "tokuubirn",
+      "tokuubiren",
+      "tokuubišaň",
+      "tokuubiša",
+      "tokuubišaen",
+      "tokuubiňši",
+      "tokuubiši",
+      "tokuubenši"
+    ]
+  },
+  {
+    "literal": "tönt",
+    "wordType": "Noun",
+    "definitions": [
+      "group"
+    ],
+    "syllables": [],
+    "ipa": "ˈtɶnt",
+    "examples": [],
+    "flexations": [
+      "töntaň",
+      "tönt",
+      "tönten",
+      "töntmaň",
+      "töntüm",
+      "töntmen",
+      "töntarň",
+      "töntarn",
+      "töntren",
+      "töntšaň",
+      "töntša",
+      "töntšaen",
+      "töntaňši",
+      "töntši",
+      "töntenši"
+    ]
+  },
+  {
+    "literal": "tori",
+    "wordType": "Noun",
+    "definitions": [
+      "power, strength"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈtoʀi",
+    "examples": [],
+    "flexations": [
+      "toriň",
+      "tori",
+      "toren",
+      "tormaň",
+      "torim",
+      "tormen",
+      "torirň",
+      "torirn",
+      "toriren",
+      "toršaň",
+      "torša",
+      "toršaen",
+      "toriňši",
+      "torši",
+      "torenši"
+    ]
+  },
+  {
+    "literal": "torske",
+    "wordType": "Noun",
+    "definitions": [
+      "guard"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtɔʀske",
+    "examples": [],
+    "flexations": [
+      "torskeň",
+      "torske",
+      "torskeen",
+      "torskemaň",
+      "torskem",
+      "torskemen",
+      "torskerň",
+      "torskern",
+      "torskeren",
+      "torskešaň",
+      "torskeša",
+      "torskešaen",
+      "torskeňši",
+      "torskeši",
+      "torskeenši"
+    ]
+  },
+  {
+    "literal": "toumo",
+    "wordType": "Noun",
+    "definitions": [
+      "rib"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈto͜umo",
+    "examples": [],
+    "flexations": [
+      "toumoň",
+      "toumo",
+      "toumoen",
+      "toumomaň",
+      "toumom",
+      "toumomen",
+      "toumorň",
+      "toumorn",
+      "toumoren",
+      "toumošaň",
+      "toumoša",
+      "toumošaen",
+      "toumoňši",
+      "toumoši",
+      "toumoenši"
+    ]
+  },
+  {
+    "literal": "touro",
+    "wordType": "Noun",
+    "definitions": [
+      "large intestine"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈto͜uʀo",
+    "examples": [],
+    "flexations": [
+      "touroň",
+      "touro",
+      "touroen",
+      "touromaň",
+      "tourom",
+      "touromen",
+      "tourorň",
+      "tourorn",
+      "touroren",
+      "tourošaň",
+      "touroša",
+      "tourošaen",
+      "touroňši",
+      "touroši",
+      "touroenši"
+    ]
+  },
+  {
+    "literal": "traim",
+    "wordType": "Noun",
+    "definitions": [
+      "morning"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtʀaɪm",
+    "examples": [],
+    "flexations": [
+      "traimaň",
+      "traim",
+      "traimen",
+      "traimümaň",
+      "traimüm",
+      "traimümen",
+      "traimarň",
+      "traimarn",
+      "traimren",
+      "traimšaň",
+      "traimša",
+      "traimšaen",
+      "traimaňši",
+      "traimši",
+      "traimenši"
+    ]
+  },
+  {
+    "literal": "tremni",
+    "wordType": "Noun",
+    "definitions": [
+      "honor"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈtʀɜmni",
+    "examples": [],
+    "flexations": [
+      "tremniň",
+      "tremni",
+      "tremnen",
+      "tremnimaň",
+      "tremnim",
+      "tremnimen",
+      "tremnirň",
+      "tremnirn",
+      "tremniren",
+      "tremnišaň",
+      "tremniša",
+      "tremnišaen",
+      "tremniňši",
+      "tremniši",
+      "tremnenši"
+    ]
+  },
+  {
+    "literal": "trep",
+    "wordType": "Noun",
+    "definitions": [
+      "style"
+    ],
+    "syllables": [],
+    "ipa": "ˈtʀɜp",
+    "examples": [],
+    "flexations": [
+      "trepaň",
+      "trep",
+      "trepen",
+      "trepmaň",
+      "trepüm",
+      "trepmen",
+      "treparň",
+      "treparn",
+      "trepren",
+      "trepšaň",
+      "trepša",
+      "trepšaen",
+      "trepaňši",
+      "trepši",
+      "trepenši"
+    ]
+  },
+  {
+    "literal": "trum",
+    "wordType": "Noun",
+    "definitions": [
+      "remnant, ruin"
+    ],
+    "syllables": [],
+    "ipa": "ˈtʀʊm",
+    "examples": [],
+    "flexations": [
+      "trumaň",
+      "trum",
+      "trumen",
+      "trumümaň",
+      "trumüm",
+      "trumümen",
+      "trumarň",
+      "trumarn",
+      "trumren",
+      "trumšaň",
+      "trumša",
+      "trumšaen",
+      "trumaňši",
+      "trumši",
+      "trumenši"
+    ]
+  },
+  {
+    "literal": "tsii",
+    "wordType": "Noun",
+    "definitions": [
+      "scissors, shears"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtsiʔi",
+    "examples": [],
+    "flexations": [
+      "tsiiň",
+      "tsii",
+      "tsien",
+      "tsimaň",
+      "tsiim",
+      "tsimen",
+      "tsiirň",
+      "tsiirn",
+      "tsiren",
+      "tsišaň",
+      "tsiša",
+      "tsišaen",
+      "tsiiňši",
+      "tsiši",
+      "tsienši"
+    ]
+  },
+  {
+    "literal": "tšik",
+    "wordType": "Noun",
+    "definitions": [
+      "switch, lever"
+    ],
+    "syllables": [],
+    "ipa": "ˈtʃɪk",
+    "examples": [],
+    "flexations": [
+      "tšikaň",
+      "tšik",
+      "tšiken",
+      "tšikmaň",
+      "tšiküm",
+      "tšikmen",
+      "tšikarň",
+      "tšikarn",
+      "tšikren",
+      "tšikšaň",
+      "tšikša",
+      "tšikšaen",
+      "tšikaňši",
+      "tšikši",
+      "tšikenši"
+    ]
+  },
+  {
+    "literal": "tšöi",
+    "wordType": "Noun",
+    "definitions": [
+      "waist"
+    ],
+    "syllables": [],
+    "ipa": "ˈtʃɶ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "tšöiň",
+      "tšöi",
+      "tšöen",
+      "tšömaň",
+      "tšöim",
+      "tšömen",
+      "tšöirň",
+      "tšöirn",
+      "tšören",
+      "tšöšaň",
+      "tšöša",
+      "tšöšaen",
+      "tšöiňši",
+      "tšöši",
+      "tšöenši"
+    ]
+  },
+  {
+    "literal": "tsöpri",
+    "wordType": "Noun",
+    "definitions": [
+      "lightning"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈtsɶpʀi",
+    "examples": [],
+    "flexations": [
+      "tsöpriň",
+      "tsöpri",
+      "tsöpren",
+      "tsöprimaň",
+      "tsöprim",
+      "tsöprimen",
+      "tsöprirň",
+      "tsöprirn",
+      "tsöpriren",
+      "tsöprišaň",
+      "tsöpriša",
+      "tsöprišaen",
+      "tsöpriňši",
+      "tsöpriši",
+      "tsöprenši"
+    ]
+  },
+  {
+    "literal": "tšorpoe",
+    "wordType": "Noun",
+    "definitions": [
+      "offer"
+    ],
+    "syllables": [
+      4,
+      6
+    ],
+    "ipa": "ˈtʃɔʀpoɜ",
+    "examples": [],
+    "flexations": [
+      "tšorpoeň",
+      "tšorpoe",
+      "tšorpoeen",
+      "tšorpoemaň",
+      "tšorpoem",
+      "tšorpoemen",
+      "tšorpoerň",
+      "tšorpoern",
+      "tšorpoeren",
+      "tšorpoešaň",
+      "tšorpoeša",
+      "tšorpoešaen",
+      "tšorpoeňši",
+      "tšorpoeši",
+      "tšorpoeenši"
+    ]
+  },
+  {
+    "literal": "tšubuksi",
+    "wordType": "Noun",
+    "definitions": [
+      "sugarcane"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈtʃubʊksi",
+    "examples": [],
+    "flexations": [
+      "tšubuksiň",
+      "tšubuksi",
+      "tšubuksen",
+      "tšubuksmaň",
+      "tšubuksim",
+      "tšubuksmen",
+      "tšubuksirň",
+      "tšubuksirn",
+      "tšubuksren",
+      "tšubuksšaň",
+      "tšubuksša",
+      "tšubuksšaen",
+      "tšubuksiňši",
+      "tšubuksši",
+      "tšubuksenši"
+    ]
+  },
+  {
+    "literal": "tšurvii",
+    "wordType": "Noun",
+    "definitions": [
+      "dragon"
+    ],
+    "syllables": [
+      4,
+      6
+    ],
+    "ipa": "ˈtʃʊʀviʔi",
+    "examples": [],
+    "flexations": [
+      "tšurviiň",
+      "tšurvii",
+      "tšurvien",
+      "tšurvimaň",
+      "tšurviim",
+      "tšurvimen",
+      "tšurviirň",
+      "tšurviirn",
+      "tšurviren",
+      "tšurvišaň",
+      "tšurviša",
+      "tšurvišaen",
+      "tšurviiňši",
+      "tšurviši",
+      "tšurvienši"
+    ]
+  },
+  {
+    "literal": "tueimi",
+    "wordType": "Noun",
+    "definitions": [
+      "template"
+    ],
+    "syllables": [
+      4
+    ],
+    "ipa": "ˈtwɜ͜ɪmi",
+    "examples": [],
+    "flexations": [
+      "tueimiň",
+      "tueimi",
+      "tueimen",
+      "tueimimaň",
+      "tueimim",
+      "tueimimen",
+      "tueimirň",
+      "tueimirn",
+      "tueimren",
+      "tueimšaň",
+      "tueimša",
+      "tueimšaen",
+      "tueimiňši",
+      "tueimši",
+      "tueimenši"
+    ]
+  },
+  {
+    "literal": "tufiks",
+    "wordType": "Noun",
+    "definitions": [
+      "function, purpose"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈtʊfɪks",
+    "examples": [],
+    "flexations": [
+      "tufiksaň",
+      "tufiks",
+      "tufiksen",
+      "tufiksmaň",
+      "tufiksüm",
+      "tufiksmen",
+      "tufiksarň",
+      "tufiksarn",
+      "tufiksren",
+      "tufiksšaň",
+      "tufiksša",
+      "tufiksšaen",
+      "tufiksaňši",
+      "tufiksši",
+      "tufiksenši"
+    ]
+  },
+  {
+    "literal": "tükumi",
+    "wordType": "Noun",
+    "definitions": [
+      "compass"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈtykumi",
+    "examples": [],
+    "flexations": [
+      "tükumiň",
+      "tükumi",
+      "tükumen",
+      "tükumimaň",
+      "tükumim",
+      "tükumimen",
+      "tükumirň",
+      "tükumirn",
+      "tükumren",
+      "tükumšaň",
+      "tükumša",
+      "tükumšaen",
+      "tükumiňši",
+      "tükumši",
+      "tükumenši"
+    ]
+  },
+  {
+    "literal": "tuto",
+    "wordType": "Noun",
+    "definitions": [
+      "end"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈtuto",
+    "examples": [],
+    "flexations": [
+      "tutoň",
+      "tuto",
+      "tutoen",
+      "tutomaň",
+      "tutom",
+      "tutomen",
+      "tutorň",
+      "tutorn",
+      "tutoren",
+      "tutošaň",
+      "tutoša",
+      "tutošaen",
+      "tutoňši",
+      "tutoši",
+      "tutoenši"
+    ]
+  },
+  {
+    "literal": "tuzi",
+    "wordType": "Noun",
+    "definitions": [
+      "color"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈtuzi",
+    "examples": [],
+    "flexations": [
+      "tuziň",
+      "tuzi",
+      "tuzen",
+      "tuzimaň",
+      "tuzim",
+      "tuzimen",
+      "tuzirň",
+      "tuzirn",
+      "tuziren",
+      "tuzišaň",
+      "tuziša",
+      "tuzišaen",
+      "tuziňši",
+      "tuziši",
+      "tuzenši"
+    ]
+  },
+  {
+    "literal": "tuzumi",
+    "wordType": "Noun",
+    "definitions": [
+      "painting"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈtuzumi",
+    "examples": [],
+    "flexations": [
+      "tuzumiň",
+      "tuzumi",
+      "tuzumen",
+      "tuzumimaň",
+      "tuzumim",
+      "tuzumimen",
+      "tuzumirň",
+      "tuzumirn",
+      "tuzumiren",
+      "tuzumišaň",
+      "tuzumiša",
+      "tuzumišaen",
+      "tuzumiňši",
+      "tuzumiši",
+      "tuzumenši"
+    ]
+  },
+  {
+    "literal": "ubatrikes",
+    "wordType": "Noun",
+    "definitions": [
+      "navigation"
+    ],
+    "syllables": [
+      1,
+      3,
+      6
+    ],
+    "ipa": "ˈubatʀikɜs",
+    "examples": [],
+    "flexations": [
+      "ubatrikesaň",
+      "ubatrikes",
+      "ubatrikesen",
+      "ubatrikesmaň",
+      "ubatrikesüm",
+      "ubatrikesmen",
+      "ubatrikesarň",
+      "ubatrikesarn",
+      "ubatrikesren",
+      "ubatrikesšaň",
+      "ubatrikesša",
+      "ubatrikesšaen",
+      "ubatrikesaňši",
+      "ubatrikesši",
+      "ubatrikesenši"
+    ]
+  },
+  {
+    "literal": "ubitri",
+    "wordType": "Noun",
+    "definitions": [
+      "transportation"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈubitʀi",
+    "examples": [],
+    "flexations": [
+      "ubitriň",
+      "ubitri",
+      "ubitren",
+      "ubitrmaň",
+      "ubitrim",
+      "ubitrimen",
+      "ubitrirň",
+      "ubitrirn",
+      "ubitriren",
+      "ubitrišaň",
+      "ubitriša",
+      "ubitrišaen",
+      "ubitriňši",
+      "ubitriši",
+      "ubitrenši"
+    ]
+  },
+  {
+    "literal": "ubophu",
+    "wordType": "Noun",
+    "definitions": [
+      "nostril"
+    ],
+    "syllables": [
+      1,
+      4
+    ],
+    "ipa": "ˈubɔphu",
+    "examples": [],
+    "flexations": [
+      "ubophuň",
+      "ubophu",
+      "ubophuen",
+      "ubophumaň",
+      "ubophum",
+      "ubophumen",
+      "ubophurň",
+      "ubophurn",
+      "ubophuren",
+      "ubophušaň",
+      "ubophuša",
+      "ubophušaen",
+      "ubophuňši",
+      "ubophuši",
+      "ubophuenši"
+    ]
+  },
+  {
+    "literal": "üdiki",
+    "wordType": "Noun",
+    "definitions": [
+      "slot, blank"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈydiki",
+    "examples": [],
+    "flexations": [
+      "üdikiň",
+      "üdiki",
+      "üdiken",
+      "üdikmaň",
+      "üdikim",
+      "üdikmen",
+      "üdikirň",
+      "üdikirn",
+      "üdikren",
+      "üdikšaň",
+      "üdikša",
+      "üdikšaen",
+      "üdikiňši",
+      "üdikši",
+      "üdikenši"
+    ]
+  },
+  {
+    "literal": "uejero",
+    "wordType": "Noun",
+    "definitions": [
+      "coccyx"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈwɜjɜʀo",
+    "examples": [],
+    "flexations": [
+      "uejeroň",
+      "uejero",
+      "uejeroen",
+      "uejeromaň",
+      "uejerom",
+      "uejeromen",
+      "uejerorň",
+      "uejerorn",
+      "uejeroren",
+      "uejerošaň",
+      "uejeroša",
+      "uejerošaen",
+      "uejeroňši",
+      "uejeroši",
+      "uejeroenši"
+    ]
+  },
+  {
+    "literal": "ueli",
+    "wordType": "Noun",
+    "definitions": [
+      "lower leg"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈwɜli",
+    "examples": [],
+    "flexations": [
+      "ueliň",
+      "ueli",
+      "uelen",
+      "uelmaň",
+      "uelim",
+      "uelmen",
+      "uelirň",
+      "uelirn",
+      "uelren",
+      "uelšaň",
+      "uelša",
+      "uelšaen",
+      "ueliňši",
+      "uelši",
+      "uelenši"
+    ]
+  },
+  {
+    "literal": "uendriš",
+    "wordType": "Noun",
+    "definitions": [
+      "wolf"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈwɜndʀɪʃ",
+    "examples": [],
+    "flexations": [
+      "uendrišaň",
+      "uendriš",
+      "uendrišen",
+      "uendrišmaň",
+      "uendrišüm",
+      "uendrišmen",
+      "uendrišarň",
+      "uendrišarn",
+      "uendrišren",
+      "uendrišaň",
+      "uendriša",
+      "uendrišaen",
+      "uendrišaňši",
+      "uendriši",
+      "uendrišenši"
+    ]
+  },
+  {
+    "literal": "üenli",
+    "wordType": "Noun",
+    "definitions": [
+      "scale, size"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈyʔɜnli",
+    "examples": [],
+    "flexations": [
+      "üenliň",
+      "üenli",
+      "üenlen",
+      "üenlimaň",
+      "üenlim",
+      "üenlimen",
+      "üenlirň",
+      "üenlirn",
+      "üenliren",
+      "üenlišaň",
+      "üenliša",
+      "üenlišaen",
+      "üenliňši",
+      "üenliši",
+      "üenlenši"
+    ]
+  },
+  {
+    "literal": "uevai",
+    "wordType": "Noun",
+    "definitions": [
+      "vagina"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈwɜvaʔi",
+    "examples": [],
+    "flexations": [
+      "uevaiň",
+      "uevai",
+      "uevaen",
+      "uevamaň",
+      "uevaim",
+      "uevamen",
+      "uevairň",
+      "uevairn",
+      "uevaren",
+      "uevašaň",
+      "uevaša",
+      "uevašaen",
+      "uevaiňši",
+      "uevaši",
+      "uevaenši"
+    ]
+  },
+  {
+    "literal": "üfilu",
+    "wordType": "Noun",
+    "definitions": [
+      "harmony"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈyfilu",
+    "examples": [],
+    "flexations": [
+      "üfiluň",
+      "üfilu",
+      "üfiluen",
+      "üfilumaň",
+      "üfilum",
+      "üfilumen",
+      "üfilurň",
+      "üfilurn",
+      "üfiluren",
+      "üfilušaň",
+      "üfiluša",
+      "üfilušaen",
+      "üfiluňši",
+      "üfiluši",
+      "üfiluenši"
+    ]
+  },
+  {
+    "literal": "uhi",
+    "wordType": "Noun",
+    "definitions": [
+      "corner"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈuhi",
+    "examples": [],
+    "flexations": [
+      "uhiň",
+      "uhi",
+      "uhen",
+      "uhimaň",
+      "uhim",
+      "uhimen",
+      "uhirň",
+      "uhirn",
+      "uhiren",
+      "uhišaň",
+      "uhiša",
+      "uhišaen",
+      "uhiňši",
+      "uhiši",
+      "uhenši"
+    ]
+  },
+  {
+    "literal": "uhuro",
+    "wordType": "Noun",
+    "definitions": [
+      "fibula"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈuhuʀo",
+    "examples": [],
+    "flexations": [
+      "uhuroň",
+      "uhuro",
+      "uhuroen",
+      "uhuromaň",
+      "uhurom",
+      "uhuromen",
+      "uhurorň",
+      "uhurorn",
+      "uhuroren",
+      "uhurošaň",
+      "uhuroša",
+      "uhurošaen",
+      "uhuroňši",
+      "uhuroši",
+      "uhuroenši"
+    ]
+  },
+  {
+    "literal": "üikeni",
+    "wordType": "Noun",
+    "definitions": [
+      "matrix"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈʏ͜ɪkeni",
+    "examples": [],
+    "flexations": [
+      "üikeniň",
+      "üikeni",
+      "üikenen",
+      "üikenmaň",
+      "üikenim",
+      "üikenmen",
+      "üikenirň",
+      "üikenirn",
+      "üikenren",
+      "üikenšaň",
+      "üikenša",
+      "üikenšaen",
+      "üikeniňši",
+      "üikenši",
+      "üikenenši"
+    ]
+  },
+  {
+    "literal": "uiri",
+    "wordType": "Noun",
+    "definitions": [
+      "demon"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈwiʀi",
+    "examples": [],
+    "flexations": [
+      "uiriň",
+      "uiri",
+      "uiren",
+      "uirimaň",
+      "uirim",
+      "uirimen",
+      "uirirň",
+      "uirirn",
+      "uiriren",
+      "uirišaň",
+      "uiriša",
+      "uirišaen",
+      "uiriňši",
+      "uiriši",
+      "uirenši"
+    ]
+  },
+  {
+    "literal": "üjum",
+    "wordType": "Noun",
+    "definitions": [
+      "sperm cell"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈyjum",
+    "examples": [],
+    "flexations": [
+      "üjumaň",
+      "üjum",
+      "üjumen",
+      "üjumümaň",
+      "üjumüm",
+      "üjumümen",
+      "üjumarň",
+      "üjumarn",
+      "üjumren",
+      "üjumšaň",
+      "üjumša",
+      "üjumšaen",
+      "üjumaňši",
+      "üjumši",
+      "üjumenši"
+    ]
+  },
+  {
+    "literal": "üjuti",
+    "wordType": "Noun",
+    "definitions": [
+      "vector"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈyjuti",
+    "examples": [],
+    "flexations": [
+      "üjutiň",
+      "üjuti",
+      "üjuten",
+      "üjutmaň",
+      "üjutim",
+      "üjutmen",
+      "üjutirň",
+      "üjutirn",
+      "üjutren",
+      "üjutšaň",
+      "üjutša",
+      "üjutšaen",
+      "üjutiňši",
+      "üjutši",
+      "üjutenši"
+    ]
+  },
+  {
+    "literal": "üki",
+    "wordType": "Noun",
+    "definitions": [
+      "effect"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈyki",
+    "examples": [],
+    "flexations": [
+      "ükiň",
+      "üki",
+      "üken",
+      "ükmaň",
+      "ükim",
+      "ükmen",
+      "ükirň",
+      "ükirn",
+      "ükren",
+      "ükšaň",
+      "ükša",
+      "ükšaen",
+      "ükiňši",
+      "ükši",
+      "ükenši"
+    ]
+  },
+  {
+    "literal": "ukuks",
+    "wordType": "Noun",
+    "definitions": [
+      "clock"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈukʊks",
+    "examples": [],
+    "flexations": [
+      "ukuksaň",
+      "ukuks",
+      "ukuksen",
+      "ukuksmaň",
+      "ukuksüm",
+      "ukuksmen",
+      "ukuksarň",
+      "ukuksarn",
+      "ukuksren",
+      "ukuksšaň",
+      "ukuksša",
+      "ukuksšaen",
+      "ukuksaňši",
+      "ukuksši",
+      "ukuksenši"
+    ]
+  },
+  {
+    "literal": "ultedi",
+    "wordType": "Noun",
+    "definitions": [
+      "idiot"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈʊltɜdi",
+    "examples": [],
+    "flexations": [
+      "ultediň",
+      "ultedi",
+      "ulteden",
+      "ultedimaň",
+      "ultedim",
+      "ultedimen",
+      "ultedirň",
+      "ultedirn",
+      "ultediren",
+      "ultedišaň",
+      "ultediša",
+      "ultedišaen",
+      "ultediňši",
+      "ultediši",
+      "ultedenši"
+    ]
+  },
+  {
+    "literal": "umf",
+    "wordType": "Noun",
+    "definitions": [
+      "steel"
+    ],
+    "syllables": [],
+    "ipa": "ˈʊmf",
+    "examples": [],
+    "flexations": [
+      "umfaň",
+      "umf",
+      "umfen",
+      "umfmaň",
+      "umfüm",
+      "umfmen",
+      "umfarň",
+      "umfarn",
+      "umfren",
+      "umfšaň",
+      "umfša",
+      "umfšaen",
+      "umfaňši",
+      "umfši",
+      "umfenši"
+    ]
+  },
+  {
+    "literal": "un",
+    "wordType": "Noun",
+    "definitions": [
+      "hour"
+    ],
+    "syllables": [],
+    "ipa": "ˈʊn",
+    "examples": [],
+    "flexations": [
+      "unaň",
+      "un",
+      "unen",
+      "unmaň",
+      "unüm",
+      "unmen",
+      "unarň",
+      "unarn",
+      "unren",
+      "unšaň",
+      "unša",
+      "unšaen",
+      "unaňši",
+      "unši",
+      "unenši"
+    ]
+  },
+  {
+    "literal": "üňel",
+    "wordType": "Noun",
+    "definitions": [
+      "flower"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈʏŋɜl",
+    "examples": [],
+    "flexations": [
+      "üňelaň",
+      "üňel",
+      "üňelen",
+      "üňelmaň",
+      "üňelüm",
+      "üňelmen",
+      "üňelarň",
+      "üňelarn",
+      "üňelren",
+      "üňelšaň",
+      "üňelša",
+      "üňelšaen",
+      "üňelaňši",
+      "üňelši",
+      "üňelenši"
+    ]
+  },
+  {
+    "literal": "unfalei",
+    "wordType": "Noun",
+    "definitions": [
+      "knockback, kickback"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈʊnfalɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "unfaleiň",
+      "unfalei",
+      "unfaleen",
+      "unfalemaň",
+      "unfaleim",
+      "unfalemen",
+      "unfaleirň",
+      "unfaleirn",
+      "unfaleren",
+      "unfalešaň",
+      "unfaleša",
+      "unfalešaen",
+      "unfaleiňši",
+      "unfaleši",
+      "unfaleenši"
+    ]
+  },
+  {
+    "literal": "ünili",
+    "wordType": "Noun",
+    "definitions": [
+      "list"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈynili",
+    "examples": [],
+    "flexations": [
+      "üniliň",
+      "ünili",
+      "ünilen",
+      "ünilmaň",
+      "ünilim",
+      "ünilmen",
+      "ünilirň",
+      "ünilirn",
+      "ünilren",
+      "ünilšaň",
+      "ünilša",
+      "ünilšaen",
+      "üniliňši",
+      "ünilši",
+      "ünilenši"
+    ]
+  },
+  {
+    "literal": "üňku",
+    "wordType": "Noun",
+    "definitions": [
+      "tree"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʏŋku",
+    "examples": [],
+    "flexations": [
+      "üňkuň",
+      "üňku",
+      "üňkuen",
+      "üňkumaň",
+      "üňkum",
+      "üňkumen",
+      "üňkurň",
+      "üňkurn",
+      "üňkuren",
+      "üňkušaň",
+      "üňkuša",
+      "üňkušaen",
+      "üňkuňši",
+      "üňkuši",
+      "üňkuenši"
+    ]
+  },
+  {
+    "literal": "üňkuňke",
+    "wordType": "Noun",
+    "definitions": [
+      "forest"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈʏŋkʊŋkɜ",
+    "examples": [],
+    "flexations": [
+      "üňkuňkeň",
+      "üňkuňke",
+      "üňkuňkeen",
+      "üňkuňkemaň",
+      "üňkuňkem",
+      "üňkuňkemen",
+      "üňkuňkerň",
+      "üňkuňkern",
+      "üňkuňkeren",
+      "üňkuňkešaň",
+      "üňkuňkeša",
+      "üňkuňkešaen",
+      "üňkuňkeňši",
+      "üňkuňkeši",
+      "üňkuňkeenši"
+    ]
+  },
+  {
+    "literal": "ünzi",
+    "wordType": "Noun",
+    "definitions": [
+      "enemy"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʏnzi",
+    "examples": [],
+    "flexations": [
+      "ünziň",
+      "ünzi",
+      "ünzen",
+      "ünzimaň",
+      "ünzim",
+      "ünzimen",
+      "ünzirň",
+      "ünzirn",
+      "ünziren",
+      "ünzišaň",
+      "ünziša",
+      "ünzišaen",
+      "ünziňši",
+      "ünziši",
+      "ünzenši"
+    ]
+  },
+  {
+    "literal": "uösti",
+    "wordType": "Noun",
+    "definitions": [
+      "danger"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈwɶsti",
+    "examples": [],
+    "flexations": [
+      "uöstiň",
+      "uösti",
+      "uösten",
+      "uöstmaň",
+      "uöstim",
+      "uöstmen",
+      "uöstirň",
+      "uöstirn",
+      "uöstren",
+      "uöstšaň",
+      "uöstša",
+      "uöstšaen",
+      "uöstiňši",
+      "uöstši",
+      "uöstenši"
+    ]
+  },
+  {
+    "literal": "üratri",
+    "wordType": "Noun",
+    "definitions": [
+      "testicle"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈyʀatʀi",
+    "examples": [],
+    "flexations": [
+      "üratriň",
+      "üratri",
+      "üratren",
+      "üratrimaň",
+      "üratrim",
+      "üratrimen",
+      "üratrirň",
+      "üratrirn",
+      "üratriren",
+      "üratrišaň",
+      "üratriša",
+      "üratrišaen",
+      "üratriňši",
+      "üratriši",
+      "üratrenši"
+    ]
+  },
+  {
+    "literal": "urhjrjušti",
+    "wordType": "Noun",
+    "definitions": [
+      "squirrel"
+    ],
+    "syllables": [
+      4,
+      7
+    ],
+    "ipa": "ˈʊʀçʀjuʃti",
+    "examples": [],
+    "flexations": [
+      "urhjrjuštiň",
+      "urhjrjušti",
+      "urhjrjušten",
+      "urhjrjuštmaň",
+      "urhjrjuštim",
+      "urhjrjuštmen",
+      "urhjrjuštirň",
+      "urhjrjuštirn",
+      "urhjrjuštren",
+      "urhjrjuštšaň",
+      "urhjrjuštša",
+      "urhjrjuštšaen",
+      "urhjrjuštiňši",
+      "urhjrjuštši",
+      "urhjrjuštenši"
+    ]
+  },
+  {
+    "literal": "ürion",
+    "wordType": "Noun",
+    "definitions": [
+      "menu"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈyʀiɔn",
+    "examples": [],
+    "flexations": [
+      "ürionaň",
+      "ürion",
+      "ürionen",
+      "ürionmaň",
+      "ürionüm",
+      "ürionmen",
+      "ürionarň",
+      "ürionarn",
+      "ürionren",
+      "ürionšaň",
+      "ürionša",
+      "ürionšaen",
+      "ürionaňši",
+      "ürionši",
+      "ürionenši"
+    ]
+  },
+  {
+    "literal": "urlfai",
+    "wordType": "Noun",
+    "definitions": [
+      "monster",
+      "stalker"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʊʀlfaʔi",
+    "examples": [],
+    "flexations": [
+      "urlfaiň",
+      "urlfai",
+      "urlfaen",
+      "urlfamaň",
+      "urlfaim",
+      "urlfamen",
+      "urlfairň",
+      "urlfairn",
+      "urlfaren",
+      "urlfašaň",
+      "urlfaša",
+      "urlfašaen",
+      "urlfaiňši",
+      "urlfaši",
+      "urlfaenši"
+    ]
+  },
+  {
+    "literal": "ürljon",
+    "wordType": "Noun",
+    "definitions": [
+      "helmet"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʏʀljɔn",
+    "examples": [],
+    "flexations": [
+      "ürljonaň",
+      "ürljon",
+      "ürljonen",
+      "ürljonmaň",
+      "ürljonüm",
+      "ürljonmen",
+      "ürljonarň",
+      "ürljonarn",
+      "ürljonren",
+      "ürljonšaň",
+      "ürljonša",
+      "ürljonšaen",
+      "ürljonaňši",
+      "ürljonši",
+      "ürljonenši"
+    ]
+  },
+  {
+    "literal": "ürňjo",
+    "wordType": "Noun",
+    "definitions": [
+      "root"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʏʀŋjo",
+    "examples": [],
+    "flexations": [
+      "ürňjoň",
+      "ürňjo",
+      "ürňjoen",
+      "ürňjomaň",
+      "ürňjom",
+      "ürňjomen",
+      "ürňjorň",
+      "ürňjorn",
+      "ürňjoren",
+      "ürňjošaň",
+      "ürňjoša",
+      "ürňjošaen",
+      "ürňjoňši",
+      "ürňjoši",
+      "ürňjoenši"
+    ]
+  },
+  {
+    "literal": "usi",
+    "wordType": "Noun",
+    "definitions": [
+      "love"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈusi",
+    "examples": [],
+    "flexations": [
+      "usiň",
+      "usi",
+      "usen",
+      "usmaň",
+      "usim",
+      "usmen",
+      "usirň",
+      "usirn",
+      "usren",
+      "usšaň",
+      "usša",
+      "usšaen",
+      "usiňši",
+      "usši",
+      "usenši"
+    ]
+  },
+  {
+    "literal": "üsidus",
+    "wordType": "Noun",
+    "definitions": [
+      "pity"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈysidʊs",
+    "examples": [],
+    "flexations": [
+      "üsidusaň",
+      "üsidus",
+      "üsidusen",
+      "üsidusmaň",
+      "üsidusüm",
+      "üsidusmen",
+      "üsidusarň",
+      "üsidusarn",
+      "üsidusren",
+      "üsidusšaň",
+      "üsidusša",
+      "üsidusšaen",
+      "üsidusaňši",
+      "üsidusši",
+      "üsidusenši"
+    ]
+  },
+  {
+    "literal": "utekri",
+    "wordType": "Noun",
+    "definitions": [
+      "llama"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈutɜkʀi",
+    "examples": [],
+    "flexations": [
+      "utekriň",
+      "utekri",
+      "utekren",
+      "utekrimaň",
+      "utekrim",
+      "utekrimen",
+      "utekrirň",
+      "utekrirn",
+      "utekriren",
+      "utekrišaň",
+      "utekriša",
+      "utekrišaen",
+      "utekriňši",
+      "utekriši",
+      "utekrenši"
+    ]
+  },
+  {
+    "literal": "utsui",
+    "wordType": "Noun",
+    "definitions": [
+      "core"
+    ],
+    "syllables": [
+      1,
+      4
+    ],
+    "ipa": "ˈʊtsui",
+    "examples": [],
+    "flexations": [
+      "utsuiň",
+      "utsui",
+      "utsuen",
+      "utsumaň",
+      "utsuim",
+      "utsumen",
+      "utsuirň",
+      "utsuirn",
+      "utsuren",
+      "utsušaň",
+      "utsuša",
+      "utsušaen",
+      "utsuiňši",
+      "utsuši",
+      "utsuenši"
+    ]
+  },
+  {
+    "literal": "uvei",
+    "wordType": "Noun",
+    "definitions": [
+      "future"
+    ],
+    "syllables": [
+      1
+    ],
+    "ipa": "ˈuvɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "uveiň",
+      "uvei",
+      "uveen",
+      "uveimaň",
+      "uveim",
+      "uveimen",
+      "uveirň",
+      "uveirn",
+      "uveiren",
+      "uveišaň",
+      "uveiša",
+      "uveišaen",
+      "uveiňši",
+      "uveiši",
+      "uveenši"
+    ]
+  },
+  {
+    "literal": "užadi",
+    "wordType": "Noun",
+    "definitions": [
+      "oven, furnace"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈuʒadi",
+    "examples": [],
+    "flexations": [
+      "užadiň",
+      "užadi",
+      "užaden",
+      "užadimaň",
+      "užadim",
+      "užadimen",
+      "užadirň",
+      "užadirn",
+      "užadiren",
+      "užadišaň",
+      "užadiša",
+      "užadišaen",
+      "užadiňši",
+      "užadiši",
+      "užadenši"
+    ]
+  },
+  {
+    "literal": "vabera",
+    "wordType": "Adjective",
+    "definitions": [
+      "tropic"
+    ],
+    "syllables": [],
+    "ipa": "ˈvabeʀa",
+    "examples": [],
+    "flexations": [
+      "vabera",
+      "vaberagua",
+      "vaberahia",
+      "vaberaňa"
+    ]
+  },
+  {
+    "literal": "vai",
+    "wordType": "Noun",
+    "definitions": [
+      "womb, uterus"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈvaʔi",
+    "examples": [],
+    "flexations": [
+      "vaiň",
+      "vai",
+      "vaen",
+      "vaimaň",
+      "vaim",
+      "vaimen",
+      "vairň",
+      "vairn",
+      "vairen",
+      "vaišaň",
+      "vaiša",
+      "vaišaen",
+      "vaiňši",
+      "vaiši",
+      "vaenši"
+    ]
+  },
+  {
+    "literal": "varlets",
+    "wordType": "Noun",
+    "definitions": [
+      "fence"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈvaʀlɜts",
+    "examples": [],
+    "flexations": [
+      "varletsaň",
+      "varlets",
+      "varletsen",
+      "varletsmaň",
+      "varletsüm",
+      "varletsmen",
+      "varletsarň",
+      "varletsarn",
+      "varletsren",
+      "varletsšaň",
+      "varletsša",
+      "varletsšaen",
+      "varletsaňši",
+      "varletsši",
+      "varletsenši"
+    ]
+  },
+  {
+    "literal": "varu",
+    "wordType": "Noun",
+    "definitions": [
+      "wish"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈvaʀu",
+    "examples": [],
+    "flexations": [
+      "varuň",
+      "varu",
+      "varuen",
+      "varumaň",
+      "varum",
+      "varumen",
+      "varurň",
+      "varurn",
+      "varuren",
+      "varušaň",
+      "varuša",
+      "varušaen",
+      "varuňši",
+      "varuši",
+      "varuenši"
+    ]
+  },
+  {
+    "literal": "vauvi",
+    "wordType": "Noun",
+    "definitions": [
+      "companion"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈva͜uvi",
+    "examples": [],
+    "flexations": [
+      "vauviň",
+      "vauvi",
+      "vauven",
+      "vauvimaň",
+      "vauvim",
+      "vauvimen",
+      "vauvirň",
+      "vauvirn",
+      "vauviren",
+      "vauvišaň",
+      "vauviša",
+      "vauvišaen",
+      "vauviňši",
+      "vauviši",
+      "vauvenši"
+    ]
+  },
+  {
+    "literal": "vave",
+    "wordType": "Noun",
+    "definitions": [
+      "center, middle"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈvavɜ",
+    "examples": [],
+    "flexations": [
+      "vaveň",
+      "vave",
+      "vaveen",
+      "vavemaň",
+      "vavem",
+      "vavemen",
+      "vaverň",
+      "vavern",
+      "vaveren",
+      "vavešaň",
+      "vaveša",
+      "vavešaen",
+      "vaveňši",
+      "vaveši",
+      "vaveenši"
+    ]
+  },
+  {
+    "literal": "vavenbik",
+    "wordType": "Noun",
+    "definitions": [
+      "city center"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈvavɜnbɪk",
+    "examples": [],
+    "flexations": [
+      "vavenbikaň",
+      "vavenbik",
+      "vavenbiken",
+      "vavenbikmaň",
+      "vavenbiküm",
+      "vavenbikmen",
+      "vavenbikarň",
+      "vavenbikarn",
+      "vavenbikren",
+      "vavenbikšaň",
+      "vavenbikša",
+      "vavenbikšaen",
+      "vavenbikaňši",
+      "vavenbikši",
+      "vavenbikenši"
+    ]
+  },
+  {
+    "literal": "veleöhii",
+    "wordType": "Noun",
+    "definitions": [
+      "passenger"
+    ],
+    "syllables": [
+      2,
+      4,
+      5,
+      7
+    ],
+    "ipa": "ˈvelɜʔɶhiʔi",
+    "examples": [],
+    "flexations": [
+      "veleöhiiň",
+      "veleöhii",
+      "veleöhien",
+      "veleöhimaň",
+      "veleöhiim",
+      "veleöhimen",
+      "veleöhiirň",
+      "veleöhiirn",
+      "veleöhiren",
+      "veleöhišaň",
+      "veleöhiša",
+      "veleöhišaen",
+      "veleöhiiňši",
+      "veleöhiši",
+      "veleöhienši"
+    ]
+  },
+  {
+    "literal": "velkör",
+    "wordType": "Noun",
+    "definitions": [
+      "minecart"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈvɜlkɶʀ",
+    "examples": [],
+    "flexations": [
+      "velköraň",
+      "velkör",
+      "velkören",
+      "velkörmaň",
+      "velkörüm",
+      "velkörmen",
+      "velkörarň",
+      "velkörarn",
+      "velkörren",
+      "velköršaň",
+      "velkörša",
+      "velköršaen",
+      "velköraňši",
+      "velkörši",
+      "velkörenši"
+    ]
+  },
+  {
+    "literal": "vemlöi",
+    "wordType": "Noun",
+    "definitions": [
+      "example"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈvɜmlɶ͜ɪ",
+    "examples": [
+      [
+        "vemlöen",
+        "examples (haha get it it's the same as the section)"
+      ]
+    ],
+    "flexations": [
+      "vemlöiň",
+      "vemlöi",
+      "vemlöen",
+      "vemlömaň",
+      "vemlöim",
+      "vemlömen",
+      "vemlöirň",
+      "vemlöirn",
+      "vemlören",
+      "vemlöšaň",
+      "vemlöša",
+      "vemlöšaen",
+      "vemlöiňši",
+      "vemlöši",
+      "vemlöenši"
+    ]
+  },
+  {
+    "literal": "venle",
+    "wordType": "Noun",
+    "definitions": [
+      "train"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈvɜnlɜ",
+    "examples": [],
+    "flexations": [
+      "venleň",
+      "venle",
+      "venleen",
+      "venlemaň",
+      "venlem",
+      "venlemen",
+      "venlerň",
+      "venlern",
+      "venleren",
+      "venlešaň",
+      "venleša",
+      "venlešaen",
+      "venleňši",
+      "venleši",
+      "venleenši"
+    ]
+  },
+  {
+    "literal": "venlenikubi",
+    "wordType": "Noun",
+    "definitions": [
+      "train station"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈvɜnlɜnikubi",
+    "examples": [],
+    "flexations": [
+      "venlenikubiň",
+      "venlenikubi",
+      "venlenikuben",
+      "venlenikubimaň",
+      "venlenikubim",
+      "venlenikubimen",
+      "venlenikubirň",
+      "venlenikubirn",
+      "venlenikubiren",
+      "venlenikubišaň",
+      "venlenikubiša",
+      "venlenikubišaen",
+      "venlenikubiňši",
+      "venlenikubiši",
+      "venlenikubenši"
+    ]
+  },
+  {
+    "literal": "venlenšeskhikubi",
+    "wordType": "Noun",
+    "definitions": [
+      "main train station"
+    ],
+    "syllables": [
+      3,
+      6,
+      10,
+      12,
+      14
+    ],
+    "ipa": "ˈvɜnlɜnʃɜskhikubi",
+    "examples": [],
+    "flexations": [
+      "venlenšeskhikubiň",
+      "venlenšeskhikubi",
+      "venlenšeskhikuben",
+      "venlenšeskhikubimaň",
+      "venlenšeskhikubim",
+      "venlenšeskhikubimen",
+      "venlenšeskhikubirň",
+      "venlenšeskhikubirn",
+      "venlenšeskhikubiren",
+      "venlenšeskhikubišaň",
+      "venlenšeskhikubiša",
+      "venlenšeskhikubišaen",
+      "venlenšeskhikubiňši",
+      "venlenšeskhikubiši",
+      "venlenšeskhikubenši"
+    ]
+  },
+  {
+    "literal": "vereki",
+    "wordType": "Noun",
+    "definitions": [
+      "check-up, control"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈveʀeki",
+    "examples": [],
+    "flexations": [
+      "verekiň",
+      "vereki",
+      "vereken",
+      "verekmaň",
+      "verekim",
+      "verekmen",
+      "verekirň",
+      "verekirn",
+      "verekren",
+      "verekšaň",
+      "verekša",
+      "verekšaen",
+      "verekiňši",
+      "verekši",
+      "verekenši"
+    ]
+  },
+  {
+    "literal": "vertaeňo",
+    "wordType": "Noun",
+    "definitions": [
+      "leukocyte"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈvɜʀta͜eŋo",
+    "examples": [],
+    "flexations": [
+      "vertaeňoň",
+      "vertaeňo",
+      "vertaeňoen",
+      "vertaeňomaň",
+      "vertaeňom",
+      "vertaeňomen",
+      "vertaeňorň",
+      "vertaeňorn",
+      "vertaeňoren",
+      "vertaeňošaň",
+      "vertaeňoša",
+      "vertaeňošaen",
+      "vertaeňoňši",
+      "vertaeňoši",
+      "vertaeňoenši"
+    ]
+  },
+  {
+    "literal": "veruki",
+    "wordType": "Noun",
+    "definitions": [
+      "wart"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈveʀuki",
+    "examples": [],
+    "flexations": [
+      "verukiň",
+      "veruki",
+      "veruken",
+      "verukmaň",
+      "verukim",
+      "verukmen",
+      "verukirň",
+      "verukirn",
+      "verukren",
+      "verukšaň",
+      "verukša",
+      "verukšaen",
+      "verukiňši",
+      "verukši",
+      "verukenši"
+    ]
+  },
+  {
+    "literal": "vibai",
+    "wordType": "Noun",
+    "definitions": [
+      "observer, spectator"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈvibaʔi",
+    "examples": [],
+    "flexations": [
+      "vibaiň",
+      "vibai",
+      "vibaen",
+      "vibamaň",
+      "vibaim",
+      "vibamen",
+      "vibairň",
+      "vibairn",
+      "vibaren",
+      "vibašaň",
+      "vibaša",
+      "vibašaen",
+      "vibaiňši",
+      "vibaši",
+      "vibaenši"
+    ]
+  },
+  {
+    "literal": "vibi",
+    "wordType": "Noun",
+    "definitions": [
+      "gaze, view, look"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈvibi",
+    "examples": [],
+    "flexations": [
+      "vibiň",
+      "vibi",
+      "viben",
+      "vibimaň",
+      "vibim",
+      "vibimen",
+      "vibirň",
+      "vibirn",
+      "vibiren",
+      "vibišaň",
+      "vibiša",
+      "vibišaen",
+      "vibiňši",
+      "vibiši",
+      "vibenši"
+    ]
+  },
+  {
+    "literal": "vibiha",
+    "wordType": "Adjective",
+    "definitions": [
+      "visible"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈvibiha",
+    "examples": [],
+    "flexations": [
+      "vibiha",
+      "vibihagua",
+      "vibihahia",
+      "vibihaňa"
+    ]
+  },
+  {
+    "literal": "viheli",
+    "wordType": "Noun",
+    "definitions": [
+      "chicken"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈvihɜli",
+    "examples": [],
+    "flexations": [
+      "viheliň",
+      "viheli",
+      "vihelen",
+      "vihelmaň",
+      "vihelim",
+      "vihelmen",
+      "vihelirň",
+      "vihelirn",
+      "vihelren",
+      "vihelšaň",
+      "vihelša",
+      "vihelšaen",
+      "viheliňši",
+      "vihelši",
+      "vihelenši"
+    ]
+  },
+  {
+    "literal": "viri",
+    "wordType": "Noun",
+    "definitions": [
+      "sight"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈviʀi",
+    "examples": [],
+    "flexations": [
+      "viriň",
+      "viri",
+      "viren",
+      "virmaň",
+      "virim",
+      "virmen",
+      "virirň",
+      "virirn",
+      "viriren",
+      "viršaň",
+      "virša",
+      "viršaen",
+      "viriňši",
+      "virši",
+      "virenši"
+    ]
+  },
+  {
+    "literal": "virko",
+    "wordType": "Noun",
+    "definitions": [
+      "protection"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈvɪʀko",
+    "examples": [],
+    "flexations": [
+      "virkoň",
+      "virko",
+      "virkoen",
+      "virkomaň",
+      "virkom",
+      "virkomen",
+      "virkorň",
+      "virkorn",
+      "virkoren",
+      "virkošaň",
+      "virkoša",
+      "virkošaen",
+      "virkoňši",
+      "virkoši",
+      "virkoenši"
+    ]
+  },
+  {
+    "literal": "virlujon",
+    "wordType": "Noun",
+    "definitions": [
+      "chestplate"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈvɪʀlujɔn",
+    "examples": [],
+    "flexations": [
+      "virlujonaň",
+      "virlujon",
+      "virlujonen",
+      "virlujonmaň",
+      "virlujonüm",
+      "virlujonmen",
+      "virlujonarň",
+      "virlujonarn",
+      "virlujonren",
+      "virlujonšaň",
+      "virlujonša",
+      "virlujonšaen",
+      "virlujonaňši",
+      "virlujonši",
+      "virlujonenši"
+    ]
+  },
+  {
+    "literal": "višpet",
+    "wordType": "Noun",
+    "definitions": [
+      "leopard"
+    ],
+    "syllables": [],
+    "ipa": "ˈvɪʃpɜt",
+    "examples": [],
+    "flexations": [
+      "višpetaň",
+      "višpet",
+      "višpeten",
+      "višpetmaň",
+      "višpetüm",
+      "višpetmen",
+      "višpetarň",
+      "višpetarn",
+      "višpetren",
+      "višpetšaň",
+      "višpetša",
+      "višpetšaen",
+      "višpetaňši",
+      "višpetši",
+      "višpetenši"
+    ]
+  },
+  {
+    "literal": "vökrii",
+    "wordType": "Noun",
+    "definitions": [
+      "goddess"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈvøkʀiʔi",
+    "examples": [],
+    "flexations": [
+      "vökriiň",
+      "vökrii",
+      "vökrien",
+      "vökrimaň",
+      "vökriim",
+      "vökrimen",
+      "vökriirň",
+      "vökriirn",
+      "vökriren",
+      "vökrišaň",
+      "vökriša",
+      "vökrišaen",
+      "vökriiňši",
+      "vökriši",
+      "vökrienši"
+    ]
+  },
+  {
+    "literal": "vökrio",
+    "wordType": "Noun",
+    "definitions": [
+      "god"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈvøkʀio",
+    "examples": [],
+    "flexations": [
+      "vökrioň",
+      "vökrio",
+      "vökrioen",
+      "vökriomaň",
+      "vökriom",
+      "vökriomen",
+      "vökriorň",
+      "vökriorn",
+      "vökrioren",
+      "vökriošaň",
+      "vökrioša",
+      "vökriošaen",
+      "vökrioňši",
+      "vökrioši",
+      "vökrioenši"
+    ]
+  },
+  {
+    "literal": "vokuži",
+    "wordType": "Noun",
+    "definitions": [
+      "sex (act)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈvokuʒi",
+    "examples": [],
+    "flexations": [
+      "vokužiň",
+      "vokuži",
+      "vokužen",
+      "vokužimaň",
+      "vokužim",
+      "vokužimen",
+      "vokužirň",
+      "vokužirn",
+      "vokužiren",
+      "vokužišaň",
+      "vokužiša",
+      "vokužišaen",
+      "vokužiňši",
+      "vokužiši",
+      "vokuženši"
+    ]
+  },
+  {
+    "literal": "völri",
+    "wordType": "Noun",
+    "definitions": [
+      "thunder"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈvɶlʀi",
+    "examples": [],
+    "flexations": [
+      "völriň",
+      "völri",
+      "völren",
+      "völrimaň",
+      "völrim",
+      "völrimen",
+      "völrirň",
+      "völrirn",
+      "völriren",
+      "völrišaň",
+      "völriša",
+      "völrišaen",
+      "völriňši",
+      "völriši",
+      "völrenši"
+    ]
+  },
+  {
+    "literal": "vom",
+    "wordType": "Noun",
+    "definitions": [
+      "gender"
+    ],
+    "syllables": [],
+    "ipa": "ˈvɔm",
+    "examples": [],
+    "flexations": [
+      "vomaň",
+      "vom",
+      "vomen",
+      "vomümaň",
+      "vomüm",
+      "vomümen",
+      "vomarň",
+      "vomarn",
+      "vomren",
+      "vomšaň",
+      "vomša",
+      "vomšaen",
+      "vomaňši",
+      "vomši",
+      "vomenši"
+    ]
+  },
+  {
+    "literal": "von",
+    "wordType": "Noun",
+    "definitions": [
+      "minute"
+    ],
+    "syllables": [],
+    "ipa": "ˈvɔn",
+    "examples": [],
+    "flexations": [
+      "vonaň",
+      "von",
+      "vonen",
+      "vonmaň",
+      "vonüm",
+      "vonmen",
+      "vonarň",
+      "vonarn",
+      "vonren",
+      "vonšaň",
+      "vonša",
+      "vonšaen",
+      "vonaňši",
+      "vonši",
+      "vonenši"
+    ]
+  },
+  {
+    "literal": "votkobi",
+    "wordType": "Noun",
+    "definitions": [
+      "coal"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈvɔtkobi",
+    "examples": [],
+    "flexations": [
+      "votkobiň",
+      "votkobi",
+      "votkoben",
+      "votkobimaň",
+      "votkobim",
+      "votkobimen",
+      "votkobirň",
+      "votkobirn",
+      "votkobiren",
+      "votkobišaň",
+      "votkobiša",
+      "votkobišaen",
+      "votkobiňši",
+      "votkobiši",
+      "votkobenši"
+    ]
+  },
+  {
+    "literal": "vubemn",
+    "wordType": "Noun",
+    "definitions": [
+      "magnet"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈvubɜmn̩",
+    "examples": [],
+    "flexations": [
+      "vubemnaň",
+      "vubemn",
+      "vubemnen",
+      "vubemnümaň",
+      "vubemnüm",
+      "vubemnümen",
+      "vubemnarň",
+      "vubemnarn",
+      "vubemnren",
+      "vubemnšaň",
+      "vubemnša",
+      "vubemnšaen",
+      "vubemnaňši",
+      "vubemnši",
+      "vubemnenši"
+    ]
+  },
+  {
+    "literal": "vuboijes",
+    "wordType": "Noun",
+    "definitions": [
+      "radio"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈvubɔ͜ɪjɜs",
+    "examples": [],
+    "flexations": [
+      "vuboijesaň",
+      "vuboijes",
+      "vuboijesen",
+      "vuboijesmaň",
+      "vuboijesüm",
+      "vuboijesmen",
+      "vuboijesarň",
+      "vuboijesarn",
+      "vuboijesren",
+      "vuboijesšaň",
+      "vuboijesša",
+      "vuboijesšaen",
+      "vuboijesaňši",
+      "vuboijesši",
+      "vuboijesenši"
+    ]
+  },
+  {
+    "literal": "vüfli",
+    "wordType": "Noun",
+    "definitions": [
+      "character"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈvyfli",
+    "examples": [],
+    "flexations": [
+      "vüfliň",
+      "vüfli",
+      "vüflen",
+      "vüflimaň",
+      "vüflim",
+      "vüflimen",
+      "vüflirň",
+      "vüflirn",
+      "vüfliren",
+      "vüflišaň",
+      "vüfliša",
+      "vüflišaen",
+      "vüfliňši",
+      "vüfliši",
+      "vüflenši"
+    ]
+  },
+  {
+    "literal": "vuhu",
+    "wordType": "Noun",
+    "definitions": [
+      "rail"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈvuhu",
+    "examples": [],
+    "flexations": [
+      "vuhuň",
+      "vuhu",
+      "vuhuen",
+      "vuhumaň",
+      "vuhum",
+      "vuhumen",
+      "vuhurň",
+      "vuhurn",
+      "vuhuren",
+      "vuhušaň",
+      "vuhuša",
+      "vuhušaen",
+      "vuhuňši",
+      "vuhuši",
+      "vuhuenši"
+    ]
+  },
+  {
+    "literal": "vuhugjoi",
+    "wordType": "Noun",
+    "definitions": [
+      "railway"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈvuhugjɔ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "vuhugjoiň",
+      "vuhugjoi",
+      "vuhugjoen",
+      "vuhugjomaň",
+      "vuhugjoim",
+      "vuhugjomen",
+      "vuhugjoirň",
+      "vuhugjoirn",
+      "vuhugjoren",
+      "vuhugjošaň",
+      "vuhugjoša",
+      "vuhugjošaen",
+      "vuhugjoiňši",
+      "vuhugjoši",
+      "vuhugjoenši"
+    ]
+  },
+  {
+    "literal": "vüini",
+    "wordType": "Noun",
+    "definitions": [
+      "threshold"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈvʏ͜ɪni",
+    "examples": [],
+    "flexations": [
+      "vüiniň",
+      "vüini",
+      "vüinen",
+      "vüinmaň",
+      "vüinim",
+      "vüinmen",
+      "vüinirň",
+      "vüinirn",
+      "vüinren",
+      "vüinšaň",
+      "vüinša",
+      "vüinšaen",
+      "vüiniňši",
+      "vüinši",
+      "vüinenši"
+    ]
+  },
+  {
+    "literal": "vükai",
+    "wordType": "Noun",
+    "definitions": [
+      "server"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈvʏkaʔi",
+    "examples": [],
+    "flexations": [
+      "vükaiň",
+      "vükai",
+      "vükaen",
+      "vükamaň",
+      "vükaim",
+      "vükamen",
+      "vükairň",
+      "vükairn",
+      "vükaren",
+      "vükašaň",
+      "vükaša",
+      "vükašaen",
+      "vükaiňši",
+      "vükaši",
+      "vükaenši"
+    ]
+  },
+  {
+    "literal": "vulpe",
+    "wordType": "Noun",
+    "definitions": [
+      "tail"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈvʊlpɜ",
+    "examples": [],
+    "flexations": [
+      "vulpeň",
+      "vulpe",
+      "vulpeen",
+      "vulpemaň",
+      "vulpem",
+      "vulpemen",
+      "vulperň",
+      "vulpern",
+      "vulperen",
+      "vulpešaň",
+      "vulpeša",
+      "vulpešaen",
+      "vulpeňši",
+      "vulpeši",
+      "vulpeenši"
+    ]
+  },
+  {
+    "literal": "vulpis",
+    "wordType": "Noun",
+    "definitions": [
+      "trail"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈvʊlpɪs",
+    "examples": [],
+    "flexations": [
+      "vulpisaň",
+      "vulpis",
+      "vulpisen",
+      "vulpismaň",
+      "vulpisüm",
+      "vulpismen",
+      "vulpisarň",
+      "vulpisarn",
+      "vulpisren",
+      "vulpisšaň",
+      "vulpisša",
+      "vulpisšaen",
+      "vulpisaňši",
+      "vulpisši",
+      "vulpisenši"
+    ]
+  },
+  {
+    "literal": "vukstui",
+    "wordType": "Noun",
+    "definitions": [
+      "stress, pressure (mental)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈvʊkstʊ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "vukstuiň",
+      "vukstui",
+      "vukstuen",
+      "vukstumaň",
+      "vukstuim",
+      "vukstumen",
+      "vukstuirň",
+      "vukstuirn",
+      "vuksturen",
+      "vukstušaň",
+      "vukstuša",
+      "vukstušaen",
+      "vukstuiňši",
+      "vukstuši",
+      "vukstuenši"
+    ]
+  },
+  {
+    "literal": "vunlizvuauko",
+    "wordType": "Noun",
+    "definitions": [
+      "progesterone"
+    ],
+    "syllables": [
+      3,
+      5,
+      8,
+      10
+    ],
+    "ipa": "ˈvʊnlizvua͜uko",
+    "examples": [],
+    "flexations": [
+      "vunlizvuaukoň",
+      "vunlizvuauko",
+      "vunlizvuaukoen",
+      "vunlizvuaukomaň",
+      "vunlizvuaukom",
+      "vunlizvuaukomen",
+      "vunlizvuaukorň",
+      "vunlizvuaukorn",
+      "vunlizvuaukoren",
+      "vunlizvuaukošaň",
+      "vunlizvuaukoša",
+      "vunlizvuaukošaen",
+      "vunlizvuaukoňši",
+      "vunlizvuaukoši",
+      "vunlizvuaukoenši"
+    ]
+  },
+  {
+    "literal": "vurili",
+    "wordType": "Noun",
+    "definitions": [
+      "chin"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈvuʀili",
+    "examples": [],
+    "flexations": [
+      "vuriliň",
+      "vurili",
+      "vurilen",
+      "vurilmaň",
+      "vurilim",
+      "vurilmen",
+      "vurilirň",
+      "vurilirn",
+      "vurilren",
+      "vurilšaň",
+      "vurilša",
+      "vurilšaen",
+      "vuriliňši",
+      "vurilši",
+      "vurilenši"
+    ]
+  },
+  {
+    "literal": "vurmi",
+    "wordType": "Noun",
+    "definitions": [
+      "sign"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈvʊʀmi",
+    "examples": [],
+    "flexations": [
+      "vurmiň",
+      "vurmi",
+      "vurmen",
+      "vurmimaň",
+      "vurmim",
+      "vurmimen",
+      "vurmirň",
+      "vurmirn",
+      "vurmren",
+      "vurmšaň",
+      "vurmša",
+      "vurmšaen",
+      "vurmiňši",
+      "vurmši",
+      "vurmenši"
+    ]
+  },
+  {
+    "literal": "vüsi",
+    "wordType": "Noun",
+    "definitions": [
+      "wheat"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈvysi",
+    "examples": [],
+    "flexations": [
+      "vüsiň",
+      "vüsi",
+      "vüsen",
+      "vüsmaň",
+      "vüsim",
+      "vüsmen",
+      "vüsirň",
+      "vüsirn",
+      "vüsren",
+      "vüsšaň",
+      "vüsša",
+      "vüsšaen",
+      "vüsiňši",
+      "vüsši",
+      "vüsenši"
+    ]
+  },
+  {
+    "literal": "žaaemvu",
+    "wordType": "Noun",
+    "definitions": [
+      "keratin"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈʒaʔa͜emvu",
+    "examples": [],
+    "flexations": [
+      "žaaemvuň",
+      "žaaemvu",
+      "žaaemvuen",
+      "žaaemvumaň",
+      "žaaemvum",
+      "žaaemvumen",
+      "žaaemvurň",
+      "žaaemvurn",
+      "žaaemvuren",
+      "žaaemvušaň",
+      "žaaemvuša",
+      "žaaemvušaen",
+      "žaaemvuňši",
+      "žaaemvuši",
+      "žaaemvuenši"
+    ]
+  },
+  {
+    "literal": "zae",
+    "wordType": "Noun",
+    "definitions": [
+      "friend"
+    ],
+    "syllables": [],
+    "ipa": "ˈza͜e",
+    "examples": [],
+    "flexations": [
+      "zaeň",
+      "zae",
+      "zaeen",
+      "zaemaň",
+      "zaem",
+      "zaemen",
+      "zaerň",
+      "zaern",
+      "zaeren",
+      "zaešaň",
+      "zaeša",
+      "zaešaen",
+      "zaeňši",
+      "zaeši",
+      "zaeenši"
+    ]
+  },
+  {
+    "literal": "žagei",
+    "wordType": "Noun",
+    "definitions": [
+      "table (chart)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒagɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "žageiň",
+      "žagei",
+      "žageen",
+      "žagemaň",
+      "žageim",
+      "žagemen",
+      "žageirň",
+      "žageirn",
+      "žageren",
+      "žagešaň",
+      "žageša",
+      "žagešaen",
+      "žageiňši",
+      "žageši",
+      "žageenši"
+    ]
+  },
+  {
+    "literal": "zaki",
+    "wordType": "Noun",
+    "definitions": [
+      "organization",
+      "gathering"
+    ],
+    "syllables": [],
+    "ipa": "ˈzaki",
+    "examples": [],
+    "flexations": [
+      "zakiň",
+      "zaki",
+      "zaken",
+      "zakmaň",
+      "zakim",
+      "zakmen",
+      "zakirň",
+      "zakirn",
+      "zakren",
+      "zakšaň",
+      "zakša",
+      "zakšaen",
+      "zakiňši",
+      "zakši",
+      "zakenši"
+    ]
+  },
+  {
+    "literal": "žakti",
+    "wordType": "Noun",
+    "definitions": [
+      "line"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʒakti",
+    "examples": [],
+    "flexations": [
+      "žaktiň",
+      "žakti",
+      "žakten",
+      "žaktmaň",
+      "žaktim",
+      "žaktmen",
+      "žaktirň",
+      "žaktirn",
+      "žaktren",
+      "žaktšaň",
+      "žaktša",
+      "žaktšaen",
+      "žaktiňši",
+      "žaktši",
+      "žaktenši"
+    ]
+  },
+  {
+    "literal": "zaljae",
+    "wordType": "Noun",
+    "definitions": [
+      "term"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈzalja͜e",
+    "examples": [],
+    "flexations": [
+      "zaljaeň",
+      "zaljae",
+      "zaljaeen",
+      "zaljaemaň",
+      "zaljaem",
+      "zaljaemen",
+      "zaljaerň",
+      "zaljaern",
+      "zaljaeren",
+      "zaljaešaň",
+      "zaljaeša",
+      "zaljaešaen",
+      "zaljaeňši",
+      "zaljaeši",
+      "zaljaeenši"
+    ]
+  },
+  {
+    "literal": "žamtiu",
+    "wordType": "Noun",
+    "definitions": [
+      "plane (surface), sheet"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈʒamtiu",
+    "examples": [],
+    "flexations": [
+      "žamtiuň",
+      "žamtiu",
+      "žamtiuen",
+      "žamtiumaň",
+      "žamtium",
+      "žamtiumen",
+      "žamtiurň",
+      "žamtiurn",
+      "žamtiuren",
+      "žamtiušaň",
+      "žamtiuša",
+      "žamtiušaen",
+      "žamtiuňši",
+      "žamtiuši",
+      "žamtiuenši"
+    ]
+  },
+  {
+    "literal": "žanjoli",
+    "wordType": "Noun",
+    "definitions": [
+      "sentence"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈʒanjoli",
+    "examples": [],
+    "flexations": [
+      "žanjoliň",
+      "žanjoli",
+      "žanjolen",
+      "žanjolmaň",
+      "žanjolim",
+      "žanjolmen",
+      "žanjolirň",
+      "žanjolirn",
+      "žanjolren",
+      "žanjolšaň",
+      "žanjolša",
+      "žanjolšaen",
+      "žanjoliňši",
+      "žanjolši",
+      "žanjolenši"
+    ]
+  },
+  {
+    "literal": "zanpet",
+    "wordType": "Noun",
+    "definitions": [
+      "tiger"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈzanpɜt",
+    "examples": [],
+    "flexations": [
+      "zanpetaň",
+      "zanpet",
+      "zanpeten",
+      "zanpetmaň",
+      "zanpetüm",
+      "zanpetmen",
+      "zanpetarň",
+      "zanpetarn",
+      "zanpetren",
+      "zanpetšaň",
+      "zanpetša",
+      "zanpetšaen",
+      "zanpetaňši",
+      "zanpetši",
+      "zanpetenši"
+    ]
+  },
+  {
+    "literal": "žant",
+    "wordType": "Noun",
+    "definitions": [
+      "text"
+    ],
+    "syllables": [],
+    "ipa": "ˈʒant",
+    "examples": [],
+    "flexations": [
+      "žantaň",
+      "žant",
+      "žanten",
+      "žantmaň",
+      "žantüm",
+      "žantmen",
+      "žantarň",
+      "žantarn",
+      "žantren",
+      "žantšaň",
+      "žantša",
+      "žantšaen",
+      "žantaňši",
+      "žantši",
+      "žantenši"
+    ]
+  },
+  {
+    "literal": "žašel",
+    "wordType": "Noun",
+    "definitions": [
+      "virus"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒaʃɜl",
+    "examples": [],
+    "flexations": [
+      "žašelaň",
+      "žašel",
+      "žašelen",
+      "žašelmaň",
+      "žašelüm",
+      "žašelmen",
+      "žašelarň",
+      "žašelarn",
+      "žašelren",
+      "žašelšaň",
+      "žašelša",
+      "žašelšaen",
+      "žašelaňši",
+      "žašelši",
+      "žašelenši"
+    ]
+  },
+  {
+    "literal": "žašjoti",
+    "wordType": "Noun",
+    "definitions": [
+      "upleft-downright diagonal, left tilt"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈʒaʃjɔti",
+    "examples": [],
+    "flexations": [
+      "žašjotiň",
+      "žašjoti",
+      "žašjoten",
+      "žašjotmaň",
+      "žašjotim",
+      "žašjotmen",
+      "žašjotirň",
+      "žašjotirn",
+      "žašjotren",
+      "žašjotšaň",
+      "žašjotša",
+      "žašjotšaen",
+      "žašjotiňši",
+      "žašjotši",
+      "žašjotenši"
+    ]
+  },
+  {
+    "literal": "zaui",
+    "wordType": "Noun",
+    "definitions": [
+      "size"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈza͜ui",
+    "examples": [],
+    "flexations": [
+      "zauiň",
+      "zaui",
+      "zauen",
+      "zaumaň",
+      "zauim",
+      "zaumen",
+      "zauirň",
+      "zauirn",
+      "zauren",
+      "zaušaň",
+      "zauša",
+      "zaušaen",
+      "zauiňši",
+      "zauši",
+      "zauenši"
+    ]
+  },
+  {
+    "literal": "žaupi",
+    "wordType": "Noun",
+    "definitions": [
+      "field, area, zone (on a surface)"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʒa͜upi",
+    "examples": [],
+    "flexations": [
+      "žaupiň",
+      "žaupi",
+      "žaupen",
+      "žaupmaň",
+      "žaupim",
+      "žaupmen",
+      "žaupirň",
+      "žaupirn",
+      "žaupren",
+      "žaupšaň",
+      "žaupša",
+      "žaupšaen",
+      "žaupiňši",
+      "žaupši",
+      "žaupenši"
+    ]
+  },
+  {
+    "literal": "žaži",
+    "wordType": "Noun",
+    "definitions": [
+      "hook"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒaʒi",
+    "examples": [],
+    "flexations": [
+      "žažiň",
+      "žaži",
+      "žažen",
+      "žažimaň",
+      "žažim",
+      "žažimen",
+      "žažirň",
+      "žažirn",
+      "žažiren",
+      "žažišaň",
+      "žažiša",
+      "žažišaen",
+      "žažiňši",
+      "žažiši",
+      "žaženši"
+    ]
+  },
+  {
+    "literal": "zeamasi",
+    "wordType": "Noun",
+    "definitions": [
+      "maize, corn"
+    ],
+    "syllables": [
+      2,
+      3,
+      5
+    ],
+    "ipa": "ˈzeamasi",
+    "examples": [],
+    "flexations": [
+      "zeamasiň",
+      "zeamasi",
+      "zeamasen",
+      "zeamasmaň",
+      "zeamasim",
+      "zeamasmen",
+      "zeamasirň",
+      "zeamasirn",
+      "zeamasren",
+      "zeamasšaň",
+      "zeamasša",
+      "zeamasšaen",
+      "zeamasiňši",
+      "zeamasši",
+      "zeamasenši"
+    ]
+  },
+  {
+    "literal": "žeisi",
+    "wordType": "Noun",
+    "definitions": [
+      "sister"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʒɜ͜ɪsi",
+    "examples": [],
+    "flexations": [
+      "žeisiň",
+      "žeisi",
+      "žeisen",
+      "žeismaň",
+      "žeisim",
+      "žeismen",
+      "žeisirň",
+      "žeisirn",
+      "žeisren",
+      "žeisšaň",
+      "žeisša",
+      "žeisšaen",
+      "žeisiňši",
+      "žeisši",
+      "žeisenši"
+    ]
+  },
+  {
+    "literal": "žeiste",
+    "wordType": "Noun",
+    "definitions": [
+      "sibling"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʒɜ͜ɪstɜ",
+    "examples": [],
+    "flexations": [
+      "žeisteň",
+      "žeiste",
+      "žeisteen",
+      "žeistemaň",
+      "žeistem",
+      "žeistemen",
+      "žeisterň",
+      "žeistern",
+      "žeisteren",
+      "žeistešaň",
+      "žeisteša",
+      "žeistešaen",
+      "žeisteňši",
+      "žeisteši",
+      "žeisteenši"
+    ]
+  },
+  {
+    "literal": "zeivari",
+    "wordType": "Noun",
+    "definitions": [
+      "exit"
+    ],
+    "syllables": [
+      3,
+      5
+    ],
+    "ipa": "ˈzɜ͜ɪvaʀi",
+    "examples": [],
+    "flexations": [
+      "zeivariň",
+      "zeivari",
+      "zeivaren",
+      "zeivarmaň",
+      "zeivarim",
+      "zeivarmen",
+      "zeivarirň",
+      "zeivarirn",
+      "zeivariren",
+      "zeivaršaň",
+      "zeivarša",
+      "zeivaršaen",
+      "zeivariňši",
+      "zeivarši",
+      "zeivarenši"
+    ]
+  },
+  {
+    "literal": "zel falnski",
+    "wordType": "Noun",
+    "definitions": [
+      "john doe"
+    ],
+    "syllables": [],
+    "ipa": "ˈzel falnski",
+    "examples": [],
+    "flexations": [
+      "zel falnskiň",
+      "zel falnski",
+      "zel falnsken",
+      "zel falnskimaň",
+      "zel falnskim",
+      "zel falnskimen",
+      "zel falnskirň",
+      "zel falnskirn",
+      "zel falnskiren",
+      "zel falnskišaň",
+      "zel falnskiša",
+      "zel falnskišaen",
+      "zel falnskiňši",
+      "zel falnskiši",
+      "zel falnskenši"
+    ]
+  },
+  {
+    "literal": "žeminae",
+    "wordType": "Noun",
+    "definitions": [
+      "hallucination"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈʒemina͜e",
+    "examples": [],
+    "flexations": [
+      "žeminaeň",
+      "žeminae",
+      "žeminaeen",
+      "žeminaemaň",
+      "žeminaem",
+      "žeminaemen",
+      "žeminaerň",
+      "žeminaern",
+      "žeminaeren",
+      "žeminaešaň",
+      "žeminaeša",
+      "žeminaešaen",
+      "žeminaeňši",
+      "žeminaeši",
+      "žeminaeenši"
+    ]
+  },
+  {
+    "literal": "zemineňo",
+    "wordType": "Noun",
+    "definitions": [
+      "thrombocyte"
+    ],
+    "syllables": [
+      2,
+      4,
+      6
+    ],
+    "ipa": "ˈzeminɜŋo",
+    "examples": [],
+    "flexations": [
+      "zemineňoň",
+      "zemineňo",
+      "zemineňoen",
+      "zemineňomaň",
+      "zemineňom",
+      "zemineňomen",
+      "zemineňorň",
+      "zemineňorn",
+      "zemineňoren",
+      "zemineňošaň",
+      "zemineňoša",
+      "zemineňošaen",
+      "zemineňoňši",
+      "zemineňoši",
+      "zemineňoenši"
+    ]
+  },
+  {
+    "literal": "zendemni",
+    "wordType": "Noun",
+    "definitions": [
+      "memorial"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈzɜndɜmni",
+    "examples": [],
+    "flexations": [
+      "zendemniň",
+      "zendemni",
+      "zendemnen",
+      "zendemnimaň",
+      "zendemnim",
+      "zendemnimen",
+      "zendemnirň",
+      "zendemnirn",
+      "zendemniren",
+      "zendemnišaň",
+      "zendemniša",
+      "zendemnišaen",
+      "zendemniňši",
+      "zendemniši",
+      "zendemnenši"
+    ]
+  },
+  {
+    "literal": "zendi",
+    "wordType": "Noun",
+    "definitions": [
+      "memory"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈzɜndi",
+    "examples": [],
+    "flexations": [
+      "zendiň",
+      "zendi",
+      "zenden",
+      "zendimaň",
+      "zendim",
+      "zendimen",
+      "zendirň",
+      "zendirn",
+      "zendiren",
+      "zendišaň",
+      "zendiša",
+      "zendišaen",
+      "zendiňši",
+      "zendiši",
+      "zendenši"
+    ]
+  },
+  {
+    "literal": "žežei",
+    "wordType": "Noun",
+    "definitions": [
+      "twin"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒeʒɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "žežeiň",
+      "žežei",
+      "žežeen",
+      "žežemaň",
+      "žežeim",
+      "žežemen",
+      "žežeirň",
+      "žežeirn",
+      "žežeren",
+      "žežešaň",
+      "žežeša",
+      "žežešaen",
+      "žežeiňši",
+      "žežeši",
+      "žežeenši"
+    ]
+  },
+  {
+    "literal": "žii",
+    "wordType": "Noun",
+    "definitions": [
+      "spectrum"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒiʔi",
+    "examples": [],
+    "flexations": [
+      "žiiň",
+      "žii",
+      "žien",
+      "žimaň",
+      "žiim",
+      "žimen",
+      "žiirň",
+      "žiirn",
+      "žiren",
+      "žišaň",
+      "žiša",
+      "žišaen",
+      "žiiňši",
+      "žiši",
+      "žienši"
+    ]
+  },
+  {
+    "literal": "žimi",
+    "wordType": "Noun",
+    "definitions": [
+      "rainbow"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒimi",
+    "examples": [],
+    "flexations": [
+      "žimiň",
+      "žimi",
+      "žimen",
+      "žimmaň",
+      "žimim",
+      "žimmen",
+      "žimirň",
+      "žimirn",
+      "žimren",
+      "žimšaň",
+      "žimša",
+      "žimšaen",
+      "žimiňši",
+      "žimši",
+      "žimenši"
+    ]
+  },
+  {
+    "literal": "žimiup",
+    "wordType": "Noun",
+    "definitions": [
+      "colorful",
+      "rainbow-colored"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈʒimiʔʊp",
+    "examples": [],
+    "flexations": [
+      "žimiupaň",
+      "žimiup",
+      "žimiupen",
+      "žimiupmaň",
+      "žimiupüm",
+      "žimiupmen",
+      "žimiuparň",
+      "žimiuparn",
+      "žimiupren",
+      "žimiupšaň",
+      "žimiupša",
+      "žimiupšaen",
+      "žimiupaňši",
+      "žimiupši",
+      "žimiupenši"
+    ]
+  },
+  {
+    "literal": "zinat",
+    "wordType": "Noun",
+    "definitions": [
+      "definition"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈzinat",
+    "examples": [],
+    "flexations": [
+      "zinataň",
+      "zinat",
+      "zinaten",
+      "zinatmaň",
+      "zinatüm",
+      "zinatmen",
+      "zinatarň",
+      "zinatarn",
+      "zinatren",
+      "zinatšaň",
+      "zinatša",
+      "zinatšaen",
+      "zinataňši",
+      "zinatši",
+      "zinatenši"
+    ]
+  },
+  {
+    "literal": "zionšabi",
+    "wordType": "Noun",
+    "definitions": [
+      "school"
+    ],
+    "syllables": [
+      2,
+      4,
+      6
+    ],
+    "ipa": "ˈziɔnʃabi",
+    "examples": [],
+    "flexations": [
+      "zionšabiň",
+      "zionšabi",
+      "zionšaben",
+      "zionšabimaň",
+      "zionšabim",
+      "zionšabimen",
+      "zionšabirň",
+      "zionšabirn",
+      "zionšabiren",
+      "zionšabišaň",
+      "zionšabiša",
+      "zionšabišaen",
+      "zionšabiňši",
+      "zionšabiši",
+      "zionšabenši"
+    ]
+  },
+  {
+    "literal": "žipuk",
+    "wordType": "Noun",
+    "definitions": [
+      "slice"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒipʊk",
+    "examples": [],
+    "flexations": [
+      "žipukaň",
+      "žipuk",
+      "žipuken",
+      "žipukmaň",
+      "žipuküm",
+      "žipukmen",
+      "žipukarň",
+      "žipukarn",
+      "žipukren",
+      "žipukšaň",
+      "žipukša",
+      "žipukšaen",
+      "žipukaňši",
+      "žipukši",
+      "žipukenši"
+    ]
+  },
+  {
+    "literal": "zödele",
+    "wordType": "Noun",
+    "definitions": [
+      "procedure"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈzødɜlɜ",
+    "examples": [],
+    "flexations": [
+      "zödeleň",
+      "zödele",
+      "zödeleen",
+      "zödelemaň",
+      "zödelem",
+      "zödelemen",
+      "zödelerň",
+      "zödelern",
+      "zödeleren",
+      "zödelešaň",
+      "zödeleša",
+      "zödelešaen",
+      "zödeleňši",
+      "zödeleši",
+      "zödeleenši"
+    ]
+  },
+  {
+    "literal": "žomi",
+    "wordType": "Noun",
+    "definitions": [
+      "norm"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒomi",
+    "examples": [],
+    "flexations": [
+      "žomiň",
+      "žomi",
+      "žomen",
+      "žommaň",
+      "žomim",
+      "žommen",
+      "žomirň",
+      "žomirn",
+      "žomren",
+      "žomšaň",
+      "žomša",
+      "žomšaen",
+      "žomiňši",
+      "žomši",
+      "žomenši"
+    ]
+  },
+  {
+    "literal": "zönent",
+    "wordType": "Noun",
+    "definitions": [
+      "match (pair)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈzønɜnt",
+    "examples": [],
+    "flexations": [
+      "zönentaň",
+      "zönent",
+      "zönenten",
+      "zönentmaň",
+      "zönentüm",
+      "zönentmen",
+      "zönentarň",
+      "zönentarn",
+      "zönentren",
+      "zönentšaň",
+      "zönentša",
+      "zönentšaen",
+      "zönentaňši",
+      "zönentši",
+      "zönentenši"
+    ]
+  },
+  {
+    "literal": "žot",
+    "wordType": "Noun",
+    "definitions": [
+      "sound, noise"
+    ],
+    "syllables": [],
+    "ipa": "ˈʒɔt",
+    "examples": [],
+    "flexations": [
+      "žotaň",
+      "žot",
+      "žoten",
+      "žotmaň",
+      "žotüm",
+      "žotmen",
+      "žotarň",
+      "žotarn",
+      "žotren",
+      "žotšaň",
+      "žotša",
+      "žotšaen",
+      "žotaňši",
+      "žotši",
+      "žotenši"
+    ]
+  },
+  {
+    "literal": "žroze",
+    "wordType": "Noun",
+    "definitions": [
+      "isomer"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʒʀozɜ",
+    "examples": [],
+    "flexations": [
+      "žrozeň",
+      "žroze",
+      "žrozeen",
+      "žrozemaň",
+      "žrozem",
+      "žrozemen",
+      "žrozerň",
+      "žrozern",
+      "žrozeren",
+      "žrozešaň",
+      "žrozeša",
+      "žrozešaen",
+      "žrozeňši",
+      "žrozeši",
+      "žrozeenši"
+    ]
+  },
+  {
+    "literal": "žudžu",
+    "wordType": "Noun",
+    "definitions": [
+      "upper arm"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒudʒu",
+    "examples": [],
+    "flexations": [
+      "žudžuň",
+      "žudžu",
+      "žudžuen",
+      "žudžumaň",
+      "žudžum",
+      "žudžumen",
+      "žudžurň",
+      "žudžurn",
+      "žudžuren",
+      "žudžušaň",
+      "žudžuša",
+      "žudžušaen",
+      "žudžuňši",
+      "žudžuši",
+      "žudžuenši"
+    ]
+  },
+  {
+    "literal": "zulip",
+    "wordType": "Noun",
+    "definitions": [
+      "medicine"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈzulɪp",
+    "examples": [],
+    "flexations": [
+      "zulipaň",
+      "zulip",
+      "zulipen",
+      "zulipmaň",
+      "zulipüm",
+      "zulipmen",
+      "zuliparň",
+      "zuliparn",
+      "zulipren",
+      "zulipšaň",
+      "zulipša",
+      "zulipšaen",
+      "zulipaňši",
+      "zulipši",
+      "zulipenši"
+    ]
+  },
+  {
+    "literal": "zümla",
+    "wordType": "Noun",
+    "definitions": [
+      "secret"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈzʏmli",
+    "examples": [],
+    "flexations": [
+      "zümliň",
+      "zümli",
+      "zümlen",
+      "zümlimaň",
+      "zümlim",
+      "zümlimen",
+      "zümlirň",
+      "zümlirn",
+      "zümliren",
+      "zümlišaň",
+      "zümliša",
+      "zümlišaen",
+      "zümliňši",
+      "zümliši",
+      "zümlenši"
+    ]
+  },
+  {
+    "literal": "žünii",
+    "wordType": "Noun",
+    "definitions": [
+      "(nam.) red moon"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈʒyniʔi",
+    "examples": [],
+    "flexations": [
+      "žüniiň",
+      "žünii",
+      "žünien",
+      "žünimaň",
+      "žüniim",
+      "žünimen",
+      "žüniirň",
+      "žüniirn",
+      "žüniren",
+      "žünišaň",
+      "žüniša",
+      "žünišaen",
+      "žüniiňši",
+      "žüniši",
+      "žünienši"
+    ]
+  },
+  {
+    "literal": "žunoi",
+    "wordType": "Noun",
+    "definitions": [
+      "(nam.) silver moon"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈʒunɔ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "žunoiň",
+      "žunoi",
+      "žunoen",
+      "žunomaň",
+      "žunoim",
+      "žunomen",
+      "žunoirň",
+      "žunoirn",
+      "žunoren",
+      "žunošaň",
+      "žunoša",
+      "žunošaen",
+      "žunoiňši",
+      "žunoši",
+      "žunoenši"
+    ]
+  },
+  {
+    "literal": "zur",
+    "wordType": "Noun",
+    "definitions": [
+      "wound"
+    ],
+    "syllables": [],
+    "ipa": "ˈzʊʀ",
+    "examples": [],
+    "flexations": [
+      "zuraň",
+      "zur",
+      "zuren",
+      "zurmaň",
+      "zurüm",
+      "zurmen",
+      "zurarň",
+      "zurarn",
+      "zurren",
+      "zuršaň",
+      "zurša",
+      "zuršaen",
+      "zuraňši",
+      "zurši",
+      "zurenši"
+    ]
+  },
+  {
+    "literal": "zutruei",
+    "wordType": "Noun",
+    "definitions": [
+      "hue"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈzutʀuʔɜ͜ɪ",
+    "examples": [],
+    "flexations": [
+      "zutrueiň",
+      "zutruei",
+      "zutrueen",
+      "zutruemaň",
+      "zutrueim",
+      "zutruemen",
+      "zutrueirň",
+      "zutrueirn",
+      "zutrueren",
+      "zutruešaň",
+      "zutrueša",
+      "zutruešaen",
+      "zutrueiňši",
+      "zutrueši",
+      "zutrueenši"
     ]
   }
 ]

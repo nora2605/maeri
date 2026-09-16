@@ -4,6 +4,8 @@ import Listen from "../components/Listen";
 import entries from "../assets/dict.json";
 import { Meta, Title } from "@solidjs/meta";
 
+const PAGE_SIZE = 50;
+
 const EntryCompact: Component<{ entry: DictionaryEntry, highlight: string }> = (props) => {
   const { literal, ipa, wordType, syllables, definitions, flexations } = props.entry;
   const foundCase = () => {
@@ -44,6 +46,7 @@ const Lexicon: Component = () => {
   let [query, setQuery] = createSignal("");
   let [effectiveQuery, setEffectiveQuery] = createSignal("");
   let [wordTypeFilter, setWordTypeFilter] = createSignal("All" as ("All" | WordType));
+  let [page, setPage] = createSignal(1);
   let currentTimeout: NodeJS.Timeout | undefined = undefined;
 
   function any<T>(iter: T[], pred: (_:T)=>boolean) {
@@ -76,6 +79,12 @@ const Lexicon: Component = () => {
     currentTimeout = setTimeout(() => setEffectiveQuery(q), 150);
   });
 
+  createEffect(() => {
+    return [effectiveQuery(), wordTypeFilter()];
+  }, (_) => {
+    setPage(1);
+  });
+
   let filtered = createMemo(() => {
     let o = entries.toSorted((a, b) => a.literal.localeCompare(b.literal)) as DictionaryEntry[];
     let q = effectiveQuery().toLowerCase()
@@ -95,6 +104,13 @@ const Lexicon: Component = () => {
     ], (a,b)=>idFromEntry(a)===idFromEntry(b)).filter((e) => 
       wtf === "All" || e.wordType === wtf
     );
+  });
+
+  let pageCount = createMemo(() => Math.max(1, Math.ceil(filtered().length / PAGE_SIZE)));
+  let currentPage = createMemo(() => Math.min(page(), pageCount()));
+  let visibleEntries = createMemo(() => {
+    let start = (currentPage() - 1) * PAGE_SIZE;
+    return filtered().slice(start, start + PAGE_SIZE);
   });
 
   return (
@@ -123,8 +139,29 @@ const Lexicon: Component = () => {
       <Show when={effectiveQuery() !== ""}>
         <span class="text-neutral-600 text-sm">Results: {filtered().length}</span>
       </Show>
+      <Show when={filtered().length > PAGE_SIZE}>
+        <div class="flex items-center justify-center gap-2 m-2">
+          <button
+            type="button"
+            class="btn btn-sm"
+            disabled={currentPage() <= 1}
+            onClick={() => setPage(x => x - 1)}
+          >
+            Prev
+          </button>
+          <span class="text-sm tabular-nums">Page {currentPage()} of {pageCount()}</span>
+          <button
+            type="button"
+            class="btn btn-sm"
+            disabled={currentPage() >= pageCount()}
+            onClick={() => setPage(x => x + 1)}
+          >
+            Next
+          </button>
+        </div>
+      </Show>
       <div class="sm:flex sm:flex-wrap *:m-1">
-        <For each={filtered()}>{e => <EntryCompact entry={e as DictionaryEntry} highlight={query()} />}</For>
+        <For each={visibleEntries()}>{e => <EntryCompact entry={e as DictionaryEntry} highlight={query()} />}</For>
       </div>
     </div>
   );

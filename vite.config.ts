@@ -6,8 +6,8 @@ import { cloudflare } from '@cloudflare/vite-plugin';
 export default defineConfig({
   plugins: [
     tailwindcss(),
-    cloudflare({ viteEnvironment: { name: "ssr" } }),
-    solid({ start: true, ssr: true }),
+    cloudflare(),
+    solid({ start: true, serverFunctions: true }),
   ],
   server: {
     port: 3000,

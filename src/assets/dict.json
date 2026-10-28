@@ -52531,5 +52531,276 @@
       "zutrueši",
       "zutrueenši"
     ]
+  },
+  {
+    "literal": "pukja",
+    "wordType": "Adjective",
+    "definitions": [
+      "deep"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈpukja",
+    "examples": [],
+    "flexations": [
+      "pukja",
+      "pukjagua",
+      "pukjahia",
+      "pukjaňa"
+    ]
+  },
+  {
+    "literal": "fladžin",
+    "wordType": "Verb",
+    "definitions": [
+      "surround"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈfladʒɪn",
+    "examples": [],
+    "flexations": [
+      "fladžirei",
+      "fladžimurei",
+      "fladžiru",
+      "fladžimuru",
+      "fladžoiru",
+      "fladžirae",
+      "fladžimurae",
+      "fladžin",
+      "fladžimurin",
+      "fladžoi",
+      "fladžitei",
+      "fladžimurtei",
+      "fladžitum",
+      "fladžimurtum",
+      "fladžoitu",
+      "fladžitae",
+      "fladžimurtae"
+    ]
+  },
+  {
+    "literal": "šukpi",
+    "wordType": "Noun",
+    "definitions": [
+      "island"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʃʊkpi",
+    "examples": [],
+    "flexations": [
+      "šukpiň",
+      "šukpi",
+      "šukpen",
+      "šukpimaň",
+      "šukpim",
+      "šukpimen",
+      "šukpirň",
+      "šukpirn",
+      "šukpren",
+      "šukpišaň",
+      "šukpiša",
+      "šukpišaen",
+      "šukpiňši",
+      "šukpiši",
+      "šukpenši"
+    ]
+  },
+  {
+    "literal": "lunišel",
+    "wordType": "Noun",
+    "definitions": [
+      "module, cartridge, card (computer)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈluniʃɜl",
+    "examples": [],
+    "flexations": [
+      "lunišelaň",
+      "lunišel",
+      "lunišelen",
+      "lunišelmaň",
+      "lunišelüm",
+      "lunišelmen",
+      "lunišelarň",
+      "lunišelarn",
+      "lunišelren",
+      "lunišelšaň",
+      "lunišelša",
+      "lunišelšaen",
+      "lunišelaňši",
+      "lunišelši",
+      "lunišelenši"
+    ]
+  },
+  {
+    "literal": "škoe",
+    "wordType": "Noun",
+    "definitions": [
+      "garden"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈʃkoɜ",
+    "examples": [],
+    "flexations": [
+      "škoeň",
+      "škoe",
+      "škoeen",
+      "škoemaň",
+      "škoem",
+      "škoemen",
+      "škoerň",
+      "škoern",
+      "škoeren",
+      "škoešaň",
+      "škoeša",
+      "škoešaen",
+      "škoeňši",
+      "škoeši",
+      "škoeenši"
+    ]
+  },
+  {
+    "literal": "ooškoe",
+    "wordType": "Noun",
+    "definitions": [
+      "labyrinth, maze"
+    ],
+    "syllables": [
+      1,
+      2,
+      5
+    ],
+    "ipa": "ˈoʔoʃkoɜ",
+    "examples": [],
+    "flexations": [
+      "ooškoeň",
+      "ooškoe",
+      "ooškoeen",
+      "ooškoemaň",
+      "ooškoem",
+      "ooškoemen",
+      "ooškoerň",
+      "ooškoern",
+      "ooškoeren",
+      "ooškoešaň",
+      "ooškoeša",
+      "ooškoešaen",
+      "ooškoeňši",
+      "ooškoeši",
+      "ooškoeenši"
+    ]
+  },
+  {
+    "literal": "kitšlupi",
+    "wordType": "Noun",
+    "definitions": [
+      "fractal"
+    ],
+    "syllables": [
+      3,
+      6
+    ],
+    "ipa": "ˈkɪtʃlupi",
+    "examples": [],
+    "flexations": [
+      "kitšlupiň",
+      "kitšlupi",
+      "kitšlupen",
+      "kitšlupmaň",
+      "kitšlupim",
+      "kitšlupmen",
+      "kitšlupirň",
+      "kitšlupirn",
+      "kitšlupren",
+      "kitšlupšaň",
+      "kitšlupša",
+      "kitšlupšaen",
+      "kitšlupiňši",
+      "kitšlupši",
+      "kitšlupenši"
+    ]
+  },
+  {
+    "literal": "varga",
+    "wordType": "Preposition",
+    "definitions": [
+      "beyond"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈvaʀga",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "kaho",
+    "wordType": "Noun",
+    "definitions": [
+      "call (for help)"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈkaho",
+    "examples": [],
+    "flexations": [
+      "kahoň",
+      "kaho",
+      "kahoen",
+      "kahomaň",
+      "kahom",
+      "kahomen",
+      "kahorň",
+      "kahorn",
+      "kahoren",
+      "kahošaň",
+      "kahoša",
+      "kahošaen",
+      "kahoňši",
+      "kahoši",
+      "kahoenši"
+    ]
+  },
+  {
+    "literal": "netin",
+    "wordType": "Verb",
+    "definitions": [
+      "forget"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈnetɪn",
+    "examples": [],
+    "flexations": [
+      "netirei",
+      "netimurei",
+      "netiru",
+      "netimuru",
+      "netoiru",
+      "netirae",
+      "netimurae",
+      "netin",
+      "netimurin",
+      "netoi",
+      "netitei",
+      "netimurtei",
+      "netitum",
+      "netimurtum",
+      "netoitu",
+      "netitae",
+      "netimurtae"
+    ]
   }
 ]

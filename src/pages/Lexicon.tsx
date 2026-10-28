@@ -8,16 +8,6 @@ const PAGE_SIZE = 50;
 
 const EntryCompact: Component<{ entry: DictionaryEntry, highlight: string }> = (props) => {
   const { literal, ipa, wordType, syllables, definitions, flexations } = props.entry;
-  const foundCase = () => {
-    if (
-      props.highlight !== "" &&
-      !literal.includes(props.highlight) && 
-      !definitions.find(a => a.includes(props.highlight))
-    ) {
-      return flexations.toSorted((a, b) => a.localeCompare(b)).find(a => a.includes(props.highlight));
-    }
-    return undefined;
-  };
   return (
     <div>
       <a class="w-full sm:w-auto" href={`entry/${idFromEntry(props.entry)}`}>
@@ -25,12 +15,12 @@ const EntryCompact: Component<{ entry: DictionaryEntry, highlight: string }> = (
           <div class="grid grid-cols-3 sm:flex sm:flex-row sm:justify-start items-baseline sm:space-x-3 *:whitespace-nowrap">
             <h2 class="text-base sm:text-xl text-neutral">{literal}</h2>
             <p class="text-xs text-neutral-600 sm:text-base">{IdxToLit(literal, syllables)}</p>
-            <p class="text-xs text-neutral-600 sm:text-base place-self-end sm:place-self-auto">/{ipa}/ <Listen sound={`word/${literal}`} /></p>
+            <p class="text-xs text-neutral-600 sm:text-base place-self-end sm:place-self-auto">/{ipa}/ {/*<Listen sound={`word/${literal}`} />*/}</p>
             <p class="text-xs text-neutral-600 sm:text-base font-lumaha">{toLumaha(literal)}</p>
             <p class="text-xs text-neutral-600 sm:text-base col-span-2 sm:grow text-right">{wordType}</p>
           </div>
-          <Show when={foundCase()}>
-            <p class="text-xs text-neutral-600 sm:text-base">Found Form: {foundCase()}</p>
+          <Show when={props.highlight !== ""}>
+            <p class="text-xs text-neutral-600 sm:text-base">Found Form: {props.highlight}</p>
           </Show>
           <label class="label">Definitions</label>
           <ol class="list">
@@ -49,6 +39,8 @@ const Lexicon: Component = () => {
   let [page, setPage] = createSignal(1);
   let currentTimeout: NodeJS.Timeout | undefined = undefined;
 
+  let sortedEntries = entries.toSorted((a, b) => a.literal.localeCompare(b.literal)) as DictionaryEntry[];
+
   function any<T>(iter: T[], pred: (_:T)=>boolean) {
     let a = false;
     for (let i = 0; i < iter.length; i++) {
@@ -58,17 +50,6 @@ const Lexicon: Component = () => {
       }
     }
     return a;
-  }
-
-  function orderedSetUnion<T>(a: T[][], eq: (a:T,b:T)=>boolean): T[] {
-    let c = [...a[0]];
-    a.slice(1).forEach(l => {
-      l.forEach(lv => {
-        if (!any(c, v => eq(v, lv)))
-          c.push(lv);
-      })
-    });
-    return c;
   }
 
   createEffect(() => {
@@ -86,24 +67,40 @@ const Lexicon: Component = () => {
   });
 
   let filtered = createMemo(() => {
-    let o = entries.toSorted((a, b) => a.literal.localeCompare(b.literal)) as DictionaryEntry[];
-    let q = effectiveQuery().toLowerCase()
+    let eq = effectiveQuery().toLowerCase();
+    let q = eq
       .replace(/zh/g, "ž")
       .replace(/sch/g, "š")
       .replace(/nq/g, "ň")
       .replace(/oy/g, "ö")
       .replace(/uy/g, "ü");
     let wtf = wordTypeFilter();
-    return orderedSetUnion([
-      o.filter((e) => e.literal.startsWith(q)),
-      o.filter((e) => e.literal.includes(q)),
-      o.filter((e) => any(e.definitions, d => d.startsWith(q))),
-      o.filter((e) => any(e.definitions, d => d.includes(q))),
-      o.filter((e) => any(e.flexations, f => f.startsWith(q))),
-      o.filter((e) => any(e.flexations, f => f.includes(q)))
-    ], (a,b)=>idFromEntry(a)===idFromEntry(b)).filter((e) => 
-      wtf === "All" || e.wordType === wtf
-    );
+    let acc: {entry: DictionaryEntry, similarity: number, highlight: string}[] = [];
+    sortedEntries.forEach(e => {
+      if (wtf !== "All" && e.wordType !== wtf) return;
+      let similarity = 0;
+      let highlight = "";
+      let lq = e.literal.indexOf(q);
+      if (lq >= 0) similarity = 1.0 / (lq + 1);
+      else {
+        let hs = 0;
+        e.flexations.forEach(f => {
+          let fq = f.indexOf(q);
+          if (fq < 0) return;
+          let fhs = 1.0 / (fq + 1);
+          if (fhs > hs) { 
+            highlight = f;
+            hs = fhs;
+          }
+        });
+        similarity = hs;
+      }
+      e.definitions.forEach(d => similarity += (d.includes(eq) ? any(d.split(", "), df => df.startsWith(eq)) ? 1 : 0.4 : 0));
+      if (similarity > 0)
+        acc.push({ entry: e, similarity, highlight });
+    });
+    acc.sort((a, b) => b.similarity - a.similarity);
+    return acc;
   });
 
   let pageCount = createMemo(() => Math.max(1, Math.ceil(filtered().length / PAGE_SIZE)));
@@ -161,7 +158,7 @@ const Lexicon: Component = () => {
         </div>
       </Show>
       <div class="sm:flex sm:flex-wrap *:m-1">
-        <For each={visibleEntries()}>{e => <EntryCompact entry={e as DictionaryEntry} highlight={query()} />}</For>
+        <For each={visibleEntries()}>{e => <EntryCompact entry={e.entry as DictionaryEntry} highlight={e.highlight} />}</For>
       </div>
     </div>
   );

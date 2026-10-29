@@ -1,6 +1,5 @@
 import { Component, createMemo, createSignal, For, Show, createEffect } from "solid-js";
 import { DictionaryEntry, IdxToLit, WORD_TYPES, WordType, idFromEntry, toLumaha } from "../lib/words";
-import Listen from "../components/Listen";
 import entries from "../assets/dict.json";
 import { Meta, Title } from "@solidjs/meta";
 
@@ -76,6 +75,7 @@ const Lexicon: Component = () => {
       .replace(/uy/g, "ü");
     let wtf = wordTypeFilter();
     let acc: {entry: DictionaryEntry, similarity: number, highlight: string}[] = [];
+    if (eq === "") return sortedEntries;
     sortedEntries.forEach(e => {
       if (wtf !== "All" && e.wordType !== wtf) return;
       let similarity = 0;
@@ -87,7 +87,7 @@ const Lexicon: Component = () => {
         e.flexations.forEach(f => {
           let fq = f.indexOf(q);
           if (fq < 0) return;
-          let fhs = 1.0 / (fq + 1);
+          let fhs = 0.8 / (fq + 1);
           if (fhs > hs) { 
             highlight = f;
             hs = fhs;

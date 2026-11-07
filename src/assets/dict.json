@@ -25356,24 +25356,6 @@
     ]
   },
   {
-    "literal": "imta",
-    "wordType": "Adjective",
-    "definitions": [
-      "open"
-    ],
-    "syllables": [
-      2
-    ],
-    "ipa": "ˈɪmta",
-    "examples": [],
-    "flexations": [
-      "imta",
-      "imtagua",
-      "imtahia",
-      "imtaňa"
-    ]
-  },
-  {
     "literal": "ipvonsa",
     "wordType": "Adjective",
     "definitions": [
@@ -52801,6 +52783,243 @@
       "netoitu",
       "netitae",
       "netimurtae"
+    ]
+  },
+  {
+    "literal": "imta",
+    "wordType": "Adjective",
+    "definitions": [
+      "open",
+      "exposed"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈɪmta",
+    "examples": [],
+    "flexations": [
+      "imta",
+      "imtagua",
+      "imtahia",
+      "imtaňa"
+    ]
+  },
+  {
+    "literal": "gvai",
+    "wordType": "Noun",
+    "definitions": [
+      "shadow"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈgvaʔi",
+    "examples": [],
+    "flexations": [
+      "gvaiň",
+      "gvai",
+      "gvaen",
+      "gvamaň",
+      "gvaim",
+      "gvamen",
+      "gvairň",
+      "gvairn",
+      "gvaren",
+      "gvašaň",
+      "gvaša",
+      "gvašaen",
+      "gvaiňši",
+      "gvaši",
+      "gvaenši"
+    ]
+  },
+  {
+    "literal": "naviri",
+    "wordType": "Noun",
+    "definitions": [
+      "Navira (human subspecies)"
+    ],
+    "syllables": [
+      2,
+      4
+    ],
+    "ipa": "ˈnaviʀi",
+    "examples": [],
+    "flexations": [
+      "naviriň",
+      "naviri",
+      "naviren",
+      "navirmaň",
+      "navirim",
+      "navirmen",
+      "navirirň",
+      "navirirn",
+      "naviriren",
+      "naviršaň",
+      "navirša",
+      "naviršaen",
+      "naviriňši",
+      "navirši",
+      "navirenši"
+    ]
+  },
+  {
+    "literal": "nofmu",
+    "wordType": "Noun",
+    "definitions": [
+      "mark",
+      "brand"
+    ],
+    "syllables": [
+      3
+    ],
+    "ipa": "ˈnɔfmu",
+    "examples": [],
+    "flexations": [
+      "nofmuň",
+      "nofmu",
+      "nofmuen",
+      "nofmumaň",
+      "nofmum",
+      "nofmumen",
+      "nofmurň",
+      "nofmurn",
+      "nofmuren",
+      "nofmušaň",
+      "nofmuša",
+      "nofmušaen",
+      "nofmuňši",
+      "nofmuši",
+      "nofmuenši"
+    ]
+  },
+  {
+    "literal": "nuhua",
+    "wordType": "Adjective",
+    "definitions": [
+      "numb, dampened"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈnuhwa",
+    "examples": [],
+    "flexations": [
+      "nuhua",
+      "nuhuagua",
+      "nuhuahia",
+      "nuhuaňa"
+    ]
+  },
+  {
+    "literal": "ümea",
+    "wordType": "Adjective",
+    "definitions": [
+      "last, final"
+    ],
+    "syllables": [
+      1,
+      3
+    ],
+    "ipa": "ˈymea",
+    "examples": [],
+    "flexations": [
+      "ümea",
+      "ümeagua",
+      "ümeahia",
+      "ümeaňa"
+    ]
+  },
+  {
+    "literal": "zehe",
+    "wordType": "Adverb",
+    "definitions": [
+      "still"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈzɜhɜ",
+    "examples": [],
+    "flexations": []
+  },
+  {
+    "literal": "rüdžija",
+    "wordType": "Adjective",
+    "definitions": [
+      "disappointed"
+    ],
+    "syllables": [
+      2,
+      5
+    ],
+    "ipa": "ˈʀʏdʒija",
+    "examples": [],
+    "flexations": [
+      "rüdžija",
+      "rüdžijagua",
+      "rüdžijahia",
+      "rüdžijaňa"
+    ]
+  },
+  {
+    "literal": "veri",
+    "wordType": "Noun",
+    "definitions": [
+      "tea"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈveʀi",
+    "examples": [],
+    "flexations": [
+      "veriň",
+      "veri",
+      "veren",
+      "vermaň",
+      "verim",
+      "vermen",
+      "verirň",
+      "verirn",
+      "veriren",
+      "veršaň",
+      "verša",
+      "veršaen",
+      "veriňši",
+      "verši",
+      "verenši"
+    ]
+  },
+  {
+    "literal": "emkjöin",
+    "wordType": "Verb",
+    "definitions": [
+      "infiltrate"
+    ],
+    "syllables": [
+      2
+    ],
+    "ipa": "ˈɜmkjɶ͜ɪn",
+    "examples": [],
+    "flexations": [
+      "emkjöirei",
+      "emkjöimurei",
+      "emkjöiru",
+      "emkjöimuru",
+      "emkjöoiru",
+      "emkjöirae",
+      "emkjöimurae",
+      "emkjöin",
+      "emkjöimurin",
+      "emkjöoi",
+      "emkjöitei",
+      "emkjöimurtei",
+      "emkjöitum",
+      "emkjöimurtum",
+      "emkjöoitu",
+      "emkjöitae",
+      "emkjöimurtae"
     ]
   }
 ]
